@@ -1,4 +1,4 @@
-# [Arabic Rhetoric Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric) of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
+# [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric) of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
 #### Version 0.1.0, 16 November 2025 ####
 A systematic, hierarchical classification of **Arabic rhetorical devices** by the [Encyclopedia of Arabic Rhetoric](https://al-balgha.com).
 

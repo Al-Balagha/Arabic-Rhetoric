@@ -1,18 +1,20 @@
-# Al-Balagha.com Arabic-Rhetoric Taxonomy 
-### Version 0.1.0, 16 November 2025 ###
-A structured, hierarchical, research-driven taxonomy of **Arabic rhetorical devices** by (al-Balagha.com, the Encyclopedia of Arabic Rhetoric)[https://al-balgha.com].
+# Al-Balagha.com Arabic Rhetoric Taxonomy 
+#### Version 0.1.0, 16 November 2025 ####
+A structured, hierarchical, research-driven taxonomy of **Arabic rhetorical devices** by [al-Balagha.com, the Encyclopedia of Arabic Rhetoric](https://al-balgha.com).
 
-This repository serves as the **open, citable, versioned reference** for all rhetorical device classifications used in computational analysis, corpus annotation, and digital humanities scholarship, including the **BALAGHA Score** project.
+## About ##
+This repository serves as the **open, citable, versioned reference** the Arabic rhetorical device classification developed by the Encyclopedia of Arabic Rhetoric since 2022. Used in computational analysis, corpus annotation, and digital humanities scholarship such as the [**BALAGHA Score**](https://balaghascore.com) project, the taxonomy is freely released under CC4.0 to promote the development of contemporary Arabic rhetorical studies.
 
-## 🧭 Purpose
-The al-Balagha.com Taxonomy provides:
-
+## 🧭 Purpose ##
+The al-Balagha.com Arabic Rhetoric Taxonomy provides:
 - A **comprehensive classification** of Arabic rhetorical devices  
 - Definitions grounded in classical sources with references to original sources.
 - A stable versioned archive for citation in academic writing
 
-## Versions
-This release (v0.1.0) represents the **first publicly documented version**, accompanying the first description of the taxonomy in the following academic dissertation: https://doi.org/10.48550/arXiv.2507.21106
+## Versions ##
+- v0.1.0 (16 November 2025) - the **first publicly documented version**
+-
+- , accompanying the first description of the taxonomy in the following academic dissertation: https://doi.org/10.48550/arXiv.2507.21106
 . It is a **preliminary but functional** taxonomy and will be refined on an ongoing basis.
 
 ## 📚 Structure of the Taxonomy

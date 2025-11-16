@@ -1,20 +1,23 @@
-# Al-Balagha.com Arabic Rhetoric Taxonomy 
+# [Arabic Rhetoric Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric) of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
 #### Version 0.1.0, 16 November 2025 ####
-A structured, hierarchical, research-driven taxonomy of **Arabic rhetorical devices** by [al-Balagha.com, the Encyclopedia of Arabic Rhetoric](https://al-balgha.com).
+A structured, hierarchical taxonomy of **Arabic rhetorical devices** by [al-Balagha.com, the Encyclopedia of Arabic Rhetoric](https://al-balgha.com).
 
 ## About ##
-This repository serves as the **open, citable, versioned reference** the Arabic rhetorical device classification developed by the Encyclopedia of Arabic Rhetoric since 2022. Used in computational analysis, corpus annotation, and digital humanities scholarship such as the [**BALAGHA Score**](https://balaghascore.com) project, the taxonomy is freely released under CC4.0 to promote the development of contemporary Arabic rhetorical studies.
+This repository serves as the **open, citable, versioned reference** of the Arabic rhetorical device classification of the Encyclopedia of Arabic Rhetoric. In development since 2022, the taxonomy is based on classical Arabic rhetorical theory and is suitable for use in computational analysis, corpus annotation, and digital humanities scholarship. The taxonomy is freely released under CC4.0 to promote the development of contemporary Arabic rhetorical studies, and is currently being used by the [**BALAGHA Score**](https://balaghascore.com) and other projects.
 
 ## 🧭 Purpose ##
-The al-Balagha.com Arabic Rhetoric Taxonomy provides:
-- A **comprehensive classification** of Arabic rhetorical devices  
-- Definitions grounded in classical sources with references to original sources.
-- A stable versioned archive for citation in academic writing
+The Arabic Rhetoric Taxonomy of the Encyclopedia of Arabic Rhetoric provides:
+- A **comprehensive classification** of 84 Arabic rhetorical devices based on classical Arabic sources.
+- All definitions grounded in classical sources with full references to original sources provided.
+- Examples of rhetorical device usage are provided.
+- A stable versioned repository for citation in academic writing.
 
 ## Versions ##
-- v0.1.0 (16 November 2025) - the **first publicly documented version**
--
-- , accompanying the first description of the taxonomy in the following academic dissertation: https://doi.org/10.48550/arXiv.2507.21106
+- 6 September 2022 - The taxonomy was first developed during as part of the following academic dissertation: 
+- 16 November 2025 - Release of the [**first publicly documented version** (v0.1.0)](https://github.com/Al-Balagha/Arabic-Rhetoric) on GitHub.
+
+
+accompanying the first description of the taxonomy in the following academic dissertation: https://doi.org/10.48550/arXiv.2507.21106
 . It is a **preliminary but functional** taxonomy and will be refined on an ongoing basis.
 
 ## 📚 Structure of the Taxonomy

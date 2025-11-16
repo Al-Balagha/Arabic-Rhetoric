@@ -1,5 +1,5 @@
 # Al-Balagha.com Arabic-Rhetoric Taxonomy 
-###Version 0.1.0, 16 November 2025)###
+### Version 0.1.0, 16 November 2025) ###
 A structured, hierarchical, research-driven taxonomy of **Arabic rhetorical devices** by al-Balagha.com, the Encyclopedia of Arabic Rhetoric.
 
 This repository serves as the **open, citable, versioned reference** for all rhetorical device classifications used in computational analysis, corpus annotation, and digital humanities scholarship, including the **BALAGHA Score** project.

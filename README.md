@@ -33,7 +33,7 @@ The taxonomy uses **Semantic Versioning (SemVer)**:
 * [17 November 2025 - v0.1.0](https://github.com/Al-Balagha/Arabic-Rhetoric/releases/tag/v0.1.0)  
 First publicly documented version of the taxonomy released on [GitHub](https://github.com/Al-Balagha/Arabic-Rhetoric).
 
-* 6 September 2022  - Initial draft
+* 6 September 2022  - Initial draft  
 The taxonomy was first developed as part of an [academic dissertation](https://doi.org/10.48550/arXiv.2507.21106) submitted to the University of Exeter.
 
 &nbsp;

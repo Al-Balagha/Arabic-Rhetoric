@@ -4,12 +4,11 @@ title: "Arabic Rhetorical Device Taxonomy (v0.1.0) of the Encyclopedia of Arabic
 authors:
   - family-names: "Marathe"
     given-names: "Mandar"
-    orcid: "0000-0002-6927-6836"
+    orcid: "https://orcid.org/0000-0002-6927-6836"
     email: "mandar@marathe.org"
     affiliation: "SOAS University of London"
 
-# Replace this once the DOI is minted  
-# doi: "10.5281/zenodo.xxxxxxx"
+doi: "10.5281/zenodo.17635957"
 
 date-released: "2025-11-17"
 version: "0.1.0"
@@ -21,7 +20,7 @@ preferred-citation:
   authors:
     - family-names: "Marathe"
       given-names: "Mandar"
-      orcid: "0000-0002-6927-6836"
+      orcid: "https://orcid.org/0000-0002-6927-6836"
   year: 2025
   version: "0.1.0"
   url: "https://github.com/Al-Balagha/Arabic-Rhetoric/releases/tag/v0.1.0"

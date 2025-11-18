@@ -3,6 +3,7 @@
 ### A project of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
 
 The systematic, hierarchical classification of **Arabic rhetorical devices** published by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17635957.svg)](https://doi.org/10.5281/zenodo.17635957)
 
 &nbsp;

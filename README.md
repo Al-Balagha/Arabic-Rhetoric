@@ -1,9 +1,9 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17635957.svg)](https://doi.org/10.5281/zenodo.17635957)
 [![Encyclopedia of Arabic Rhetoric](https://al-balagha.com/al-balagha-logo2.png "Encyclopedia of Arabic Rhetoric.")](https://al-balagha.com)
 # [Arabic Rhetorical Device Taxonomy (v0.1.0)](https://github.com/Al-Balagha/Arabic-Rhetoric/releases/tag/v0.1.0)
 ### A project of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
 
 The systematic, hierarchical classification of **Arabic rhetorical devices** published by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17635957.svg)](https://doi.org/10.5281/zenodo.17635957)
 
 &nbsp;
 ## ℹ️ About

@@ -1,0 +1,332 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <https://balaghabase.org/entity/> .
+@prefix data: <https://balaghabase.org/wiki/Special:EntityData/> .
+@prefix wds: <https://balaghabase.org/entity/statement/> .
+@prefix wdref: <https://balaghabase.org/reference/> .
+@prefix wdv: <https://balaghabase.org/value/> .
+@prefix wdt: <https://balaghabase.org/prop/direct/> .
+@prefix wdtn: <https://balaghabase.org/prop/direct-normalized/> .
+@prefix p: <https://balaghabase.org/prop/> .
+@prefix ps: <https://balaghabase.org/prop/statement/> .
+@prefix psv: <https://balaghabase.org/prop/statement/value/> .
+@prefix psn: <https://balaghabase.org/prop/statement/value-normalized/> .
+@prefix pq: <https://balaghabase.org/prop/qualifier/> .
+@prefix pqv: <https://balaghabase.org/prop/qualifier/value/> .
+@prefix pqn: <https://balaghabase.org/prop/qualifier/value-normalized/> .
+@prefix pr: <https://balaghabase.org/prop/reference/> .
+@prefix prv: <https://balaghabase.org/prop/reference/value/> .
+@prefix prn: <https://balaghabase.org/prop/reference/value-normalized/> .
+@prefix wdno: <https://balaghabase.org/prop/novalue/> .
+
+data:Q152 a schema:Dataset ;
+	schema:about wd:Q152 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "4197"^^xsd:integer ;
+	schema:dateModified "2025-11-20T07:39:01Z"^^xsd:dateTime ;
+	wikibase:statements "10"^^xsd:integer ;
+	wikibase:sitelinks "0"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer .
+
+wd:Q152 a wikibase:Item ;
+	wdt:P7 wd:Q67 ;
+	wdt:P4 <https://al-balagha.com/wiki/Category:Rhythmic_Structuring_%26_Balance> ;
+	wdt:P11 wd:Q128,
+		wd:Q129,
+		wd:Q130,
+		wd:Q131,
+		wd:Q132,
+		wd:Q133 ;
+	wdt:P119 wd:Q254,
+		wd:Q259 ;
+	p:P7 wds:Q152-b17d1904-4608-9660-9f28-5f7c157ade6c .
+
+wds:Q152-b17d1904-4608-9660-9f28-5f7c157ade6c a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P7 wd:Q67 .
+
+wd:Q152 p:P4 wds:Q152-86fddc97-4821-fd4a-3c8c-f3a004091630 .
+
+wds:Q152-86fddc97-4821-fd4a-3c8c-f3a004091630 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4 <https://al-balagha.com/wiki/Category:Rhythmic_Structuring_%26_Balance> .
+
+wd:Q152 p:P11 wds:Q152-b0964af0-4f0f-bf57-3d66-60aa0c7b10b3 .
+
+wds:Q152-b0964af0-4f0f-bf57-3d66-60aa0c7b10b3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q128 .
+
+wd:Q152 p:P11 wds:Q152-de7de11a-4265-a944-6782-5d97fab637c4 .
+
+wds:Q152-de7de11a-4265-a944-6782-5d97fab637c4 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q129 .
+
+wd:Q152 p:P11 wds:Q152-b6d4c6cc-493f-5d2e-43c5-4cc1f1f20061 .
+
+wds:Q152-b6d4c6cc-493f-5d2e-43c5-4cc1f1f20061 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q130 .
+
+wd:Q152 p:P11 wds:Q152-29472155-4ede-b7c4-b28c-91d0e29220ae .
+
+wds:Q152-29472155-4ede-b7c4-b28c-91d0e29220ae a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q131 .
+
+wd:Q152 p:P11 wds:Q152-648fe4b3-44e0-b1de-69a5-1ef88ea499e3 .
+
+wds:Q152-648fe4b3-44e0-b1de-69a5-1ef88ea499e3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q132 .
+
+wd:Q152 p:P11 wds:Q152-77ee83d8-4e1b-05eb-030a-8140d3724443 .
+
+wds:Q152-77ee83d8-4e1b-05eb-030a-8140d3724443 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q133 .
+
+wd:Q152 p:P119 wds:Q152-dc42f694-4231-e557-46b1-aa7bda69f59b .
+
+wds:Q152-dc42f694-4231-e557-46b1-aa7bda69f59b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q254 .
+
+wd:Q152 p:P119 wds:Q152-6a0f1d55-43fa-cb69-5be2-b7ca104793d5 .
+
+wds:Q152-6a0f1d55-43fa-cb69-5be2-b7ca104793d5 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q259 .
+
+wd:Q152 rdfs:label "Rhythmic Structuring & Balance"@en ;
+	skos:prefLabel "Rhythmic Structuring & Balance"@en ;
+	schema:name "Rhythmic Structuring & Balance"@en .
+
+wd:Q67 a wikibase:Item ;
+	rdfs:label "Linguistic Embellishments (‘ilm al-badī‘)"@en ;
+	skos:prefLabel "Linguistic Embellishments (‘ilm al-badī‘)"@en ;
+	schema:name "Linguistic Embellishments (‘ilm al-badī‘)"@en .
+
+wd:P7 a wikibase:Property ;
+	rdfs:label "part of"@en ;
+	skos:prefLabel "part of"@en ;
+	schema:name "part of"@en ;
+	schema:description "Part of an item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P7 ;
+	wikibase:claim p:P7 ;
+	wikibase:statementProperty ps:P7 ;
+	wikibase:statementValue psv:P7 ;
+	wikibase:qualifier pq:P7 ;
+	wikibase:qualifierValue pqv:P7 ;
+	wikibase:reference pr:P7 ;
+	wikibase:referenceValue prv:P7 ;
+	wikibase:novalue wdno:P7 .
+
+p:P7 a owl:ObjectProperty .
+
+psv:P7 a owl:ObjectProperty .
+
+pqv:P7 a owl:ObjectProperty .
+
+prv:P7 a owl:ObjectProperty .
+
+wdt:P7 a owl:ObjectProperty .
+
+ps:P7 a owl:ObjectProperty .
+
+pq:P7 a owl:ObjectProperty .
+
+pr:P7 a owl:ObjectProperty .
+
+wdno:P7 a owl:Class ;
+	owl:complementOf _:b3316efa17ecac96bd23cd2f352c0a22 .
+
+_:b3316efa17ecac96bd23cd2f352c0a22 a owl:Restriction ;
+	owl:onProperty wdt:P7 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P4 a wikibase:Property ;
+	rdfs:label "described at URL"@en ;
+	skos:prefLabel "described at URL"@en ;
+	schema:name "described at URL"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Url> ;
+	wikibase:directClaim wdt:P4 ;
+	wikibase:claim p:P4 ;
+	wikibase:statementProperty ps:P4 ;
+	wikibase:statementValue psv:P4 ;
+	wikibase:qualifier pq:P4 ;
+	wikibase:qualifierValue pqv:P4 ;
+	wikibase:reference pr:P4 ;
+	wikibase:referenceValue prv:P4 ;
+	wikibase:novalue wdno:P4 .
+
+p:P4 a owl:ObjectProperty .
+
+psv:P4 a owl:ObjectProperty .
+
+pqv:P4 a owl:ObjectProperty .
+
+prv:P4 a owl:ObjectProperty .
+
+wdt:P4 a owl:ObjectProperty .
+
+ps:P4 a owl:ObjectProperty .
+
+pq:P4 a owl:ObjectProperty .
+
+pr:P4 a owl:ObjectProperty .
+
+wdno:P4 a owl:Class ;
+	owl:complementOf _:c298799f0cd3665c958b9d4edf0ffbf3 .
+
+_:c298799f0cd3665c958b9d4edf0ffbf3 a owl:Restriction ;
+	owl:onProperty wdt:P4 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q128 a wikibase:Item ;
+	rdfs:label "Tail-Head"@en ;
+	skos:prefLabel "Tail-Head"@en ;
+	schema:name "Tail-Head"@en ;
+	schema:description "Arabic rhetorical device where the last word of the sentence (the \"tail\", al-‘ajz) and the first word of the sentence (the \"head\", al-ṣadr) are the same or morphologically related"@en .
+
+wd:P11 a wikibase:Property ;
+	rdfs:label "has part"@en ;
+	skos:prefLabel "has part"@en ;
+	schema:name "has part"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P11 ;
+	wikibase:claim p:P11 ;
+	wikibase:statementProperty ps:P11 ;
+	wikibase:statementValue psv:P11 ;
+	wikibase:qualifier pq:P11 ;
+	wikibase:qualifierValue pqv:P11 ;
+	wikibase:reference pr:P11 ;
+	wikibase:referenceValue prv:P11 ;
+	wikibase:novalue wdno:P11 .
+
+p:P11 a owl:ObjectProperty .
+
+psv:P11 a owl:ObjectProperty .
+
+pqv:P11 a owl:ObjectProperty .
+
+prv:P11 a owl:ObjectProperty .
+
+wdt:P11 a owl:ObjectProperty .
+
+ps:P11 a owl:ObjectProperty .
+
+pq:P11 a owl:ObjectProperty .
+
+pr:P11 a owl:ObjectProperty .
+
+wdno:P11 a owl:Class ;
+	owl:complementOf _:920e98040780659844ffa720b8f7e53b .
+
+_:920e98040780659844ffa720b8f7e53b a owl:Restriction ;
+	owl:onProperty wdt:P11 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q129 a wikibase:Item ;
+	rdfs:label "Head-Tail"@en ;
+	skos:prefLabel "Head-Tail"@en ;
+	schema:name "Head-Tail"@en ;
+	schema:description "Arabic rhetorical device where the first word of the sentence (the \"head\", al-ṣadr) is morphologically related to the last word of the previous sentence (the \"tail\", al-‘ajz)"@en .
+
+wd:Q130 a wikibase:Item ;
+	rdfs:label "Excellence of Division"@en ;
+	skos:prefLabel "Excellence of Division"@en ;
+	schema:name "Excellence of Division"@en ;
+	schema:description "Arabic rhetorical device where the communicator divides each line of a poem into two equal hemi-stiches with the same length and general syllabic structure, without necessarily rhyming"@en .
+
+wd:Q131 a wikibase:Item ;
+	rdfs:label "Metrical Ellipsis"@en ;
+	skos:prefLabel "Metrical Ellipsis"@en ;
+	schema:name "Metrical Ellipsis"@en ;
+	schema:description "Arabic rhetorical device where the rhyme and or poetic metre of a poem is such that even if some words are omitted, the rhyme or metre are maintained"@en .
+
+wd:Q132 a wikibase:Item ;
+	rdfs:label "Proportioning"@en ;
+	skos:prefLabel "Proportioning"@en ;
+	schema:name "Proportioning"@en ;
+	schema:description "Arabic rhetorical device where the communicator divides a sentence or paragraph into sentences with equal length and poetic metre"@en .
+
+wd:Q133 a wikibase:Item ;
+	rdfs:label "Hemistich Ending Concordance"@en ;
+	skos:prefLabel "Hemistich Ending Concordance"@en ;
+	schema:name "Hemistich Ending Concordance"@en ;
+	schema:description "Arabic rhetorical device in poetry where the final part of the first hemistich matches the final part of the second hemistich in meter, vowel, and rhyme"@en .
+
+wd:Q254 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"@en .
+
+wd:P119 a wikibase:Property ;
+	rdfs:label "is part of taxonomy"@en ;
+	skos:prefLabel "is part of taxonomy"@en ;
+	schema:name "is part of taxonomy"@en ;
+	schema:description "Arabic rhetorical device taxonomy which includes this item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P119 ;
+	wikibase:claim p:P119 ;
+	wikibase:statementProperty ps:P119 ;
+	wikibase:statementValue psv:P119 ;
+	wikibase:qualifier pq:P119 ;
+	wikibase:qualifierValue pqv:P119 ;
+	wikibase:reference pr:P119 ;
+	wikibase:referenceValue prv:P119 ;
+	wikibase:novalue wdno:P119 .
+
+p:P119 a owl:ObjectProperty .
+
+psv:P119 a owl:ObjectProperty .
+
+pqv:P119 a owl:ObjectProperty .
+
+prv:P119 a owl:ObjectProperty .
+
+wdt:P119 a owl:ObjectProperty .
+
+ps:P119 a owl:ObjectProperty .
+
+pq:P119 a owl:ObjectProperty .
+
+pr:P119 a owl:ObjectProperty .
+
+wdno:P119 a owl:Class ;
+	owl:complementOf _:7e9eb37ccad804051b2f00855e2cbacb .
+
+_:7e9eb37ccad804051b2f00855e2cbacb a owl:Restriction ;
+	owl:onProperty wdt:P119 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q259 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"@en .

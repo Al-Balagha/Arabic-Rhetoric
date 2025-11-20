@@ -1,0 +1,752 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <https://balaghabase.org/entity/> .
+@prefix data: <https://balaghabase.org/wiki/Special:EntityData/> .
+@prefix wds: <https://balaghabase.org/entity/statement/> .
+@prefix wdref: <https://balaghabase.org/reference/> .
+@prefix wdv: <https://balaghabase.org/value/> .
+@prefix wdt: <https://balaghabase.org/prop/direct/> .
+@prefix wdtn: <https://balaghabase.org/prop/direct-normalized/> .
+@prefix p: <https://balaghabase.org/prop/> .
+@prefix ps: <https://balaghabase.org/prop/statement/> .
+@prefix psv: <https://balaghabase.org/prop/statement/value/> .
+@prefix psn: <https://balaghabase.org/prop/statement/value-normalized/> .
+@prefix pq: <https://balaghabase.org/prop/qualifier/> .
+@prefix pqv: <https://balaghabase.org/prop/qualifier/value/> .
+@prefix pqn: <https://balaghabase.org/prop/qualifier/value-normalized/> .
+@prefix pr: <https://balaghabase.org/prop/reference/> .
+@prefix prv: <https://balaghabase.org/prop/reference/value/> .
+@prefix prn: <https://balaghabase.org/prop/reference/value-normalized/> .
+@prefix wdno: <https://balaghabase.org/prop/novalue/> .
+
+data:Q6 a schema:Dataset ;
+	schema:about wd:Q6 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "4063"^^xsd:integer ;
+	schema:dateModified "2025-11-20T07:14:28Z"^^xsd:dateTime ;
+	wikibase:statements "15"^^xsd:integer ;
+	wikibase:sitelinks "0"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer .
+
+wd:Q6 a wikibase:Item ;
+	wdt:P5 wd:Q7 ;
+	wdt:P2 wd:Q9 ;
+	wdt:P4 <https://al-balagha.com/wiki/Arabic_Rhetoric> ;
+	wdt:P10 wd:Q36 ;
+	wdt:P40 wd:Q11 ;
+	wdt:P14 wd:Q39 ;
+	wdt:P6 wd:Q3 ;
+	wdt:P11 wd:Q41,
+		wd:Q63,
+		wd:Q67,
+		wd:Q140 ;
+	wdt:P26 wd:Q242 ;
+	wdt:P68 <https://www.wikidata.org/wiki/Q2119296> ;
+	wdt:P119 wd:Q254,
+		wd:Q259 ;
+	p:P5 wds:Q6-89bfc9e2-4d2e-fe41-4d66-d8993591c7fc .
+
+wds:Q6-89bfc9e2-4d2e-fe41-4d66-d8993591c7fc a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P5 wd:Q7 .
+
+wd:Q6 p:P2 wds:Q6-a6b25c5b-4bc4-da09-a6ad-098762a629c7 .
+
+wds:Q6-a6b25c5b-4bc4-da09-a6ad-098762a629c7 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P2 wd:Q9 .
+
+wd:Q6 p:P4 wds:Q6-85cd46d3-40e4-74ee-b454-ada701d2e1fa .
+
+wds:Q6-85cd46d3-40e4-74ee-b454-ada701d2e1fa a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4 <https://al-balagha.com/wiki/Arabic_Rhetoric> ;
+	pq:P67 "2025-10-22T00:00:00Z"^^xsd:dateTime ;
+	pqv:P67 wdv:14f68766d809c908de1d3426216a2412 .
+
+wd:Q6 p:P10 wds:Q6-b6954cc0-4144-cf3c-d3da-c38de462beee .
+
+wds:Q6-b6954cc0-4144-cf3c-d3da-c38de462beee a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P10 wd:Q36 .
+
+wd:Q6 p:P40 wds:Q6-5ef708e4-416a-fe94-ae12-830f8fedc279 .
+
+wds:Q6-5ef708e4-416a-fe94-ae12-830f8fedc279 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P40 wd:Q11 .
+
+wd:Q6 p:P14 wds:Q6-89bbbb75-41ee-11b8-0d95-d26857e6a205 .
+
+wds:Q6-89bbbb75-41ee-11b8-0d95-d26857e6a205 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P14 wd:Q39 .
+
+wd:Q6 p:P6 wds:Q6-9f7ce570-4ef0-a074-ab00-d729ee324015 .
+
+wds:Q6-9f7ce570-4ef0-a074-ab00-d729ee324015 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6 wd:Q3 .
+
+wd:Q6 p:P11 wds:Q6-d08e7d3c-4b89-8bca-af1a-d1ed8d8d2796 .
+
+wds:Q6-d08e7d3c-4b89-8bca-af1a-d1ed8d8d2796 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q41 .
+
+wd:Q6 p:P11 wds:Q6-9e9507c7-4212-e3a9-98ec-e2ff5bd9fd91 .
+
+wds:Q6-9e9507c7-4212-e3a9-98ec-e2ff5bd9fd91 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q63 .
+
+wd:Q6 p:P11 wds:Q6-d6995ed7-47be-8fbb-0b9a-5c692fc28517 .
+
+wds:Q6-d6995ed7-47be-8fbb-0b9a-5c692fc28517 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q67 .
+
+wd:Q6 p:P11 wds:Q6-2b55e3f9-44b1-a1f0-4393-e83743ac8ba9 .
+
+wds:Q6-2b55e3f9-44b1-a1f0-4393-e83743ac8ba9 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q140 .
+
+wd:Q6 p:P26 wds:Q6-c33a8d6e-4f24-426b-565c-c3670eddda70 .
+
+wds:Q6-c33a8d6e-4f24-426b-565c-c3670eddda70 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P26 wd:Q242 .
+
+wd:Q6 p:P68 wds:Q6-6444aced-4040-9f46-7e3b-de1113be4bd9 .
+
+wds:Q6-6444aced-4040-9f46-7e3b-de1113be4bd9 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P68 <https://www.wikidata.org/wiki/Q2119296> ;
+	pq:P24 "Arabic rhetoric is not to be confused with the book \"Nahj al-Balagha\"."@en .
+
+wd:Q6 p:P119 wds:Q6-04f03e94-40fe-d36a-1464-641a42a49fbb .
+
+wds:Q6-04f03e94-40fe-d36a-1464-641a42a49fbb a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q254 .
+
+wd:Q6 p:P119 wds:Q6-d02fe864-4dca-ad16-74dc-f93dac5aedf0 .
+
+wds:Q6-d02fe864-4dca-ad16-74dc-f93dac5aedf0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q259 .
+
+wd:Q6 rdfs:label "Arabic rhetoric"@en ;
+	skos:prefLabel "Arabic rhetoric"@en ;
+	schema:name "Arabic rhetoric"@en ;
+	rdfs:label "البلاغة العربية"@ar ;
+	skos:prefLabel "البلاغة العربية"@ar ;
+	schema:name "البلاغة العربية"@ar ;
+	schema:description "branch of Arabic studies concerned with enhancing the effectiveness of communication"@en ;
+	skos:altLabel "balagha"@en,
+		"al-balagha"@en .
+
+wd:Q7 a wikibase:Item ;
+	rdfs:label "Arabic studies"@en ;
+	skos:prefLabel "Arabic studies"@en ;
+	schema:name "Arabic studies"@en ;
+	schema:description "academic study and research related to the Arabs and the Arab world"@en .
+
+wd:P5 a wikibase:Property ;
+	rdfs:label "discipline within"@en ;
+	skos:prefLabel "discipline within"@en ;
+	schema:name "discipline within"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P5 ;
+	wikibase:claim p:P5 ;
+	wikibase:statementProperty ps:P5 ;
+	wikibase:statementValue psv:P5 ;
+	wikibase:qualifier pq:P5 ;
+	wikibase:qualifierValue pqv:P5 ;
+	wikibase:reference pr:P5 ;
+	wikibase:referenceValue prv:P5 ;
+	wikibase:novalue wdno:P5 .
+
+p:P5 a owl:ObjectProperty .
+
+psv:P5 a owl:ObjectProperty .
+
+pqv:P5 a owl:ObjectProperty .
+
+prv:P5 a owl:ObjectProperty .
+
+wdt:P5 a owl:ObjectProperty .
+
+ps:P5 a owl:ObjectProperty .
+
+pq:P5 a owl:ObjectProperty .
+
+pr:P5 a owl:ObjectProperty .
+
+wdno:P5 a owl:Class ;
+	owl:complementOf _:5a6c7a576e39dbbe9a035303bd73cd44 .
+
+_:5a6c7a576e39dbbe9a035303bd73cd44 a owl:Restriction ;
+	owl:onProperty wdt:P5 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q9 a wikibase:Item ;
+	rdfs:label "Communication studies"@en ;
+	skos:prefLabel "Communication studies"@en ;
+	schema:name "Communication studies"@en ;
+	schema:description "academic field that deals with processes of communication"@en .
+
+wd:P2 a wikibase:Property ;
+	rdfs:label "facet of"@en ;
+	skos:prefLabel "facet of"@en ;
+	schema:name "facet of"@en ;
+	schema:description "topic of which this item is an aspect; item that offers a broader perspective on the same topic"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P2 ;
+	wikibase:claim p:P2 ;
+	wikibase:statementProperty ps:P2 ;
+	wikibase:statementValue psv:P2 ;
+	wikibase:qualifier pq:P2 ;
+	wikibase:qualifierValue pqv:P2 ;
+	wikibase:reference pr:P2 ;
+	wikibase:referenceValue prv:P2 ;
+	wikibase:novalue wdno:P2 .
+
+p:P2 a owl:ObjectProperty .
+
+psv:P2 a owl:ObjectProperty .
+
+pqv:P2 a owl:ObjectProperty .
+
+prv:P2 a owl:ObjectProperty .
+
+wdt:P2 a owl:ObjectProperty .
+
+ps:P2 a owl:ObjectProperty .
+
+pq:P2 a owl:ObjectProperty .
+
+pr:P2 a owl:ObjectProperty .
+
+wdno:P2 a owl:Class ;
+	owl:complementOf _:1f05fece3ad482b53eed1f5510da49fa .
+
+_:1f05fece3ad482b53eed1f5510da49fa a owl:Restriction ;
+	owl:onProperty wdt:P2 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P4 a wikibase:Property ;
+	rdfs:label "described at URL"@en ;
+	skos:prefLabel "described at URL"@en ;
+	schema:name "described at URL"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Url> ;
+	wikibase:directClaim wdt:P4 ;
+	wikibase:claim p:P4 ;
+	wikibase:statementProperty ps:P4 ;
+	wikibase:statementValue psv:P4 ;
+	wikibase:qualifier pq:P4 ;
+	wikibase:qualifierValue pqv:P4 ;
+	wikibase:reference pr:P4 ;
+	wikibase:referenceValue prv:P4 ;
+	wikibase:novalue wdno:P4 .
+
+p:P4 a owl:ObjectProperty .
+
+psv:P4 a owl:ObjectProperty .
+
+pqv:P4 a owl:ObjectProperty .
+
+prv:P4 a owl:ObjectProperty .
+
+wdt:P4 a owl:ObjectProperty .
+
+ps:P4 a owl:ObjectProperty .
+
+pq:P4 a owl:ObjectProperty .
+
+pr:P4 a owl:ObjectProperty .
+
+wdno:P4 a owl:Class ;
+	owl:complementOf _:c298799f0cd3665c958b9d4edf0ffbf3 .
+
+_:c298799f0cd3665c958b9d4edf0ffbf3 a owl:Restriction ;
+	owl:onProperty wdt:P4 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q36 a wikibase:Item ;
+	rdfs:label "Literature in Arabic"@en ;
+	skos:prefLabel "Literature in Arabic"@en ;
+	schema:name "Literature in Arabic"@en ;
+	schema:description "written literature of any genre in the Arabic language"@en .
+
+wd:P10 a wikibase:Property ;
+	rdfs:label "used by"@en ;
+	skos:prefLabel "used by"@en ;
+	schema:name "used by"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P10 ;
+	wikibase:claim p:P10 ;
+	wikibase:statementProperty ps:P10 ;
+	wikibase:statementValue psv:P10 ;
+	wikibase:qualifier pq:P10 ;
+	wikibase:qualifierValue pqv:P10 ;
+	wikibase:reference pr:P10 ;
+	wikibase:referenceValue prv:P10 ;
+	wikibase:novalue wdno:P10 .
+
+p:P10 a owl:ObjectProperty .
+
+psv:P10 a owl:ObjectProperty .
+
+pqv:P10 a owl:ObjectProperty .
+
+prv:P10 a owl:ObjectProperty .
+
+wdt:P10 a owl:ObjectProperty .
+
+ps:P10 a owl:ObjectProperty .
+
+pq:P10 a owl:ObjectProperty .
+
+pr:P10 a owl:ObjectProperty .
+
+wdno:P10 a owl:Class ;
+	owl:complementOf _:e9c9acebd629135c7f7ccf2b8fa36d11 .
+
+_:e9c9acebd629135c7f7ccf2b8fa36d11 a owl:Restriction ;
+	owl:onProperty wdt:P10 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q11 a wikibase:Item ;
+	rdfs:label "Rhetorical density"@en ;
+	skos:prefLabel "Rhetorical density"@en ;
+	schema:name "Rhetorical density"@en ;
+	schema:description "quantitative linguistics metric for measuring rhetorical richness in texts"@en .
+
+wd:P40 a wikibase:Property ;
+	rdfs:label "has quality"@en ;
+	skos:prefLabel "has quality"@en ;
+	schema:name "has quality"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P40 ;
+	wikibase:claim p:P40 ;
+	wikibase:statementProperty ps:P40 ;
+	wikibase:statementValue psv:P40 ;
+	wikibase:qualifier pq:P40 ;
+	wikibase:qualifierValue pqv:P40 ;
+	wikibase:reference pr:P40 ;
+	wikibase:referenceValue prv:P40 ;
+	wikibase:novalue wdno:P40 .
+
+p:P40 a owl:ObjectProperty .
+
+psv:P40 a owl:ObjectProperty .
+
+pqv:P40 a owl:ObjectProperty .
+
+prv:P40 a owl:ObjectProperty .
+
+wdt:P40 a owl:ObjectProperty .
+
+ps:P40 a owl:ObjectProperty .
+
+pq:P40 a owl:ObjectProperty .
+
+pr:P40 a owl:ObjectProperty .
+
+wdno:P40 a owl:Class ;
+	owl:complementOf _:af152a90b603ad009005e8ccb4e19421 .
+
+_:af152a90b603ad009005e8ccb4e19421 a owl:Restriction ;
+	owl:onProperty wdt:P40 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q39 a wikibase:Item ;
+	rdfs:label "Arabic rhetorical device"@en ;
+	skos:prefLabel "Arabic rhetorical device"@en ;
+	schema:name "Arabic rhetorical device"@en ;
+	schema:description "technique that an author or speaker uses in Arabic with the goal of persuading"@en .
+
+wd:P14 a wikibase:Property ;
+	rdfs:label "uses"@en ;
+	skos:prefLabel "uses"@en ;
+	schema:name "uses"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P14 ;
+	wikibase:claim p:P14 ;
+	wikibase:statementProperty ps:P14 ;
+	wikibase:statementValue psv:P14 ;
+	wikibase:qualifier pq:P14 ;
+	wikibase:qualifierValue pqv:P14 ;
+	wikibase:reference pr:P14 ;
+	wikibase:referenceValue prv:P14 ;
+	wikibase:novalue wdno:P14 .
+
+p:P14 a owl:ObjectProperty .
+
+psv:P14 a owl:ObjectProperty .
+
+pqv:P14 a owl:ObjectProperty .
+
+prv:P14 a owl:ObjectProperty .
+
+wdt:P14 a owl:ObjectProperty .
+
+ps:P14 a owl:ObjectProperty .
+
+pq:P14 a owl:ObjectProperty .
+
+pr:P14 a owl:ObjectProperty .
+
+wdno:P14 a owl:Class ;
+	owl:complementOf _:e7666bae864b401d6c92b03c375f947d .
+
+_:e7666bae864b401d6c92b03c375f947d a owl:Restriction ;
+	owl:onProperty wdt:P14 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q3 a wikibase:Item ;
+	rdfs:label "Rhetoric"@en ;
+	skos:prefLabel "Rhetoric"@en ;
+	schema:name "Rhetoric"@en ;
+	schema:description "art of persuasion, one of the three ancient arts of discourse"@en .
+
+wd:P6 a wikibase:Property ;
+	rdfs:label "subclass of"@en ;
+	skos:prefLabel "subclass of"@en ;
+	schema:name "subclass of"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P6 ;
+	wikibase:claim p:P6 ;
+	wikibase:statementProperty ps:P6 ;
+	wikibase:statementValue psv:P6 ;
+	wikibase:qualifier pq:P6 ;
+	wikibase:qualifierValue pqv:P6 ;
+	wikibase:reference pr:P6 ;
+	wikibase:referenceValue prv:P6 ;
+	wikibase:novalue wdno:P6 .
+
+p:P6 a owl:ObjectProperty .
+
+psv:P6 a owl:ObjectProperty .
+
+pqv:P6 a owl:ObjectProperty .
+
+prv:P6 a owl:ObjectProperty .
+
+wdt:P6 a owl:ObjectProperty .
+
+ps:P6 a owl:ObjectProperty .
+
+pq:P6 a owl:ObjectProperty .
+
+pr:P6 a owl:ObjectProperty .
+
+wdno:P6 a owl:Class ;
+	owl:complementOf _:756f10bc5f45e99cc0b50f82c4769b77 .
+
+_:756f10bc5f45e99cc0b50f82c4769b77 a owl:Restriction ;
+	owl:onProperty wdt:P6 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q41 a wikibase:Item ;
+	rdfs:label "Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)"@en ;
+	skos:prefLabel "Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)"@en ;
+	schema:name "Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)"@en .
+
+wd:P11 a wikibase:Property ;
+	rdfs:label "has part"@en ;
+	skos:prefLabel "has part"@en ;
+	schema:name "has part"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P11 ;
+	wikibase:claim p:P11 ;
+	wikibase:statementProperty ps:P11 ;
+	wikibase:statementValue psv:P11 ;
+	wikibase:qualifier pq:P11 ;
+	wikibase:qualifierValue pqv:P11 ;
+	wikibase:reference pr:P11 ;
+	wikibase:referenceValue prv:P11 ;
+	wikibase:novalue wdno:P11 .
+
+p:P11 a owl:ObjectProperty .
+
+psv:P11 a owl:ObjectProperty .
+
+pqv:P11 a owl:ObjectProperty .
+
+prv:P11 a owl:ObjectProperty .
+
+wdt:P11 a owl:ObjectProperty .
+
+ps:P11 a owl:ObjectProperty .
+
+pq:P11 a owl:ObjectProperty .
+
+pr:P11 a owl:ObjectProperty .
+
+wdno:P11 a owl:Class ;
+	owl:complementOf _:920e98040780659844ffa720b8f7e53b .
+
+_:920e98040780659844ffa720b8f7e53b a owl:Restriction ;
+	owl:onProperty wdt:P11 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q63 a wikibase:Item ;
+	rdfs:label "Figurative Speech (‘ilm al-bayān)"@en ;
+	skos:prefLabel "Figurative Speech (‘ilm al-bayān)"@en ;
+	schema:name "Figurative Speech (‘ilm al-bayān)"@en .
+
+wd:Q67 a wikibase:Item ;
+	rdfs:label "Linguistic Embellishments (‘ilm al-badī‘)"@en ;
+	skos:prefLabel "Linguistic Embellishments (‘ilm al-badī‘)"@en ;
+	schema:name "Linguistic Embellishments (‘ilm al-badī‘)"@en .
+
+wd:Q140 a wikibase:Item ;
+	rdfs:label "Negative Rhetorical Effects"@en ;
+	skos:prefLabel "Negative Rhetorical Effects"@en ;
+	schema:name "Negative Rhetorical Effects"@en ;
+	schema:description "errors in grammar or morphology which reduce the rhetoricity of an Arabic text"@en .
+
+wd:Q242 a wikibase:Item ;
+	rdfs:label "Works on Arabic rhetoric"@en ;
+	skos:prefLabel "Works on Arabic rhetoric"@en ;
+	schema:name "Works on Arabic rhetoric"@en ;
+	schema:description "bibliography of academic works (books, journal articles, etc.) on the subject of Arabic rhetoric"@en .
+
+wd:P26 a wikibase:Property ;
+	rdfs:label "is subject of"@en ;
+	skos:prefLabel "is subject of"@en ;
+	schema:name "is subject of"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P26 ;
+	wikibase:claim p:P26 ;
+	wikibase:statementProperty ps:P26 ;
+	wikibase:statementValue psv:P26 ;
+	wikibase:qualifier pq:P26 ;
+	wikibase:qualifierValue pqv:P26 ;
+	wikibase:reference pr:P26 ;
+	wikibase:referenceValue prv:P26 ;
+	wikibase:novalue wdno:P26 .
+
+p:P26 a owl:ObjectProperty .
+
+psv:P26 a owl:ObjectProperty .
+
+pqv:P26 a owl:ObjectProperty .
+
+prv:P26 a owl:ObjectProperty .
+
+wdt:P26 a owl:ObjectProperty .
+
+ps:P26 a owl:ObjectProperty .
+
+pq:P26 a owl:ObjectProperty .
+
+pr:P26 a owl:ObjectProperty .
+
+wdno:P26 a owl:Class ;
+	owl:complementOf _:5721745dedb17f468dc0b518d91b28b8 .
+
+_:5721745dedb17f468dc0b518d91b28b8 a owl:Restriction ;
+	owl:onProperty wdt:P26 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P68 a wikibase:Property ;
+	rdfs:label "different from (URL)"@en ;
+	skos:prefLabel "different from (URL)"@en ;
+	schema:name "different from (URL)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Url> ;
+	wikibase:directClaim wdt:P68 ;
+	wikibase:claim p:P68 ;
+	wikibase:statementProperty ps:P68 ;
+	wikibase:statementValue psv:P68 ;
+	wikibase:qualifier pq:P68 ;
+	wikibase:qualifierValue pqv:P68 ;
+	wikibase:reference pr:P68 ;
+	wikibase:referenceValue prv:P68 ;
+	wikibase:novalue wdno:P68 .
+
+p:P68 a owl:ObjectProperty .
+
+psv:P68 a owl:ObjectProperty .
+
+pqv:P68 a owl:ObjectProperty .
+
+prv:P68 a owl:ObjectProperty .
+
+wdt:P68 a owl:ObjectProperty .
+
+ps:P68 a owl:ObjectProperty .
+
+pq:P68 a owl:ObjectProperty .
+
+pr:P68 a owl:ObjectProperty .
+
+wdno:P68 a owl:Class ;
+	owl:complementOf _:876f845b5aa9df46c3769410b4980ef2 .
+
+_:876f845b5aa9df46c3769410b4980ef2 a owl:Restriction ;
+	owl:onProperty wdt:P68 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q254 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"@en .
+
+wd:P119 a wikibase:Property ;
+	rdfs:label "is part of taxonomy"@en ;
+	skos:prefLabel "is part of taxonomy"@en ;
+	schema:name "is part of taxonomy"@en ;
+	schema:description "Arabic rhetorical device taxonomy which includes this item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P119 ;
+	wikibase:claim p:P119 ;
+	wikibase:statementProperty ps:P119 ;
+	wikibase:statementValue psv:P119 ;
+	wikibase:qualifier pq:P119 ;
+	wikibase:qualifierValue pqv:P119 ;
+	wikibase:reference pr:P119 ;
+	wikibase:referenceValue prv:P119 ;
+	wikibase:novalue wdno:P119 .
+
+p:P119 a owl:ObjectProperty .
+
+psv:P119 a owl:ObjectProperty .
+
+pqv:P119 a owl:ObjectProperty .
+
+prv:P119 a owl:ObjectProperty .
+
+wdt:P119 a owl:ObjectProperty .
+
+ps:P119 a owl:ObjectProperty .
+
+pq:P119 a owl:ObjectProperty .
+
+pr:P119 a owl:ObjectProperty .
+
+wdno:P119 a owl:Class ;
+	owl:complementOf _:7e9eb37ccad804051b2f00855e2cbacb .
+
+_:7e9eb37ccad804051b2f00855e2cbacb a owl:Restriction ;
+	owl:onProperty wdt:P119 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q259 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"@en .
+
+wd:P67 a wikibase:Property ;
+	rdfs:label "retrieved"@en ;
+	skos:prefLabel "retrieved"@en ;
+	schema:name "retrieved"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Time> ;
+	wikibase:directClaim wdt:P67 ;
+	wikibase:claim p:P67 ;
+	wikibase:statementProperty ps:P67 ;
+	wikibase:statementValue psv:P67 ;
+	wikibase:qualifier pq:P67 ;
+	wikibase:qualifierValue pqv:P67 ;
+	wikibase:reference pr:P67 ;
+	wikibase:referenceValue prv:P67 ;
+	wikibase:novalue wdno:P67 .
+
+p:P67 a owl:ObjectProperty .
+
+psv:P67 a owl:ObjectProperty .
+
+pqv:P67 a owl:ObjectProperty .
+
+prv:P67 a owl:ObjectProperty .
+
+wdt:P67 a owl:DatatypeProperty .
+
+ps:P67 a owl:DatatypeProperty .
+
+pq:P67 a owl:DatatypeProperty .
+
+pr:P67 a owl:DatatypeProperty .
+
+wdno:P67 a owl:Class ;
+	owl:complementOf _:fb4af2e463edc3c5bcfdd04432e3ed85 .
+
+_:fb4af2e463edc3c5bcfdd04432e3ed85 a owl:Restriction ;
+	owl:onProperty wdt:P67 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P24 a wikibase:Property ;
+	rdfs:label "definition"@en ;
+	skos:prefLabel "definition"@en ;
+	schema:name "definition"@en ;
+	schema:description "Longer descriptive definition of the item, with language tag"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Monolingualtext> ;
+	wikibase:directClaim wdt:P24 ;
+	wikibase:claim p:P24 ;
+	wikibase:statementProperty ps:P24 ;
+	wikibase:statementValue psv:P24 ;
+	wikibase:qualifier pq:P24 ;
+	wikibase:qualifierValue pqv:P24 ;
+	wikibase:reference pr:P24 ;
+	wikibase:referenceValue prv:P24 ;
+	wikibase:novalue wdno:P24 .
+
+p:P24 a owl:ObjectProperty .
+
+psv:P24 a owl:ObjectProperty .
+
+pqv:P24 a owl:ObjectProperty .
+
+prv:P24 a owl:ObjectProperty .
+
+wdt:P24 a owl:DatatypeProperty .
+
+ps:P24 a owl:DatatypeProperty .
+
+pq:P24 a owl:DatatypeProperty .
+
+pr:P24 a owl:DatatypeProperty .
+
+wdno:P24 a owl:Class ;
+	owl:complementOf _:8eb377f6ea0003a752c5e3eacaf673aa .
+
+_:8eb377f6ea0003a752c5e3eacaf673aa a owl:Restriction ;
+	owl:onProperty wdt:P24 ;
+	owl:someValuesFrom owl:Thing .
+
+wdv:14f68766d809c908de1d3426216a2412 a wikibase:TimeValue ;
+	wikibase:timeValue "2025-10-22T00:00:00Z"^^xsd:dateTime ;
+	wikibase:timePrecision "11"^^xsd:integer ;
+	wikibase:timeTimezone "0"^^xsd:integer ;
+	wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> .

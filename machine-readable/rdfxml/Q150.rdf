@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:ontolex="http://www.w3.org/ns/lemon/ontolex#" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wikibase="http://wikiba.se/ontology#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:cc="http://creativecommons.org/ns#" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:wd="https://balaghabase.org/entity/" xmlns:data="https://balaghabase.org/wiki/Special:EntityData/" xmlns:wds="https://balaghabase.org/entity/statement/" xmlns:wdref="https://balaghabase.org/reference/" xmlns:wdv="https://balaghabase.org/value/" xmlns:wdt="https://balaghabase.org/prop/direct/" xmlns:wdtn="https://balaghabase.org/prop/direct-normalized/" xmlns:p="https://balaghabase.org/prop/" xmlns:ps="https://balaghabase.org/prop/statement/" xmlns:psv="https://balaghabase.org/prop/statement/value/" xmlns:psn="https://balaghabase.org/prop/statement/value-normalized/" xmlns:pq="https://balaghabase.org/prop/qualifier/" xmlns:pqv="https://balaghabase.org/prop/qualifier/value/" xmlns:pqn="https://balaghabase.org/prop/qualifier/value-normalized/" xmlns:pr="https://balaghabase.org/prop/reference/" xmlns:prv="https://balaghabase.org/prop/reference/value/" xmlns:prn="https://balaghabase.org/prop/reference/value-normalized/" xmlns:wdno="https://balaghabase.org/prop/novalue/">
+	<rdf:Description rdf:about="https://balaghabase.org/wiki/Special:EntityData/Q150">
+		<rdf:type rdf:resource="http://schema.org/Dataset"/>
+		<schema:about rdf:resource="https://balaghabase.org/entity/Q150"/>
+		<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+		<schema:softwareVersion>1.0.0</schema:softwareVersion>
+		<schema:version rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4187</schema:version>
+		<schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-20T07:33:16Z</schema:dateModified>
+		<wikibase:statements rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</wikibase:statements>
+		<wikibase:sitelinks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</wikibase:sitelinks>
+		<wikibase:identifiers rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</wikibase:identifiers>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<wdt:P7 rdf:resource="https://balaghabase.org/entity/Q67"/>
+		<wdt:P4 rdf:resource="https://al-balagha.com/wiki/Category:Persuasive_Tricks"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q110"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q111"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q112"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q113"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q114"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q115"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q116"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q117"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q118"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q119"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q120"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q121"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q122"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q123"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q124"/>
+		<wdt:P119 rdf:resource="https://balaghabase.org/entity/Q254"/>
+		<wdt:P119 rdf:resource="https://balaghabase.org/entity/Q259"/>
+		<p:P7 rdf:resource="https://balaghabase.org/entity/statement/Q150-a5f8fe58-4cd0-fa59-d836-008533f0dff4"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-a5f8fe58-4cd0-fa59-d836-008533f0dff4">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P7 rdf:resource="https://balaghabase.org/entity/Q67"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P4 rdf:resource="https://balaghabase.org/entity/statement/Q150-450e12d9-4399-3b87-2e6c-1f8285cead60"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-450e12d9-4399-3b87-2e6c-1f8285cead60">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P4 rdf:resource="https://al-balagha.com/wiki/Category:Persuasive_Tricks"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-3e565915-4c38-e23b-7a52-05dee2fcf9b9"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-3e565915-4c38-e23b-7a52-05dee2fcf9b9">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q110"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-1a64def7-435b-f10b-8927-6ec183fb1db6"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-1a64def7-435b-f10b-8927-6ec183fb1db6">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q111"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-ab1533c1-4cf3-a0a6-5716-0565f0503e35"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-ab1533c1-4cf3-a0a6-5716-0565f0503e35">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q112"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-83d14075-49e8-b39a-afc3-e37d8e8856fc"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-83d14075-49e8-b39a-afc3-e37d8e8856fc">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q113"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-08906ee4-4990-276c-0237-6c5dc56ec74b"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-08906ee4-4990-276c-0237-6c5dc56ec74b">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q114"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-e7a64dce-4e5c-75e8-c688-2b5aa5059276"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-e7a64dce-4e5c-75e8-c688-2b5aa5059276">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q115"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-715379de-47b6-f680-9f14-6038db30317a"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-715379de-47b6-f680-9f14-6038db30317a">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q116"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-4a3d2156-47f7-5bae-b9f9-0aaa07a1da34"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-4a3d2156-47f7-5bae-b9f9-0aaa07a1da34">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q117"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-419a6c49-4f51-c652-dbe1-0c1de20d56f9"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-419a6c49-4f51-c652-dbe1-0c1de20d56f9">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q118"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-29eb3688-403f-4b00-8470-814e362092c3"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-29eb3688-403f-4b00-8470-814e362092c3">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q119"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-e3096ac5-447d-8d4b-5ea5-427acf2f9bff"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-e3096ac5-447d-8d4b-5ea5-427acf2f9bff">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q120"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-4dfb4bca-4ba2-9cb7-b15b-ca00fcb9c13a"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-4dfb4bca-4ba2-9cb7-b15b-ca00fcb9c13a">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q121"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-4b65f9f3-4780-2e94-0fa4-fe97628ff9ac"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-4b65f9f3-4780-2e94-0fa4-fe97628ff9ac">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q122"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-63b2111b-4ddb-c001-152e-0abaa5e2955b"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-63b2111b-4ddb-c001-152e-0abaa5e2955b">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q123"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q150-b69ecf36-43b5-b108-a481-b05805ec7bef"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-b69ecf36-43b5-b108-a481-b05805ec7bef">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q124"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P119 rdf:resource="https://balaghabase.org/entity/statement/Q150-a473b26e-45ac-c829-b539-04568226cb2b"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-a473b26e-45ac-c829-b539-04568226cb2b">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P119 rdf:resource="https://balaghabase.org/entity/Q254"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<p:P119 rdf:resource="https://balaghabase.org/entity/statement/Q150-0792b692-4e09-2285-e7ce-9c389b4bc635"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q150-0792b692-4e09-2285-e7ce-9c389b4bc635">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P119 rdf:resource="https://balaghabase.org/entity/Q259"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q150">
+		<rdfs:label xml:lang="en">Persuasive Tricks</rdfs:label>
+		<skos:prefLabel xml:lang="en">Persuasive Tricks</skos:prefLabel>
+		<schema:name xml:lang="en">Persuasive Tricks</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q67">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Linguistic Embellishments (‘ilm al-badī‘)</rdfs:label>
+		<skos:prefLabel xml:lang="en">Linguistic Embellishments (‘ilm al-badī‘)</skos:prefLabel>
+		<schema:name xml:lang="en">Linguistic Embellishments (‘ilm al-badī‘)</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P7">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">part of</rdfs:label>
+		<skos:prefLabel xml:lang="en">part of</skos:prefLabel>
+		<schema:name xml:lang="en">part of</schema:name>
+		<schema:description xml:lang="en">Part of an item</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P7"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P7"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P7"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P7"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P7"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P7"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P7"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P7"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P7"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P7">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="b3316efa17ecac96bd23cd2f352c0a22"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="b3316efa17ecac96bd23cd2f352c0a22">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P7"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P4">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">described at URL</rdfs:label>
+		<skos:prefLabel xml:lang="en">described at URL</skos:prefLabel>
+		<schema:name xml:lang="en">described at URL</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Url"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P4"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P4"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P4"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P4"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P4"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P4"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P4"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P4"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P4"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="c298799f0cd3665c958b9d4edf0ffbf3"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="c298799f0cd3665c958b9d4edf0ffbf3">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P4"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q110">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Hyperbole</rdfs:label>
+		<skos:prefLabel xml:lang="en">Hyperbole</skos:prefLabel>
+		<schema:name xml:lang="en">Hyperbole</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator exaggerates in describing a proposition</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P11">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">has part</rdfs:label>
+		<skos:prefLabel xml:lang="en">has part</skos:prefLabel>
+		<schema:name xml:lang="en">has part</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P11"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P11"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P11"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P11"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P11"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P11"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P11"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P11"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P11"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="920e98040780659844ffa720b8f7e53b"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="920e98040780659844ffa720b8f7e53b">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P11"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q111">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Fanciful Causation</rdfs:label>
+		<skos:prefLabel xml:lang="en">Fanciful Causation</skos:prefLabel>
+		<schema:name xml:lang="en">Fanciful Causation</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator denies the obvious cause of something happening, and instead proposes a different but fanciful cause</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q112">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Rhetorical Concession</rdfs:label>
+		<skos:prefLabel xml:lang="en">Rhetorical Concession</skos:prefLabel>
+		<schema:name xml:lang="en">Rhetorical Concession</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator appears to concede to an opponent&#039;s accusation or argument, only to follow it with a justification, mitigating explanation, or rebuttal</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q113">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Affirmed Praise</rdfs:label>
+		<skos:prefLabel xml:lang="en">Affirmed Praise</skos:prefLabel>
+		<schema:name xml:lang="en">Affirmed Praise</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator praises, then indicates that there is an exception to the praise, and then affirms the original praise by praising again</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q114">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Affirmed Dispraise</rdfs:label>
+		<skos:prefLabel xml:lang="en">Affirmed Dispraise</skos:prefLabel>
+		<schema:name xml:lang="en">Affirmed Dispraise</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator criticises, then indicates that there is an exception to the criticism, and then affirms the original criticism by criticising again</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q115">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Affirmation by Negation</rdfs:label>
+		<skos:prefLabel xml:lang="en">Affirmation by Negation</skos:prefLabel>
+		<schema:name xml:lang="en">Affirmation by Negation</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator alludes to a word by negating its antonym, for emphasis, praise, or denial</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q116">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Praise-Blame Dichotomy</rdfs:label>
+		<skos:prefLabel xml:lang="en">Praise-Blame Dichotomy</skos:prefLabel>
+		<schema:name xml:lang="en">Praise-Blame Dichotomy</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device in which a subject is praised after being criticized, or criticized after being praised, enhancing the emotional impact, sharpening the tone, and revealing layered meaning</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q117">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Feigned Ignorance</rdfs:label>
+		<skos:prefLabel xml:lang="en">Feigned Ignorance</skos:prefLabel>
+		<schema:name xml:lang="en">Feigned Ignorance</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator knows something but pretends not to know, thus expressing amazement, praise, dispraise, disapproval, or to reprimand, or create a sense of familiarity</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q118">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Diminishing Expression</rdfs:label>
+		<skos:prefLabel xml:lang="en">Diminishing Expression</skos:prefLabel>
+		<schema:name xml:lang="en">Diminishing Expression</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device in which the communicator intentionally uses language that minimizes, devalues, or belittles a person, object, or idea to make it seem less significant, impressive, or worthy</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q119">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Addressing the Non-Human</rdfs:label>
+		<skos:prefLabel xml:lang="en">Addressing the Non-Human</skos:prefLabel>
+		<schema:name xml:lang="en">Addressing the Non-Human</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device involving a form of personification where the communicator directly addresses a non-human object as if it was human</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q120">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Personification</rdfs:label>
+		<skos:prefLabel xml:lang="en">Personification</skos:prefLabel>
+		<schema:name xml:lang="en">Personification</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator refers to non-human objects as if they were human</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q121">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Sarcasm</rdfs:label>
+		<skos:prefLabel xml:lang="en">Sarcasm</skos:prefLabel>
+		<schema:name xml:lang="en">Sarcasm</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device in which the communicator indirectly criticises, rebukes, or refutes by mentioning something positive which the addressee can understand or infer as actually being negative</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q122">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Humour Through Which Seriousness is Intended</rdfs:label>
+		<skos:prefLabel xml:lang="en">Humour Through Which Seriousness is Intended</skos:prefLabel>
+		<schema:name xml:lang="en">Humour Through Which Seriousness is Intended</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device involving the use of humour or lightness to convey a serious point</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q123">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Retraction</rdfs:label>
+		<skos:prefLabel xml:lang="en">Retraction</skos:prefLabel>
+		<schema:name xml:lang="en">Retraction</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device involving the recanting or semantically reversal of a statement, often used for emphasis or dramatic effect</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q124">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Finesse of Requesting</rdfs:label>
+		<skos:prefLabel xml:lang="en">Finesse of Requesting</skos:prefLabel>
+		<schema:name xml:lang="en">Finesse of Requesting</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device where the communicator conveys his desire or need without explicitly making a direct request or demand, allowing the addressee to implicitly understands what the communicator is asking for</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q254">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.0</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.0</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.0</schema:name>
+		<schema:description xml:lang="en">version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P119">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">is part of taxonomy</rdfs:label>
+		<skos:prefLabel xml:lang="en">is part of taxonomy</skos:prefLabel>
+		<schema:name xml:lang="en">is part of taxonomy</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device taxonomy which includes this item</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P119"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P119"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P119"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P119"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P119"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P119"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P119"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P119"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P119"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="7e9eb37ccad804051b2f00855e2cbacb"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="7e9eb37ccad804051b2f00855e2cbacb">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P119"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q259">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.1</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.1</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.1</schema:name>
+		<schema:description xml:lang="en">version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025</schema:description>
+	</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1585 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <https://balaghabase.org/entity/> .
+@prefix data: <https://balaghabase.org/wiki/Special:EntityData/> .
+@prefix wds: <https://balaghabase.org/entity/statement/> .
+@prefix wdref: <https://balaghabase.org/reference/> .
+@prefix wdv: <https://balaghabase.org/value/> .
+@prefix wdt: <https://balaghabase.org/prop/direct/> .
+@prefix wdtn: <https://balaghabase.org/prop/direct-normalized/> .
+@prefix p: <https://balaghabase.org/prop/> .
+@prefix ps: <https://balaghabase.org/prop/statement/> .
+@prefix psv: <https://balaghabase.org/prop/statement/value/> .
+@prefix psn: <https://balaghabase.org/prop/statement/value-normalized/> .
+@prefix pq: <https://balaghabase.org/prop/qualifier/> .
+@prefix pqv: <https://balaghabase.org/prop/qualifier/value/> .
+@prefix pqn: <https://balaghabase.org/prop/qualifier/value-normalized/> .
+@prefix pr: <https://balaghabase.org/prop/reference/> .
+@prefix prv: <https://balaghabase.org/prop/reference/value/> .
+@prefix prn: <https://balaghabase.org/prop/reference/value-normalized/> .
+@prefix wdno: <https://balaghabase.org/prop/novalue/> .
+
+data:Q39 a schema:Dataset ;
+	schema:about wd:Q39 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "4066"^^xsd:integer ;
+	schema:dateModified "2025-11-20T07:14:56Z"^^xsd:dateTime ;
+	wikibase:statements "99"^^xsd:integer ;
+	wikibase:sitelinks "0"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer .
+
+wd:Q39 a wikibase:Item ;
+	wdt:P6 wd:Q10 ;
+	wdt:P10 wd:Q6 ;
+	wdt:P15 wd:Q40,
+		wd:Q42,
+		wd:Q44,
+		wd:Q45,
+		wd:Q46,
+		wd:Q47,
+		wd:Q48,
+		wd:Q49,
+		wd:Q50,
+		wd:Q51,
+		wd:Q52,
+		wd:Q53,
+		wd:Q55,
+		wd:Q56,
+		wd:Q57,
+		wd:Q58,
+		wd:Q59,
+		wd:Q60,
+		wd:Q61,
+		wd:Q62,
+		wd:Q66,
+		wd:Q68,
+		wd:Q64,
+		wd:Q69,
+		wd:Q70,
+		wd:Q71,
+		wd:Q72,
+		wd:Q73,
+		wd:Q74,
+		wd:Q75,
+		wd:Q81,
+		wd:Q82,
+		wd:Q83,
+		wd:Q84,
+		wd:Q85,
+		wd:Q86,
+		wd:Q87,
+		wd:Q88,
+		wd:Q89,
+		wd:Q90,
+		wd:Q91,
+		wd:Q92,
+		wd:Q93,
+		wd:Q94,
+		wd:Q95,
+		wd:Q96,
+		wd:Q97,
+		wd:Q98,
+		wd:Q99,
+		wd:Q100,
+		wd:Q101,
+		wd:Q102,
+		wd:Q103,
+		wd:Q104,
+		wd:Q105,
+		wd:Q106,
+		wd:Q108,
+		wd:Q109,
+		wd:Q110,
+		wd:Q111,
+		wd:Q112,
+		wd:Q113,
+		wd:Q114,
+		wd:Q115,
+		wd:Q116,
+		wd:Q117,
+		wd:Q118,
+		wd:Q119,
+		wd:Q120,
+		wd:Q121,
+		wd:Q122,
+		wd:Q123,
+		wd:Q124,
+		wd:Q125,
+		wd:Q126,
+		wd:Q127,
+		wd:Q128,
+		wd:Q129,
+		wd:Q130,
+		wd:Q131,
+		wd:Q132,
+		wd:Q133,
+		wd:Q76,
+		wd:Q77,
+		wd:Q78,
+		wd:Q79,
+		wd:Q80,
+		wd:Q134,
+		wd:Q139,
+		wd:Q135,
+		wd:Q136,
+		wd:Q137,
+		wd:Q138,
+		wd:Q54,
+		wd:Q107 ;
+	wdt:P119 wd:Q254,
+		wd:Q259 ;
+	p:P6 wds:Q39-2d7ccf48-4557-36b1-c940-06fc8e322955 .
+
+wds:Q39-2d7ccf48-4557-36b1-c940-06fc8e322955 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P6 wd:Q10 .
+
+wd:Q39 p:P10 wds:Q39-8a9af062-4394-cf70-ae3a-aa2ddbdbc0b4 .
+
+wds:Q39-8a9af062-4394-cf70-ae3a-aa2ddbdbc0b4 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P10 wd:Q6 .
+
+wd:Q39 p:P15 wds:Q39-ce641152-42fa-c9a0-03c7-9c1eb223af5d .
+
+wds:Q39-ce641152-42fa-c9a0-03c7-9c1eb223af5d a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q40 .
+
+wd:Q39 p:P15 wds:Q39-1a5a7653-499a-fd03-8279-5a806f894dba .
+
+wds:Q39-1a5a7653-499a-fd03-8279-5a806f894dba a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q42 .
+
+wd:Q39 p:P15 wds:Q39-4245a1ad-40c0-2a7c-46fa-7247f986afde .
+
+wds:Q39-4245a1ad-40c0-2a7c-46fa-7247f986afde a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q44 .
+
+wd:Q39 p:P15 wds:Q39-87c43d3e-4071-cb34-38dd-64995cdfd124 .
+
+wds:Q39-87c43d3e-4071-cb34-38dd-64995cdfd124 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q45 .
+
+wd:Q39 p:P15 wds:Q39-505af4da-446b-6fe6-229f-1b230e5cb987 .
+
+wds:Q39-505af4da-446b-6fe6-229f-1b230e5cb987 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q46 .
+
+wd:Q39 p:P15 wds:Q39-4b27e9cb-48da-8800-54bf-fc26406256cc .
+
+wds:Q39-4b27e9cb-48da-8800-54bf-fc26406256cc a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q47 .
+
+wd:Q39 p:P15 wds:Q39-621e93af-4133-3fd9-e096-712e372154d4 .
+
+wds:Q39-621e93af-4133-3fd9-e096-712e372154d4 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q48 .
+
+wd:Q39 p:P15 wds:Q39-15c77c5f-471f-41d2-c733-b2a1a3dc8b99 .
+
+wds:Q39-15c77c5f-471f-41d2-c733-b2a1a3dc8b99 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q49 .
+
+wd:Q39 p:P15 wds:Q39-13b5c935-4e05-cdf1-2115-359a37e6ac06 .
+
+wds:Q39-13b5c935-4e05-cdf1-2115-359a37e6ac06 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q50 .
+
+wd:Q39 p:P15 wds:Q39-b1d201dd-4e56-ced8-24c2-7e55074221de .
+
+wds:Q39-b1d201dd-4e56-ced8-24c2-7e55074221de a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q51 .
+
+wd:Q39 p:P15 wds:Q39-c70254c0-4339-365e-26ea-8257c7722b8b .
+
+wds:Q39-c70254c0-4339-365e-26ea-8257c7722b8b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q52 .
+
+wd:Q39 p:P15 wds:Q39-83477d6f-48b4-ff2e-d7fc-a2fc56fa8f96 .
+
+wds:Q39-83477d6f-48b4-ff2e-d7fc-a2fc56fa8f96 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q53 .
+
+wd:Q39 p:P15 wds:Q39-a32abaa7-43a1-bde3-58ac-0fc835b31ebc .
+
+wds:Q39-a32abaa7-43a1-bde3-58ac-0fc835b31ebc a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q55 .
+
+wd:Q39 p:P15 wds:Q39-702060ec-4a34-f845-4d19-673b7b45ada1 .
+
+wds:Q39-702060ec-4a34-f845-4d19-673b7b45ada1 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q56 .
+
+wd:Q39 p:P15 wds:Q39-ead530a5-4155-712c-c529-607a2729c961 .
+
+wds:Q39-ead530a5-4155-712c-c529-607a2729c961 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q57 .
+
+wd:Q39 p:P15 wds:Q39-47fac21b-498f-5304-342d-208ce4f8615f .
+
+wds:Q39-47fac21b-498f-5304-342d-208ce4f8615f a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q58 .
+
+wd:Q39 p:P15 wds:Q39-8a51c0f6-4655-919e-76c3-1610664a07ed .
+
+wds:Q39-8a51c0f6-4655-919e-76c3-1610664a07ed a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q59 .
+
+wd:Q39 p:P15 wds:Q39-09d5e5cd-42e0-b0e0-82a1-2b4a541b2302 .
+
+wds:Q39-09d5e5cd-42e0-b0e0-82a1-2b4a541b2302 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q60 .
+
+wd:Q39 p:P15 wds:Q39-9b532beb-4cfc-d714-03ab-eeb9f94ce15c .
+
+wds:Q39-9b532beb-4cfc-d714-03ab-eeb9f94ce15c a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q61 .
+
+wd:Q39 p:P15 wds:Q39-c83d72bd-43d2-a629-172b-4524603edded .
+
+wds:Q39-c83d72bd-43d2-a629-172b-4524603edded a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q62 .
+
+wd:Q39 p:P15 wds:Q39-67b7cebd-4e73-7d63-4e70-8d1d8e16c8d9 .
+
+wds:Q39-67b7cebd-4e73-7d63-4e70-8d1d8e16c8d9 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q66 .
+
+wd:Q39 p:P15 wds:Q39-639cf7ce-4fb3-f0ea-bdb9-dac333a69690 .
+
+wds:Q39-639cf7ce-4fb3-f0ea-bdb9-dac333a69690 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q68 .
+
+wd:Q39 p:P15 wds:Q39-913eeb27-420c-c12a-aecd-b0623c41ed25 .
+
+wds:Q39-913eeb27-420c-c12a-aecd-b0623c41ed25 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q64 .
+
+wd:Q39 p:P15 wds:Q39-cc6be811-486c-c406-0b24-ae8da88b1f33 .
+
+wds:Q39-cc6be811-486c-c406-0b24-ae8da88b1f33 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q69 .
+
+wd:Q39 p:P15 wds:Q39-04e8a914-43f9-be8b-065a-8c4c1e2f6eba .
+
+wds:Q39-04e8a914-43f9-be8b-065a-8c4c1e2f6eba a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q70 .
+
+wd:Q39 p:P15 wds:Q39-739283c8-4cc9-3ba8-0241-d169f592a1c5 .
+
+wds:Q39-739283c8-4cc9-3ba8-0241-d169f592a1c5 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q71 .
+
+wd:Q39 p:P15 wds:Q39-a674cbab-45a3-6750-408d-266390c27fb0 .
+
+wds:Q39-a674cbab-45a3-6750-408d-266390c27fb0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q72 .
+
+wd:Q39 p:P15 wds:Q39-d284382a-4beb-454d-ef2a-0440adb130c9 .
+
+wds:Q39-d284382a-4beb-454d-ef2a-0440adb130c9 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q73 .
+
+wd:Q39 p:P15 wds:Q39-24b89b0a-4aae-646c-01ab-a551b6d229e0 .
+
+wds:Q39-24b89b0a-4aae-646c-01ab-a551b6d229e0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q74 .
+
+wd:Q39 p:P15 wds:Q39-4ab93d1c-40d6-256f-5836-395131b42754 .
+
+wds:Q39-4ab93d1c-40d6-256f-5836-395131b42754 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q75 .
+
+wd:Q39 p:P15 wds:Q39-1f2b8dac-4c31-dd26-134e-e75eb9324821 .
+
+wds:Q39-1f2b8dac-4c31-dd26-134e-e75eb9324821 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q81 .
+
+wd:Q39 p:P15 wds:Q39-8d41300d-4518-6c79-0a1d-663de92be7b0 .
+
+wds:Q39-8d41300d-4518-6c79-0a1d-663de92be7b0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q82 .
+
+wd:Q39 p:P15 wds:Q39-24b6e6fa-4a11-3b3e-d1db-eebd09f7371f .
+
+wds:Q39-24b6e6fa-4a11-3b3e-d1db-eebd09f7371f a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q83 .
+
+wd:Q39 p:P15 wds:Q39-a60c30a1-4bb9-6f0f-4e60-d335240fe2c7 .
+
+wds:Q39-a60c30a1-4bb9-6f0f-4e60-d335240fe2c7 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q84 .
+
+wd:Q39 p:P15 wds:Q39-58a4ed98-4889-98f8-8761-e4bb059c5cb6 .
+
+wds:Q39-58a4ed98-4889-98f8-8761-e4bb059c5cb6 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q85 .
+
+wd:Q39 p:P15 wds:Q39-ec73e04c-4dca-11e1-39f6-98339920a665 .
+
+wds:Q39-ec73e04c-4dca-11e1-39f6-98339920a665 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q86 .
+
+wd:Q39 p:P15 wds:Q39-cd6426f3-4813-484d-d1e1-ab142d116dbf .
+
+wds:Q39-cd6426f3-4813-484d-d1e1-ab142d116dbf a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q87 .
+
+wd:Q39 p:P15 wds:Q39-448d229d-41fe-78f2-ecd4-a88a19679e2b .
+
+wds:Q39-448d229d-41fe-78f2-ecd4-a88a19679e2b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q88 .
+
+wd:Q39 p:P15 wds:Q39-5dfc46f4-455a-9873-a677-e0ac73dc324c .
+
+wds:Q39-5dfc46f4-455a-9873-a677-e0ac73dc324c a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q89 .
+
+wd:Q39 p:P15 wds:Q39-30c34f65-4dd5-e53e-115d-d656a259245c .
+
+wds:Q39-30c34f65-4dd5-e53e-115d-d656a259245c a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q90 .
+
+wd:Q39 p:P15 wds:Q39-82c1d5e2-4472-8b86-3cea-3b0872bce4a8 .
+
+wds:Q39-82c1d5e2-4472-8b86-3cea-3b0872bce4a8 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q91 .
+
+wd:Q39 p:P15 wds:Q39-7f12aef7-42bb-92c8-be20-760c2e32a751 .
+
+wds:Q39-7f12aef7-42bb-92c8-be20-760c2e32a751 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q92 .
+
+wd:Q39 p:P15 wds:Q39-d00869a0-4948-0ff6-6184-97dcaf706619 .
+
+wds:Q39-d00869a0-4948-0ff6-6184-97dcaf706619 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q93 .
+
+wd:Q39 p:P15 wds:Q39-d0d0d126-4018-1a85-facc-37287c6a5a65 .
+
+wds:Q39-d0d0d126-4018-1a85-facc-37287c6a5a65 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q94 .
+
+wd:Q39 p:P15 wds:Q39-84c4ec0d-4086-58f0-bd79-85004b2f588b .
+
+wds:Q39-84c4ec0d-4086-58f0-bd79-85004b2f588b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q95 .
+
+wd:Q39 p:P15 wds:Q39-bb0204c1-443f-fdd0-b100-be579add9946 .
+
+wds:Q39-bb0204c1-443f-fdd0-b100-be579add9946 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q96 .
+
+wd:Q39 p:P15 wds:Q39-6cee9f92-4da0-e8ef-da8e-37c0f51ddaa0 .
+
+wds:Q39-6cee9f92-4da0-e8ef-da8e-37c0f51ddaa0 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q97 .
+
+wd:Q39 p:P15 wds:Q39-0f5d239d-426a-b868-3a98-6d3dcac43161 .
+
+wds:Q39-0f5d239d-426a-b868-3a98-6d3dcac43161 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q98 .
+
+wd:Q39 p:P15 wds:Q39-cb77ba5d-4430-2021-da9a-a682cf09e794 .
+
+wds:Q39-cb77ba5d-4430-2021-da9a-a682cf09e794 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q99 .
+
+wd:Q39 p:P15 wds:Q39-d52639b0-49d5-bd54-dc7c-e6704f48a4b4 .
+
+wds:Q39-d52639b0-49d5-bd54-dc7c-e6704f48a4b4 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q100 .
+
+wd:Q39 p:P15 wds:Q39-04697428-47fd-8829-17ca-9d0158badaf5 .
+
+wds:Q39-04697428-47fd-8829-17ca-9d0158badaf5 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q101 .
+
+wd:Q39 p:P15 wds:Q39-8b8a43c2-4b89-f168-0bbf-cf432a8efbfc .
+
+wds:Q39-8b8a43c2-4b89-f168-0bbf-cf432a8efbfc a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q102 .
+
+wd:Q39 p:P15 wds:Q39-e1bfffb9-4ec9-f00f-96bc-b07cb02d0d13 .
+
+wds:Q39-e1bfffb9-4ec9-f00f-96bc-b07cb02d0d13 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q103 .
+
+wd:Q39 p:P15 wds:Q39-e2dc5100-4844-544c-746e-3487a1145e17 .
+
+wds:Q39-e2dc5100-4844-544c-746e-3487a1145e17 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q104 .
+
+wd:Q39 p:P15 wds:Q39-97122659-488d-2b83-aa5a-52b5adb3eb4a .
+
+wds:Q39-97122659-488d-2b83-aa5a-52b5adb3eb4a a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q105 .
+
+wd:Q39 p:P15 wds:Q39-9c74148c-47c0-b989-3a68-326566b0fae8 .
+
+wds:Q39-9c74148c-47c0-b989-3a68-326566b0fae8 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q106 .
+
+wd:Q39 p:P15 wds:Q39-aad7fdb6-402e-7d4c-c6b7-9900878d95af .
+
+wds:Q39-aad7fdb6-402e-7d4c-c6b7-9900878d95af a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q108 .
+
+wd:Q39 p:P15 wds:Q39-a45120e6-4d97-bcfe-c9f1-3778066481d3 .
+
+wds:Q39-a45120e6-4d97-bcfe-c9f1-3778066481d3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q109 .
+
+wd:Q39 p:P15 wds:Q39-513744fc-4943-9693-3870-c04c62e2da14 .
+
+wds:Q39-513744fc-4943-9693-3870-c04c62e2da14 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q110 .
+
+wd:Q39 p:P15 wds:Q39-0f732539-4e0e-0206-4acf-694e7ebea42b .
+
+wds:Q39-0f732539-4e0e-0206-4acf-694e7ebea42b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q111 .
+
+wd:Q39 p:P15 wds:Q39-750db596-4cf5-1bec-34de-0dae7e1b5743 .
+
+wds:Q39-750db596-4cf5-1bec-34de-0dae7e1b5743 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q112 .
+
+wd:Q39 p:P15 wds:Q39-80c84c69-49bb-a223-0650-955c7e161279 .
+
+wds:Q39-80c84c69-49bb-a223-0650-955c7e161279 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q113 .
+
+wd:Q39 p:P15 wds:Q39-65be2a04-41de-fb4f-708d-2013bf541181 .
+
+wds:Q39-65be2a04-41de-fb4f-708d-2013bf541181 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q114 .
+
+wd:Q39 p:P15 wds:Q39-e8359ab1-4bda-4c97-ac69-31396409883f .
+
+wds:Q39-e8359ab1-4bda-4c97-ac69-31396409883f a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q115 .
+
+wd:Q39 p:P15 wds:Q39-457237c2-4f0d-2333-70d1-5a2082a04782 .
+
+wds:Q39-457237c2-4f0d-2333-70d1-5a2082a04782 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q116 .
+
+wd:Q39 p:P15 wds:Q39-0bbf4273-48c8-062e-8e57-5f80feea069a .
+
+wds:Q39-0bbf4273-48c8-062e-8e57-5f80feea069a a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q117 .
+
+wd:Q39 p:P15 wds:Q39-b8670f66-4a2b-2500-94cf-2272f271a02b .
+
+wds:Q39-b8670f66-4a2b-2500-94cf-2272f271a02b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q118 .
+
+wd:Q39 p:P15 wds:Q39-e5686ebb-4b9c-792c-de94-862117d9a5eb .
+
+wds:Q39-e5686ebb-4b9c-792c-de94-862117d9a5eb a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q119 .
+
+wd:Q39 p:P15 wds:Q39-13cbbc18-463d-e328-1214-fac5b45f9824 .
+
+wds:Q39-13cbbc18-463d-e328-1214-fac5b45f9824 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q120 .
+
+wd:Q39 p:P15 wds:Q39-8318d617-47c2-158e-a5fa-c436a9904faa .
+
+wds:Q39-8318d617-47c2-158e-a5fa-c436a9904faa a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q121 .
+
+wd:Q39 p:P15 wds:Q39-7943d59f-4243-7c91-dfc7-5e3a883486ea .
+
+wds:Q39-7943d59f-4243-7c91-dfc7-5e3a883486ea a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q122 .
+
+wd:Q39 p:P15 wds:Q39-89cf8d4e-4256-4fe6-2880-2b0f890c7591 .
+
+wds:Q39-89cf8d4e-4256-4fe6-2880-2b0f890c7591 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q123 .
+
+wd:Q39 p:P15 wds:Q39-3bb0eb3c-4a45-0fd9-0662-9d86cbee3478 .
+
+wds:Q39-3bb0eb3c-4a45-0fd9-0662-9d86cbee3478 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q124 .
+
+wd:Q39 p:P15 wds:Q39-3436fc18-4034-6a80-47c7-0dad85d20098 .
+
+wds:Q39-3436fc18-4034-6a80-47c7-0dad85d20098 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q125 .
+
+wd:Q39 p:P15 wds:Q39-c2cf7d14-47b4-06fc-dad1-d78391276030 .
+
+wds:Q39-c2cf7d14-47b4-06fc-dad1-d78391276030 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q126 .
+
+wd:Q39 p:P15 wds:Q39-2611bdce-4696-4f79-da54-a4469011edb3 .
+
+wds:Q39-2611bdce-4696-4f79-da54-a4469011edb3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q127 .
+
+wd:Q39 p:P15 wds:Q39-c84c52bf-40ae-23eb-e579-7a4dbcb83701 .
+
+wds:Q39-c84c52bf-40ae-23eb-e579-7a4dbcb83701 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q128 .
+
+wd:Q39 p:P15 wds:Q39-c070b43c-4fda-0227-7252-c49d0c7e2530 .
+
+wds:Q39-c070b43c-4fda-0227-7252-c49d0c7e2530 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q129 .
+
+wd:Q39 p:P15 wds:Q39-0e59f6c7-41b7-278e-ea4c-5417e7551e40 .
+
+wds:Q39-0e59f6c7-41b7-278e-ea4c-5417e7551e40 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q130 .
+
+wd:Q39 p:P15 wds:Q39-4f2bb786-4f33-5594-b90f-16f70000aaaf .
+
+wds:Q39-4f2bb786-4f33-5594-b90f-16f70000aaaf a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q131 .
+
+wd:Q39 p:P15 wds:Q39-8640a573-4bd4-388f-d61e-416ed293b2d2 .
+
+wds:Q39-8640a573-4bd4-388f-d61e-416ed293b2d2 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q132 .
+
+wd:Q39 p:P15 wds:Q39-07f0b570-4fb0-19fe-6c8d-392e257ec137 .
+
+wds:Q39-07f0b570-4fb0-19fe-6c8d-392e257ec137 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q133 .
+
+wd:Q39 p:P15 wds:Q39-56030fe9-4b14-cba9-d391-2e987bb95e58 .
+
+wds:Q39-56030fe9-4b14-cba9-d391-2e987bb95e58 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q76 .
+
+wd:Q39 p:P15 wds:Q39-809aab8f-4c15-1c87-495a-ab0088b0883e .
+
+wds:Q39-809aab8f-4c15-1c87-495a-ab0088b0883e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q77 .
+
+wd:Q39 p:P15 wds:Q39-2730d204-40dd-55c7-2822-ea587a1cbef5 .
+
+wds:Q39-2730d204-40dd-55c7-2822-ea587a1cbef5 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q78 .
+
+wd:Q39 p:P15 wds:Q39-cd4c17ef-4834-f08f-a6e0-62f05e39ce8c .
+
+wds:Q39-cd4c17ef-4834-f08f-a6e0-62f05e39ce8c a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q79 .
+
+wd:Q39 p:P15 wds:Q39-3a36b7f9-4da6-822d-0052-4ad2b70f7028 .
+
+wds:Q39-3a36b7f9-4da6-822d-0052-4ad2b70f7028 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q80 .
+
+wd:Q39 p:P15 wds:Q39-de68373c-4b8a-afab-d966-90deba56f96a .
+
+wds:Q39-de68373c-4b8a-afab-d966-90deba56f96a a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q134 .
+
+wd:Q39 p:P15 wds:Q39-de3777ec-4e0a-e575-2efc-a9f5d596bfd7 .
+
+wds:Q39-de3777ec-4e0a-e575-2efc-a9f5d596bfd7 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q139 .
+
+wd:Q39 p:P15 wds:Q39-2cab05c7-4914-9373-a249-4bd96b23c04b .
+
+wds:Q39-2cab05c7-4914-9373-a249-4bd96b23c04b a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q135 .
+
+wd:Q39 p:P15 wds:Q39-085e209d-490f-1bca-5771-7918533e43ce .
+
+wds:Q39-085e209d-490f-1bca-5771-7918533e43ce a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q136 .
+
+wd:Q39 p:P15 wds:Q39-83d1e3f3-4266-7320-6923-395fc86be46e .
+
+wds:Q39-83d1e3f3-4266-7320-6923-395fc86be46e a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q137 .
+
+wd:Q39 p:P15 wds:Q39-5bf19ee7-4b2d-4101-9f5d-2fc3d3cdf027 .
+
+wds:Q39-5bf19ee7-4b2d-4101-9f5d-2fc3d3cdf027 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q138 .
+
+wd:Q39 p:P15 wds:Q39-eb4e1fb8-4f19-d862-22ee-961d325ab5c3 .
+
+wds:Q39-eb4e1fb8-4f19-d862-22ee-961d325ab5c3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q54 .
+
+wd:Q39 p:P15 wds:Q39-6af0a142-48e0-273d-1b9e-34b3870a5d78 .
+
+wds:Q39-6af0a142-48e0-273d-1b9e-34b3870a5d78 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P15 wd:Q107 .
+
+wd:Q39 p:P119 wds:Q39-7b3a7eb8-496a-5f78-7011-d7bf7e1c0024 .
+
+wds:Q39-7b3a7eb8-496a-5f78-7011-d7bf7e1c0024 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q254 .
+
+wd:Q39 p:P119 wds:Q39-ba9903f2-4bff-1d10-81ce-e4d9cf239235 .
+
+wds:Q39-ba9903f2-4bff-1d10-81ce-e4d9cf239235 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q259 .
+
+wd:Q39 rdfs:label "Arabic rhetorical device"@en ;
+	skos:prefLabel "Arabic rhetorical device"@en ;
+	schema:name "Arabic rhetorical device"@en ;
+	schema:description "technique that an author or speaker uses in Arabic with the goal of persuading"@en .
+
+wd:Q10 a wikibase:Item ;
+	rdfs:label "Rhetorical device"@en ;
+	skos:prefLabel "Rhetorical device"@en ;
+	schema:name "Rhetorical device"@en ;
+	schema:description "technique that an author or speaker uses with the goal of persuading"@en .
+
+wd:P6 a wikibase:Property ;
+	rdfs:label "subclass of"@en ;
+	skos:prefLabel "subclass of"@en ;
+	schema:name "subclass of"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P6 ;
+	wikibase:claim p:P6 ;
+	wikibase:statementProperty ps:P6 ;
+	wikibase:statementValue psv:P6 ;
+	wikibase:qualifier pq:P6 ;
+	wikibase:qualifierValue pqv:P6 ;
+	wikibase:reference pr:P6 ;
+	wikibase:referenceValue prv:P6 ;
+	wikibase:novalue wdno:P6 .
+
+p:P6 a owl:ObjectProperty .
+
+psv:P6 a owl:ObjectProperty .
+
+pqv:P6 a owl:ObjectProperty .
+
+prv:P6 a owl:ObjectProperty .
+
+wdt:P6 a owl:ObjectProperty .
+
+ps:P6 a owl:ObjectProperty .
+
+pq:P6 a owl:ObjectProperty .
+
+pr:P6 a owl:ObjectProperty .
+
+wdno:P6 a owl:Class ;
+	owl:complementOf _:756f10bc5f45e99cc0b50f82c4769b77 .
+
+_:756f10bc5f45e99cc0b50f82c4769b77 a owl:Restriction ;
+	owl:onProperty wdt:P6 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q6 a wikibase:Item ;
+	rdfs:label "Arabic rhetoric"@en ;
+	skos:prefLabel "Arabic rhetoric"@en ;
+	schema:name "Arabic rhetoric"@en ;
+	schema:description "branch of Arabic studies concerned with enhancing the effectiveness of communication"@en .
+
+wd:P10 a wikibase:Property ;
+	rdfs:label "used by"@en ;
+	skos:prefLabel "used by"@en ;
+	schema:name "used by"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P10 ;
+	wikibase:claim p:P10 ;
+	wikibase:statementProperty ps:P10 ;
+	wikibase:statementValue psv:P10 ;
+	wikibase:qualifier pq:P10 ;
+	wikibase:qualifierValue pqv:P10 ;
+	wikibase:reference pr:P10 ;
+	wikibase:referenceValue prv:P10 ;
+	wikibase:novalue wdno:P10 .
+
+p:P10 a owl:ObjectProperty .
+
+psv:P10 a owl:ObjectProperty .
+
+pqv:P10 a owl:ObjectProperty .
+
+prv:P10 a owl:ObjectProperty .
+
+wdt:P10 a owl:ObjectProperty .
+
+ps:P10 a owl:ObjectProperty .
+
+pq:P10 a owl:ObjectProperty .
+
+pr:P10 a owl:ObjectProperty .
+
+wdno:P10 a owl:Class ;
+	owl:complementOf _:e9c9acebd629135c7f7ccf2b8fa36d11 .
+
+_:e9c9acebd629135c7f7ccf2b8fa36d11 a owl:Restriction ;
+	owl:onProperty wdt:P10 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q40 a wikibase:Item ;
+	rdfs:label "Reporting/informing sentence-type switch"@en ;
+	skos:prefLabel "Reporting/informing sentence-type switch"@en ;
+	schema:name "Reporting/informing sentence-type switch"@en ;
+	schema:description "Arabic rhetorical device involving a change between reporting and informing sentence types"@en .
+
+wd:P15 a wikibase:Property ;
+	rdfs:label "has instance"@en ;
+	skos:prefLabel "has instance"@en ;
+	schema:name "has instance"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P15 ;
+	wikibase:claim p:P15 ;
+	wikibase:statementProperty ps:P15 ;
+	wikibase:statementValue psv:P15 ;
+	wikibase:qualifier pq:P15 ;
+	wikibase:qualifierValue pqv:P15 ;
+	wikibase:reference pr:P15 ;
+	wikibase:referenceValue prv:P15 ;
+	wikibase:novalue wdno:P15 .
+
+p:P15 a owl:ObjectProperty .
+
+psv:P15 a owl:ObjectProperty .
+
+pqv:P15 a owl:ObjectProperty .
+
+prv:P15 a owl:ObjectProperty .
+
+wdt:P15 a owl:ObjectProperty .
+
+ps:P15 a owl:ObjectProperty .
+
+pq:P15 a owl:ObjectProperty .
+
+pr:P15 a owl:ObjectProperty .
+
+wdno:P15 a owl:Class ;
+	owl:complementOf _:c6d630bec22e907a0614fa544be8e394 .
+
+_:c6d630bec22e907a0614fa544be8e394 a owl:Restriction ;
+	owl:onProperty wdt:P15 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q42 a wikibase:Item ;
+	rdfs:label "Affirmation"@en ;
+	skos:prefLabel "Affirmation"@en ;
+	schema:name "Affirmation"@en ;
+	schema:description "Arabic rhetorical device involving the use of affirmatory constructions outside the expected scheme of escalation"@en .
+
+wd:Q44 a wikibase:Item ;
+	rdfs:label "The Imperative"@en ;
+	skos:prefLabel "The Imperative"@en ;
+	schema:name "The Imperative"@en ;
+	schema:description "Arabic rhetorical device involving use of the imperative for purposes other than for commanding"@en .
+
+wd:Q45 a wikibase:Item ;
+	rdfs:label "Prohibition"@en ;
+	skos:prefLabel "Prohibition"@en ;
+	schema:name "Prohibition"@en ;
+	schema:description "Arabic rhetorical device involving the use of the prohibitive for purposes other than prohibition"@en .
+
+wd:Q46 a wikibase:Item ;
+	rdfs:label "The Interrogative"@en ;
+	skos:prefLabel "The Interrogative"@en ;
+	schema:name "The Interrogative"@en ;
+	schema:description "Arabic rhetorical device involving the use of the interrogative for purposes other than asking questions"@en .
+
+wd:Q47 a wikibase:Item ;
+	rdfs:label "Wish"@en ;
+	skos:prefLabel "Wish"@en ;
+	schema:name "Wish"@en ;
+	schema:description "Arabic rhetorical device involving the use of particles normally used with possible things but to denote impossibility, and vice-versa"@en .
+
+wd:Q48 a wikibase:Item ;
+	rdfs:label "The Vocative"@en ;
+	skos:prefLabel "The Vocative"@en ;
+	schema:name "The Vocative"@en ;
+	schema:description "Arabic rhetorical device involving the use of the vocative particles in unconventional ways"@en .
+
+wd:Q49 a wikibase:Item ;
+	rdfs:label "Definiteness and Indefiniteness"@en ;
+	skos:prefLabel "Definiteness and Indefiniteness"@en ;
+	schema:name "Definiteness and Indefiniteness"@en ;
+	schema:description "Arabic rhetorical device involving the use of definiteness where indefiniteness is expected, and vice-versa"@en .
+
+wd:Q50 a wikibase:Item ;
+	rdfs:label "Use of Pronoun in Place of Noun"@en ;
+	skos:prefLabel "Use of Pronoun in Place of Noun"@en ;
+	schema:name "Use of Pronoun in Place of Noun"@en ;
+	schema:description "Arabic rhetorical device involving the use of pronouns before the noun it refers to is introduced"@en .
+
+wd:Q51 a wikibase:Item ;
+	rdfs:label "Use of Noun in Place of Pronoun"@en ;
+	skos:prefLabel "Use of Noun in Place of Pronoun"@en ;
+	schema:name "Use of Noun in Place of Pronoun"@en ;
+	schema:description "Arabic rhetorical device involving the use of a noun in place of a pronoun, for rhetorical effect"@en .
+
+wd:Q52 a wikibase:Item ;
+	rdfs:label "Conjunction and Disjunction"@en ;
+	skos:prefLabel "Conjunction and Disjunction"@en ;
+	schema:name "Conjunction and Disjunction"@en ;
+	schema:description "Arabic rhetorical device involving the use of joining words and clauses which do not have an apparent connection, and vice versa"@en .
+
+wd:Q53 a wikibase:Item ;
+	rdfs:label "Foregrounding and Backgrounding"@en ;
+	skos:prefLabel "Foregrounding and Backgrounding"@en ;
+	schema:name "Foregrounding and Backgrounding"@en ;
+	schema:description "Arabic rhetorical device involving the use of the foregrounding and backgrounding of clauses"@en .
+
+wd:Q55 a wikibase:Item ;
+	rdfs:label "Ellipsis"@en ;
+	skos:prefLabel "Ellipsis"@en ;
+	schema:name "Ellipsis"@en ;
+	schema:description "Arabic rhetorical device involving the use of ellipsis for rhetorical effect"@en .
+
+wd:Q56 a wikibase:Item ;
+	rdfs:label "Simile"@en ;
+	skos:prefLabel "Simile"@en ;
+	schema:name "Simile"@en ;
+	schema:description "Arabic rhetorical device involving the use of the simile"@en .
+
+wd:Q57 a wikibase:Item ;
+	rdfs:label "Metaphor"@en ;
+	skos:prefLabel "Metaphor"@en ;
+	schema:name "Metaphor"@en ;
+	schema:description "Arabic rhetorical device involving the use of the metaphor"@en .
+
+wd:Q58 a wikibase:Item ;
+	rdfs:label "Figurative Analogy"@en ;
+	skos:prefLabel "Figurative Analogy"@en ;
+	schema:name "Figurative Analogy"@en ;
+	schema:description "Arabic rhetorical device where an entire idea, sentence, or situation is used figuratively to represent another situation that is conceptually similar"@en .
+
+wd:Q59 a wikibase:Item ;
+	rdfs:label "Allegory"@en ;
+	skos:prefLabel "Allegory"@en ;
+	schema:name "Allegory"@en ;
+	schema:description "Arabic rhetorical device involving the use of a word which has one meaning, and using it in a different but closely related way."@en .
+
+wd:Q60 a wikibase:Item ;
+	rdfs:label "Implicit Reference"@en ;
+	skos:prefLabel "Implicit Reference"@en ;
+	schema:name "Implicit Reference"@en ;
+	schema:description "Arabic rhetorical device involving the use of a descriptive word or phrase which alludes to the intrinsic characteristics of a thing, in place of the real name"@en .
+
+wd:Q61 a wikibase:Item ;
+	rdfs:label "Hinting"@en ;
+	skos:prefLabel "Hinting"@en ;
+	schema:name "Hinting"@en ;
+	schema:description "Arabic rhetorical device involving the use of indirect suggestion of the intended meaning through the use of an aphorism, a proverb, a riddle or an innuendo, rather than directly stating the intended message"@en .
+
+wd:Q62 a wikibase:Item ;
+	rdfs:label "Pun"@en ;
+	skos:prefLabel "Pun"@en ;
+	schema:name "Pun"@en ;
+	schema:description "Arabic rhetorical device involving the use of an expression that has more than one meaning"@en .
+
+wd:Q66 a wikibase:Item ;
+	rdfs:label "Paronomasia"@en ;
+	skos:prefLabel "Paronomasia"@en ;
+	schema:name "Paronomasia"@en ;
+	schema:description "Arabic rhetorical device with the occurrence of two words which sound similar but have different meanings"@en .
+
+wd:Q68 a wikibase:Item ;
+	rdfs:label "Alliteration"@en ;
+	skos:prefLabel "Alliteration"@en ;
+	schema:name "Alliteration"@en ;
+	schema:description "Arabic rhetorical device where with the appearance of a succession of words where the initial letter of the word is same"@en .
+
+wd:Q64 a wikibase:Item ;
+	rdfs:label "Onomatopoeia"@en ;
+	skos:prefLabel "Onomatopoeia"@en ;
+	schema:name "Onomatopoeia"@en ;
+	schema:description "Arabic rhetorical device where the pronunciation of the word mimics the sound itself."@en .
+
+wd:Q69 a wikibase:Item ;
+	rdfs:label "Antithesis"@en ;
+	skos:prefLabel "Antithesis"@en ;
+	schema:name "Antithesis"@en ;
+	schema:description "Arabic rhetorical device where two antonyms (opposites) appear together"@en .
+
+wd:Q70 a wikibase:Item ;
+	rdfs:label "Colour Contrast"@en ;
+	skos:prefLabel "Colour Contrast"@en ;
+	schema:name "Colour Contrast"@en ;
+	schema:description "Arabic rhetorical device with the juxtaposition of contrasting colours such as red and green or black and white for aesthetic or emotional effect"@en .
+
+wd:Q71 a wikibase:Item ;
+	rdfs:label "Oxymoron"@en ;
+	skos:prefLabel "Oxymoron"@en ;
+	schema:name "Oxymoron"@en ;
+	schema:description "Arabic rhetorical device with the co-location of two antonyms"@en .
+
+wd:Q72 a wikibase:Item ;
+	rdfs:label "Palindrome"@en ;
+	skos:prefLabel "Palindrome"@en ;
+	schema:name "Palindrome"@en ;
+	schema:description "Arabic rhetorical device where the communicator uses a lexical item that can be read both forwards and backwards"@en .
+
+wd:Q73 a wikibase:Item ;
+	rdfs:label "Reversal of Word Order"@en ;
+	skos:prefLabel "Reversal of Word Order"@en ;
+	schema:name "Reversal of Word Order"@en ;
+	schema:description "Arabic rhetorical device involving reversal of structure or word order to create symmetry, contrast, or emphasis"@en .
+
+wd:Q74 a wikibase:Item ;
+	rdfs:label "Repetition"@en ;
+	skos:prefLabel "Repetition"@en ;
+	schema:name "Repetition"@en ;
+	schema:description "Arabic rhetorical device using repeated use of a lexical item for emphasis, praise or criticism"@en .
+
+wd:Q75 a wikibase:Item ;
+	rdfs:label "Repetition With Varied Phrasing"@en ;
+	skos:prefLabel "Repetition With Varied Phrasing"@en ;
+	schema:name "Repetition With Varied Phrasing"@en ;
+	schema:description "Arabic rhetorical device where a single idea is reinforced by repeating it through two or more lexical items with different wording but similar or complementary meanings"@en .
+
+wd:Q81 a wikibase:Item ;
+	rdfs:label "Unifying Expression"@en ;
+	skos:prefLabel "Unifying Expression"@en ;
+	schema:name "Unifying Expression"@en ;
+	schema:description "Arabic rhetorical device where a word or expression is used to modify multiple words or phrases, but with different meanings or implications for each"@en .
+
+wd:Q82 a wikibase:Item ;
+	rdfs:label "Syntactic Grouping"@en ;
+	skos:prefLabel "Syntactic Grouping"@en ;
+	schema:name "Syntactic Grouping"@en ;
+	schema:description "Arabic rhetorical device where several things are collected together and a collective verdict or judgement is made"@en .
+
+wd:Q83 a wikibase:Item ;
+	rdfs:label "Semantic Grouping"@en ;
+	skos:prefLabel "Semantic Grouping"@en ;
+	schema:name "Semantic Grouping"@en ;
+	schema:description "Arabic rhetorical device where multiple, often related or similar, qualities or details are grouped together to enhance emphasis or create a rich, detailed picture"@en .
+
+wd:Q84 a wikibase:Item ;
+	rdfs:label "Dividing Items"@en ;
+	skos:prefLabel "Dividing Items"@en ;
+	schema:name "Dividing Items"@en ;
+	schema:description "Arabic rhetorical device where a general category or statement is broken down into its constituent parts, and each part is assigned a specific trait, action, or outcome, create emphasis, rhythm, or clarity through structured elaboration"@en .
+
+wd:Q85 a wikibase:Item ;
+	rdfs:label "Grouping Then Dividing"@en ;
+	skos:prefLabel "Grouping Then Dividing"@en ;
+	schema:name "Grouping Then Dividing"@en ;
+	schema:description "Arabic rhetorical device where a general collective statement is made first (jam‘), and then this is divided or detailed (taqsīm)"@en .
+
+wd:Q86 a wikibase:Item ;
+	rdfs:label "Grouping Then Differentiating"@en ;
+	skos:prefLabel "Grouping Then Differentiating"@en ;
+	schema:name "Grouping Then Differentiating"@en ;
+	schema:description "Arabic rhetorical device where the communicator first combines multiple subjects under a shared predicate, and then differentiates them with individual qualifiers or extensions"@en .
+
+wd:Q87 a wikibase:Item ;
+	rdfs:label "Differentiating Between Similar Items"@en ;
+	skos:prefLabel "Differentiating Between Similar Items"@en ;
+	schema:name "Differentiating Between Similar Items"@en ;
+	schema:description "Arabic rhetorical device involving differentiation between two things that mistakenly could be considered to be same"@en .
+
+wd:Q88 a wikibase:Item ;
+	rdfs:label "Folding and Unfolding"@en ;
+	skos:prefLabel "Folding and Unfolding"@en ;
+	schema:name "Folding and Unfolding"@en ;
+	schema:description "Arabic rhetorical device where two or more items are mentioned in succession  (اللفّ), then, further information is \"Unfolded\" (النشر) about these items"@en .
+
+wd:Q89 a wikibase:Item ;
+	rdfs:label "Pleasantness of the Opening"@en ;
+	skos:prefLabel "Pleasantness of the Opening"@en ;
+	schema:name "Pleasantness of the Opening"@en ;
+	schema:description "Arabic rhetorical device where the communicator employs a pleasant and agreeable opening to the text which pleases the addressee"@en .
+
+wd:Q90 a wikibase:Item ;
+	rdfs:label "Finesse of Initiation"@en ;
+	skos:prefLabel "Finesse of Initiation"@en ;
+	schema:name "Finesse of Initiation"@en ;
+	schema:description "Arabic rhetorical device where the communicator starts the text in an excellent manner which hints at the main objective of the text, attracts the attention of the addressee and makes the addressee eager to hear the main proposition"@en .
+
+wd:Q91 a wikibase:Item ;
+	rdfs:label "Similarities of the Start & Finish"@en ;
+	skos:prefLabel "Similarities of the Start & Finish"@en ;
+	schema:name "Similarities of the Start & Finish"@en ;
+	schema:description "Arabic rhetorical device where the end of a sentence has a similar meaning to the beginning of the following sentence, establishing a semantic link which bridges the two sentences"@en .
+
+wd:Q92 a wikibase:Item ;
+	rdfs:label "Parallelism"@en ;
+	skos:prefLabel "Parallelism"@en ;
+	schema:name "Parallelism"@en ;
+	schema:description "Arabic rhetorical device where the communicator repeats the lexical, syntactic, or rhythmic structure of a sentence or phrase across two or more phrases, clauses, or sentences to create semantic balance, assonance, rhyme, or rhetorical emphasis"@en .
+
+wd:Q93 a wikibase:Item ;
+	rdfs:label "Digression"@en ;
+	skos:prefLabel "Digression"@en ;
+	schema:name "Digression"@en ;
+	schema:description "Arabic rhetorical device where the communicator mentions one topic, then leaves that topic and mentions something else which may be the opposite or contrasting to the original topic, then returns to complete the original topic"@en .
+
+wd:Q94 a wikibase:Item ;
+	rdfs:label "Rhetorical Branching"@en ;
+	skos:prefLabel "Rhetorical Branching"@en ;
+	schema:name "Rhetorical Branching"@en ;
+	schema:description "Arabic rhetorical device where the validity of a new statement is derived from a previous one, serving as a justification for a change in topic that favours the communicator's objective"@en .
+
+wd:Q95 a wikibase:Item ;
+	rdfs:label "Change of Topic"@en ;
+	skos:prefLabel "Change of Topic"@en ;
+	schema:name "Change of Topic"@en ;
+	schema:description "Arabic rhetorical device where the communicator transitions from the introduction to the main point of the text in a smooth, connected, integrated and subtle manner"@en .
+
+wd:Q96 a wikibase:Item ;
+	rdfs:label "Forewarning"@en ;
+	skos:prefLabel "Forewarning"@en ;
+	schema:name "Forewarning"@en ;
+	schema:description "Arabic rhetorical device where the communicator subtly prepares the audience by providing preliminary hints, enabling them to anticipate the message before it is explicitly delivered"@en .
+
+wd:Q97 a wikibase:Item ;
+	rdfs:label "Anticipatory Closure"@en ;
+	skos:prefLabel "Anticipatory Closure"@en ;
+	schema:name "Anticipatory Closure"@en ;
+	schema:description "Arabic rhetorical device where the comminicator introduces an early phrase that guides or prepares the listener for the final word of a clause or rhyme of the verse, thus enhancing rhythmic harmony and closure"@en .
+
+wd:Q98 a wikibase:Item ;
+	rdfs:label "Pleasantness of the Ending"@en ;
+	skos:prefLabel "Pleasantness of the Ending"@en ;
+	schema:name "Pleasantness of the Ending"@en ;
+	schema:description "Arabic rhetorical device where the communicator concludes the text in a manner that is pleasing for the addressee from a lexical viewpoint"@en .
+
+wd:Q99 a wikibase:Item ;
+	rdfs:label "Finesse of the Ending"@en ;
+	skos:prefLabel "Finesse of the Ending"@en ;
+	schema:name "Finesse of the Ending"@en ;
+	schema:description "Arabic rhetorical device where the communicator concludes the text in a way that links to, and summarises the objective of the text, and brings a natural and satisfying conclusion to the text, from a semantical viewpoint"@en .
+
+wd:Q100 a wikibase:Item ;
+	rdfs:label "Rhetorical Shift"@en ;
+	skos:prefLabel "Rhetorical Shift"@en ;
+	schema:name "Rhetorical Shift"@en ;
+	schema:description "Arabic rhetorical device where the communicator changes between person, tense or morphology"@en .
+
+wd:Q101 a wikibase:Item ;
+	rdfs:label "Scholastic Approach"@en ;
+	skos:prefLabel "Scholastic Approach"@en ;
+	schema:name "Scholastic Approach"@en ;
+	schema:description "Arabic rhetorical device where the communicator uses reasoning, rational ideas, logic, or evidence to convince the addressee of the communicator’s proposition or to refute conflicting views"@en .
+
+wd:Q102 a wikibase:Item ;
+	rdfs:label "Genre Shifting"@en ;
+	skos:prefLabel "Genre Shifting"@en ;
+	schema:name "Genre Shifting"@en ;
+	schema:description "Arabic rhetorical device where the comminicator combines two or more different literary arts (such as eulogy, praise, satire, boasting, congratulation, condolence, reprimand) in one piece"@en .
+
+wd:Q103 a wikibase:Item ;
+	rdfs:label "Quotation & Poetic Incorporation"@en ;
+	skos:prefLabel "Quotation & Poetic Incorporation"@en ;
+	schema:name "Quotation & Poetic Incorporation"@en ;
+	schema:description "Arabic rhetorical device where the communicator takes a well-known text such as a proverb, poem, story, prophetic sayings, or Quranic verse and inserts it into a new text"@en .
+
+wd:Q104 a wikibase:Item ;
+	rdfs:label "Incorporation of Proverbs"@en ;
+	skos:prefLabel "Incorporation of Proverbs"@en ;
+	schema:name "Incorporation of Proverbs"@en ;
+	schema:description "Arabic rhetorical device where the communicator incorporates a proverb, parable, or well-known statement into the text to strengthen the argument"@en .
+
+wd:Q105 a wikibase:Item ;
+	rdfs:label "Hinting at the Source"@en ;
+	skos:prefLabel "Hinting at the Source"@en ;
+	schema:name "Hinting at the Source"@en ;
+	schema:description "Arabic rhetorical device where the communicator takes a well-known text such as a proverb, poem, story, prophetic sayings, or Quranic verse and incorporates it into a new text, the communicator provides a clue about the source of the quotation"@en .
+
+wd:Q106 a wikibase:Item ;
+	rdfs:label "Integration of Imagery"@en ;
+	skos:prefLabel "Integration of Imagery"@en ;
+	schema:name "Integration of Imagery"@en ;
+	schema:description "Arabic rhetorical device where the communicator uses imagery to imply the existence of something else, rather than explicitly mentioning it"@en .
+
+wd:Q108 a wikibase:Item ;
+	rdfs:label "Abstraction"@en ;
+	skos:prefLabel "Abstraction"@en ;
+	schema:name "Abstraction"@en ;
+	schema:description "Arabic rhetorical device where involving the abstracting of a general attribute from an individual, using an explicit abstraction formula"@en .
+
+wd:Q109 a wikibase:Item ;
+	rdfs:label "Meaningful Proper Nouns"@en ;
+	skos:prefLabel "Meaningful Proper Nouns"@en ;
+	schema:name "Meaningful Proper Nouns"@en ;
+	schema:description "Arabic rhetorical device involving the use of names of people or places that can have multiple meanings or interpretations"@en .
+
+wd:Q110 a wikibase:Item ;
+	rdfs:label "Hyperbole"@en ;
+	skos:prefLabel "Hyperbole"@en ;
+	schema:name "Hyperbole"@en ;
+	schema:description "Arabic rhetorical device where the communicator exaggerates in describing a proposition"@en .
+
+wd:Q111 a wikibase:Item ;
+	rdfs:label "Fanciful Causation"@en ;
+	skos:prefLabel "Fanciful Causation"@en ;
+	schema:name "Fanciful Causation"@en ;
+	schema:description "Arabic rhetorical device where the communicator denies the obvious cause of something happening, and instead proposes a different but fanciful cause"@en .
+
+wd:Q112 a wikibase:Item ;
+	rdfs:label "Rhetorical Concession"@en ;
+	skos:prefLabel "Rhetorical Concession"@en ;
+	schema:name "Rhetorical Concession"@en ;
+	schema:description "Arabic rhetorical device where the communicator appears to concede to an opponent's accusation or argument, only to follow it with a justification, mitigating explanation, or rebuttal"@en .
+
+wd:Q113 a wikibase:Item ;
+	rdfs:label "Affirmed Praise"@en ;
+	skos:prefLabel "Affirmed Praise"@en ;
+	schema:name "Affirmed Praise"@en ;
+	schema:description "Arabic rhetorical device where the communicator praises, then indicates that there is an exception to the praise, and then affirms the original praise by praising again"@en .
+
+wd:Q114 a wikibase:Item ;
+	rdfs:label "Affirmed Dispraise"@en ;
+	skos:prefLabel "Affirmed Dispraise"@en ;
+	schema:name "Affirmed Dispraise"@en ;
+	schema:description "Arabic rhetorical device where the communicator criticises, then indicates that there is an exception to the criticism, and then affirms the original criticism by criticising again"@en .
+
+wd:Q115 a wikibase:Item ;
+	rdfs:label "Affirmation by Negation"@en ;
+	skos:prefLabel "Affirmation by Negation"@en ;
+	schema:name "Affirmation by Negation"@en ;
+	schema:description "Arabic rhetorical device where the communicator alludes to a word by negating its antonym, for emphasis, praise, or denial"@en .
+
+wd:Q116 a wikibase:Item ;
+	rdfs:label "Praise-Blame Dichotomy"@en ;
+	skos:prefLabel "Praise-Blame Dichotomy"@en ;
+	schema:name "Praise-Blame Dichotomy"@en ;
+	schema:description "Arabic rhetorical device in which a subject is praised after being criticized, or criticized after being praised, enhancing the emotional impact, sharpening the tone, and revealing layered meaning"@en .
+
+wd:Q117 a wikibase:Item ;
+	rdfs:label "Feigned Ignorance"@en ;
+	skos:prefLabel "Feigned Ignorance"@en ;
+	schema:name "Feigned Ignorance"@en ;
+	schema:description "Arabic rhetorical device where the communicator knows something but pretends not to know, thus expressing amazement, praise, dispraise, disapproval, or to reprimand, or create a sense of familiarity"@en .
+
+wd:Q118 a wikibase:Item ;
+	rdfs:label "Diminishing Expression"@en ;
+	skos:prefLabel "Diminishing Expression"@en ;
+	schema:name "Diminishing Expression"@en ;
+	schema:description "Arabic rhetorical device in which the communicator intentionally uses language that minimizes, devalues, or belittles a person, object, or idea to make it seem less significant, impressive, or worthy"@en .
+
+wd:Q119 a wikibase:Item ;
+	rdfs:label "Addressing the Non-Human"@en ;
+	skos:prefLabel "Addressing the Non-Human"@en ;
+	schema:name "Addressing the Non-Human"@en ;
+	schema:description "Arabic rhetorical device involving a form of personification where the communicator directly addresses a non-human object as if it was human"@en .
+
+wd:Q120 a wikibase:Item ;
+	rdfs:label "Personification"@en ;
+	skos:prefLabel "Personification"@en ;
+	schema:name "Personification"@en ;
+	schema:description "Arabic rhetorical device where the communicator refers to non-human objects as if they were human"@en .
+
+wd:Q121 a wikibase:Item ;
+	rdfs:label "Sarcasm"@en ;
+	skos:prefLabel "Sarcasm"@en ;
+	schema:name "Sarcasm"@en ;
+	schema:description "Arabic rhetorical device in which the communicator indirectly criticises, rebukes, or refutes by mentioning something positive which the addressee can understand or infer as actually being negative"@en .
+
+wd:Q122 a wikibase:Item ;
+	rdfs:label "Humour Through Which Seriousness is Intended"@en ;
+	skos:prefLabel "Humour Through Which Seriousness is Intended"@en ;
+	schema:name "Humour Through Which Seriousness is Intended"@en ;
+	schema:description "Arabic rhetorical device involving the use of humour or lightness to convey a serious point"@en .
+
+wd:Q123 a wikibase:Item ;
+	rdfs:label "Retraction"@en ;
+	skos:prefLabel "Retraction"@en ;
+	schema:name "Retraction"@en ;
+	schema:description "Arabic rhetorical device involving the recanting or semantically reversal of a statement, often used for emphasis or dramatic effect"@en .
+
+wd:Q124 a wikibase:Item ;
+	rdfs:label "Finesse of Requesting"@en ;
+	skos:prefLabel "Finesse of Requesting"@en ;
+	schema:name "Finesse of Requesting"@en ;
+	schema:description "Arabic rhetorical device where the communicator conveys his desire or need without explicitly making a direct request or demand, allowing the addressee to implicitly understands what the communicator is asking for"@en .
+
+wd:Q125 a wikibase:Item ;
+	rdfs:label "Assonance"@en ;
+	skos:prefLabel "Assonance"@en ;
+	schema:name "Assonance"@en ;
+	schema:description "Arabic rhetorical device involving a form of internal rhyme in which the final words of successive phrases or lines agree in their vowel endings"@en .
+
+wd:Q126 a wikibase:Item ;
+	rdfs:label "Concordance of Word and Meaning"@en ;
+	skos:prefLabel "Concordance of Word and Meaning"@en ;
+	schema:name "Concordance of Word and Meaning"@en ;
+	schema:description "Arabic rhetorical device involving agreement between the sounds of the words and their meanings"@en .
+
+wd:Q127 a wikibase:Item ;
+	rdfs:label "Concordance of Pronunciations"@en ;
+	skos:prefLabel "Concordance of Pronunciations"@en ;
+	schema:name "Concordance of Pronunciations"@en ;
+	schema:description "Arabic rhetorical device where the communicator brings together strange, unusual and unexpected words for rhetorical effect"@en .
+
+wd:Q128 a wikibase:Item ;
+	rdfs:label "Tail-Head"@en ;
+	skos:prefLabel "Tail-Head"@en ;
+	schema:name "Tail-Head"@en ;
+	schema:description "Arabic rhetorical device where the last word of the sentence (the \"tail\", al-‘ajz) and the first word of the sentence (the \"head\", al-ṣadr) are the same or morphologically related"@en .
+
+wd:Q129 a wikibase:Item ;
+	rdfs:label "Head-Tail"@en ;
+	skos:prefLabel "Head-Tail"@en ;
+	schema:name "Head-Tail"@en ;
+	schema:description "Arabic rhetorical device where the first word of the sentence (the \"head\", al-ṣadr) is morphologically related to the last word of the previous sentence (the \"tail\", al-‘ajz)"@en .
+
+wd:Q130 a wikibase:Item ;
+	rdfs:label "Excellence of Division"@en ;
+	skos:prefLabel "Excellence of Division"@en ;
+	schema:name "Excellence of Division"@en ;
+	schema:description "Arabic rhetorical device where the communicator divides each line of a poem into two equal hemi-stiches with the same length and general syllabic structure, without necessarily rhyming"@en .
+
+wd:Q131 a wikibase:Item ;
+	rdfs:label "Metrical Ellipsis"@en ;
+	skos:prefLabel "Metrical Ellipsis"@en ;
+	schema:name "Metrical Ellipsis"@en ;
+	schema:description "Arabic rhetorical device where the rhyme and or poetic metre of a poem is such that even if some words are omitted, the rhyme or metre are maintained"@en .
+
+wd:Q132 a wikibase:Item ;
+	rdfs:label "Proportioning"@en ;
+	skos:prefLabel "Proportioning"@en ;
+	schema:name "Proportioning"@en ;
+	schema:description "Arabic rhetorical device where the communicator divides a sentence or paragraph into sentences with equal length and poetic metre"@en .
+
+wd:Q133 a wikibase:Item ;
+	rdfs:label "Hemistich Ending Concordance"@en ;
+	skos:prefLabel "Hemistich Ending Concordance"@en ;
+	schema:name "Hemistich Ending Concordance"@en ;
+	schema:description "Arabic rhetorical device in poetry where the final part of the first hemistich matches the final part of the second hemistich in meter, vowel, and rhyme"@en .
+
+wd:Q76 a wikibase:Item ;
+	rdfs:label "Deliberate Ambiguity"@en ;
+	skos:prefLabel "Deliberate Ambiguity"@en ;
+	schema:name "Deliberate Ambiguity"@en ;
+	schema:description "Arabic rhetorical device where a word or phrase is used ambiguously such that two opposite meanings can be understood"@en .
+
+wd:Q77 a wikibase:Item ;
+	rdfs:label "Evasive Response"@en ;
+	skos:prefLabel "Evasive Response"@en ;
+	schema:name "Evasive Response"@en ;
+	schema:description "Arabic rhetorical device where the communicator responds to a question with an evasive or ambiguous response"@en .
+
+wd:Q78 a wikibase:Item ;
+	rdfs:label "Evasive Letterplay"@en ;
+	skos:prefLabel "Evasive Letterplay"@en ;
+	schema:name "Evasive Letterplay"@en ;
+	schema:description "Arabic rhetorical device where the communicator intentionally uses a word which can change its meaning through a small change in the word itself"@en .
+
+wd:Q79 a wikibase:Item ;
+	rdfs:label "Euphemism"@en ;
+	skos:prefLabel "Euphemism"@en ;
+	schema:name "Euphemism"@en ;
+	schema:description "Arabic rhetorical device where the communicator uses an implicit reference rather than explicitly referring to something unpleasant or embarrassing"@en .
+
+wd:Q80 a wikibase:Item ;
+	rdfs:label "Referential Shift"@en ;
+	skos:prefLabel "Referential Shift"@en ;
+	schema:name "Referential Shift"@en ;
+	schema:description "Arabic rhetorical device where the communicator mentions something, and then later uses a personal pronoun or demonstrative pronoun to apparently refer back to that thing although something related but different is intended by the pronoun"@en .
+
+wd:Q134 a wikibase:Item ;
+	rdfs:label "Loanwords"@en ;
+	skos:prefLabel "Loanwords"@en ;
+	schema:name "Loanwords"@en ;
+	schema:description "literal transliterations into Arabic of a foreign word, such as kambyūtar for “computer”"@en .
+
+wd:Q139 a wikibase:Item ;
+	rdfs:label "Use of Inappropriate Linguistic Style and Register"@en ;
+	skos:prefLabel "Use of Inappropriate Linguistic Style and Register"@en ;
+	schema:name "Use of Inappropriate Linguistic Style and Register"@en ;
+	schema:description "the communicator uses a linguistic style and register which is appropriate to the subject matter and the intended audience"@en .
+
+wd:Q135 a wikibase:Item ;
+	rdfs:label "Catachresis"@en ;
+	skos:prefLabel "Catachresis"@en ;
+	schema:name "Catachresis"@en ;
+	schema:description "where a lexical item is used incorrectly, such as when a non-native communicator does not know the correct term in that language"@en .
+
+wd:Q136 a wikibase:Item ;
+	rdfs:label "Linguistic Errors"@en ;
+	skos:prefLabel "Linguistic Errors"@en ;
+	schema:name "Linguistic Errors"@en ;
+	schema:description "errors in grammar or morphology which detract from the rhetoricity of a text"@en .
+
+wd:Q137 a wikibase:Item ;
+	rdfs:label "Phonetic Incongruity"@en ;
+	skos:prefLabel "Phonetic Incongruity"@en ;
+	schema:name "Phonetic Incongruity"@en ;
+	schema:description "where the pronunciation is difficult or distasteful"@en .
+
+wd:Q138 a wikibase:Item ;
+	rdfs:label "Unfamiliar Usage"@en ;
+	skos:prefLabel "Unfamiliar Usage"@en ;
+	schema:name "Unfamiliar Usage"@en ;
+	schema:description "unfamiliar usage of a lexical item which can reduce the rhetoricity of a text"@en .
+
+wd:Q54 a wikibase:Item ;
+	rdfs:label "Brevity, Verbosity and Moderation"@en ;
+	skos:prefLabel "Brevity, Verbosity and Moderation"@en ;
+	schema:name "Brevity, Verbosity and Moderation"@en ;
+	schema:description "Arabic rhetorical device involving the use of the brevity, verbosity and moderation"@en .
+
+wd:Q107 a wikibase:Item ;
+	rdfs:label "Stacked-up Descriptions"@en ;
+	skos:prefLabel "Stacked-up Descriptions"@en ;
+	schema:name "Stacked-up Descriptions"@en ;
+	schema:description "Arabic rhetorical device where the communicator links together two or more related statements of praise or criticism to create a more intense rhetorical effect"@en .
+
+wd:Q254 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"@en .
+
+wd:P119 a wikibase:Property ;
+	rdfs:label "is part of taxonomy"@en ;
+	skos:prefLabel "is part of taxonomy"@en ;
+	schema:name "is part of taxonomy"@en ;
+	schema:description "Arabic rhetorical device taxonomy which includes this item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P119 ;
+	wikibase:claim p:P119 ;
+	wikibase:statementProperty ps:P119 ;
+	wikibase:statementValue psv:P119 ;
+	wikibase:qualifier pq:P119 ;
+	wikibase:qualifierValue pqv:P119 ;
+	wikibase:reference pr:P119 ;
+	wikibase:referenceValue prv:P119 ;
+	wikibase:novalue wdno:P119 .
+
+p:P119 a owl:ObjectProperty .
+
+psv:P119 a owl:ObjectProperty .
+
+pqv:P119 a owl:ObjectProperty .
+
+prv:P119 a owl:ObjectProperty .
+
+wdt:P119 a owl:ObjectProperty .
+
+ps:P119 a owl:ObjectProperty .
+
+pq:P119 a owl:ObjectProperty .
+
+pr:P119 a owl:ObjectProperty .
+
+wdno:P119 a owl:Class ;
+	owl:complementOf _:7e9eb37ccad804051b2f00855e2cbacb .
+
+_:7e9eb37ccad804051b2f00855e2cbacb a owl:Restriction ;
+	owl:onProperty wdt:P119 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q259 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"@en .

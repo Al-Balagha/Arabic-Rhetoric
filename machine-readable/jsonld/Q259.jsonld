@@ -1,0 +1,926 @@
+{
+    "@graph": [
+        {
+            "@id": "data:Q259",
+            "@type": "schema:Dataset",
+            "about": "wd:Q259",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 4192,
+            "dateModified": "2025-11-20T07:34:46Z",
+            "statements": 8,
+            "sitelinks": 0,
+            "identifiers": 0
+        },
+        {
+            "@id": "wd:Q259",
+            "@type": "wikibase:Item",
+            "P92": "https://al-balagha.com/images/1/18/2025_11_17_taxonomy.png",
+            "P81": "2025-11-20T00:00:00Z",
+            "P119": [
+                "wd:Q259",
+                "wd:Q254"
+            ],
+            "P19": "https://al-balagha.com/wiki/Arabic_Rhetorical_Device_Taxonomy#Version_0.1.1_(20_November_2025)",
+            "P110": "https://github.com/Al-Balagha/Arabic-Rhetoric/tree/v0.1.1",
+            "P112": "wd:Q253",
+            "P1": "wd:Q258",
+            "p:P92": "wds:Q259-c286e390-433a-308b-0fc5-fa49d6315d79"
+        },
+        {
+            "@id": "wds:Q259-c286e390-433a-308b-0fc5-fa49d6315d79",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P92": "https://al-balagha.com/images/1/18/2025_11_17_taxonomy.png"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P81": "wds:Q259-757b4b83-4af5-27ce-42ee-eb7c63789230"
+        },
+        {
+            "@id": "wds:Q259-757b4b83-4af5-27ce-42ee-eb7c63789230",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P81": "2025-11-20T00:00:00Z",
+            "psv:P81": "wdv:857c88bc85a4553240b2da1cc0fcf6a1"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P119": "wds:Q259-b4eb4477-474e-bd6a-5a36-2b283cd279c6"
+        },
+        {
+            "@id": "wds:Q259-b4eb4477-474e-bd6a-5a36-2b283cd279c6",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P119": "wd:Q259"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P119": "wds:Q259-06e680a1-4aa1-28f6-87c7-803b6c8b45b7"
+        },
+        {
+            "@id": "wds:Q259-06e680a1-4aa1-28f6-87c7-803b6c8b45b7",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P119": "wd:Q254"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P19": "wds:Q259-4bf54cea-45fd-12ee-2436-682833329230"
+        },
+        {
+            "@id": "wds:Q259-4bf54cea-45fd-12ee-2436-682833329230",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P19": "https://al-balagha.com/wiki/Arabic_Rhetorical_Device_Taxonomy#Version_0.1.1_(20_November_2025)"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P110": "wds:Q259-a24d65d2-4ece-3f82-05e8-c7c3518d5f92"
+        },
+        {
+            "@id": "wds:Q259-a24d65d2-4ece-3f82-05e8-c7c3518d5f92",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P110": "https://github.com/Al-Balagha/Arabic-Rhetoric/tree/v0.1.1"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P112": "wds:Q259-e3b6e9c2-4787-7fcb-857c-fbe045b13d82"
+        },
+        {
+            "@id": "wds:Q259-e3b6e9c2-4787-7fcb-857c-fbe045b13d82",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P112": "wd:Q253"
+        },
+        {
+            "@id": "wd:Q259",
+            "p:P1": "wds:Q259-a54e8ccf-4145-aacb-e0d8-2c7a811a9ff0"
+        },
+        {
+            "@id": "wds:Q259-a54e8ccf-4145-aacb-e0d8-2c7a811a9ff0",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P1": "wd:Q258"
+        },
+        {
+            "@id": "wd:Q259",
+            "label": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.1"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.1"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.1"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"
+            }
+        },
+        {
+            "@id": "wd:P92",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "logo image"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "logo image"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "logo image"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "graphic mark or emblem commonly used by commercial enterprises, organizations and products"
+            },
+            "propertyType": "http://wikiba.se/ontology#Url",
+            "directClaim": "wdt:P92",
+            "claim": "p:P92",
+            "statementProperty": "ps:P92",
+            "statementValue": "psv:P92",
+            "qualifier": "pq:P92",
+            "qualifierValue": "pqv:P92",
+            "reference": "pr:P92",
+            "referenceValue": "prv:P92",
+            "novalue": "wdno:P92"
+        },
+        {
+            "@id": "p:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P92",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P92",
+            "@type": "owl:Class",
+            "complementOf": "_:a6c093dc0b7b588e0c584f90179bf1ec"
+        },
+        {
+            "@id": "_:a6c093dc0b7b588e0c584f90179bf1ec",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P92",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P81",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "publication date"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "publication date"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "publication date"
+            },
+            "propertyType": "http://wikiba.se/ontology#Time",
+            "directClaim": "wdt:P81",
+            "claim": "p:P81",
+            "statementProperty": "ps:P81",
+            "statementValue": "psv:P81",
+            "qualifier": "pq:P81",
+            "qualifierValue": "pqv:P81",
+            "reference": "pr:P81",
+            "referenceValue": "prv:P81",
+            "novalue": "wdno:P81"
+        },
+        {
+            "@id": "p:P81",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P81",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P81",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P81",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P81",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P81",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P81",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P81",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P81",
+            "@type": "owl:Class",
+            "complementOf": "_:0ddb3908e1bf345f84fa93d5456e8a10"
+        },
+        {
+            "@id": "_:0ddb3908e1bf345f84fa93d5456e8a10",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P81",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P119",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "is part of taxonomy"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "is part of taxonomy"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "is part of taxonomy"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device taxonomy which includes this item"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P119",
+            "claim": "p:P119",
+            "statementProperty": "ps:P119",
+            "statementValue": "psv:P119",
+            "qualifier": "pq:P119",
+            "qualifierValue": "pqv:P119",
+            "reference": "pr:P119",
+            "referenceValue": "prv:P119",
+            "novalue": "wdno:P119"
+        },
+        {
+            "@id": "p:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P119",
+            "@type": "owl:Class",
+            "complementOf": "_:7e9eb37ccad804051b2f00855e2cbacb"
+        },
+        {
+            "@id": "_:7e9eb37ccad804051b2f00855e2cbacb",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P119",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q254",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.0"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.0"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.0"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"
+            }
+        },
+        {
+            "@id": "wd:P19",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "official website"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "official website"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "official website"
+            },
+            "propertyType": "http://wikiba.se/ontology#Url",
+            "directClaim": "wdt:P19",
+            "claim": "p:P19",
+            "statementProperty": "ps:P19",
+            "statementValue": "psv:P19",
+            "qualifier": "pq:P19",
+            "qualifierValue": "pqv:P19",
+            "reference": "pr:P19",
+            "referenceValue": "prv:P19",
+            "novalue": "wdno:P19"
+        },
+        {
+            "@id": "p:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P19",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P19",
+            "@type": "owl:Class",
+            "complementOf": "_:427a1cf7aa76aeba0fa0d95411406bf8"
+        },
+        {
+            "@id": "_:427a1cf7aa76aeba0fa0d95411406bf8",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P19",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P110",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "source code repository URL"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "source code repository URL"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "source code repository URL"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "public source code repository"
+            },
+            "propertyType": "http://wikiba.se/ontology#Url",
+            "directClaim": "wdt:P110",
+            "claim": "p:P110",
+            "statementProperty": "ps:P110",
+            "statementValue": "psv:P110",
+            "qualifier": "pq:P110",
+            "qualifierValue": "pqv:P110",
+            "reference": "pr:P110",
+            "referenceValue": "prv:P110",
+            "novalue": "wdno:P110"
+        },
+        {
+            "@id": "p:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P110",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P110",
+            "@type": "owl:Class",
+            "complementOf": "_:0f5a2db7c43720e1e09dd1f4c259840a"
+        },
+        {
+            "@id": "_:0f5a2db7c43720e1e09dd1f4c259840a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P110",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q253",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "taxonomy of Arabic rhetorical devices developed by the Encyclopedia of Arabic Rhetoric"
+            }
+        },
+        {
+            "@id": "wd:P112",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "is version of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "is version of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "is version of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "is an edition or translation of this item"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P112",
+            "claim": "p:P112",
+            "statementProperty": "ps:P112",
+            "statementValue": "psv:P112",
+            "qualifier": "pq:P112",
+            "qualifierValue": "pqv:P112",
+            "reference": "pr:P112",
+            "referenceValue": "prv:P112",
+            "novalue": "wdno:P112"
+        },
+        {
+            "@id": "p:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P112",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P112",
+            "@type": "owl:Class",
+            "complementOf": "_:a6b8cd7e361d920538df836b18220fbd"
+        },
+        {
+            "@id": "_:a6b8cd7e361d920538df836b18220fbd",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P112",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q258",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Taxonomy"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Taxonomy"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Taxonomy"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "a system of defining the classification of Arabic rhetorical devices"
+            }
+        },
+        {
+            "@id": "wd:P1",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "instance of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "type to which this subject corresponds/belongs"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P1",
+            "claim": "p:P1",
+            "statementProperty": "ps:P1",
+            "statementValue": "psv:P1",
+            "qualifier": "pq:P1",
+            "qualifierValue": "pqv:P1",
+            "reference": "pr:P1",
+            "referenceValue": "prv:P1",
+            "novalue": "wdno:P1"
+        },
+        {
+            "@id": "p:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P1",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P1",
+            "@type": "owl:Class",
+            "complementOf": "_:b96ec5135b6832e1d84209d72460276b"
+        },
+        {
+            "@id": "_:b96ec5135b6832e1d84209d72460276b",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P1",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wdv:857c88bc85a4553240b2da1cc0fcf6a1",
+            "@type": "wikibase:TimeValue",
+            "timeValue": "2025-11-20T00:00:00Z",
+            "timePrecision": 11,
+            "timeTimezone": 0,
+            "timeCalendarModel": "http://www.wikidata.org/entity/Q1985727"
+        }
+    ],
+    "@context": {
+        "data": "https://balaghabase.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "wd": "https://balaghabase.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "statements": {
+            "@id": "wikibase:statements"
+        },
+        "sitelinks": {
+            "@id": "wikibase:sitelinks"
+        },
+        "identifiers": {
+            "@id": "wikibase:identifiers"
+        },
+        "wdt": "https://balaghabase.org/prop/direct/",
+        "P92": {
+            "@id": "wdt:P92",
+            "@type": "@id"
+        },
+        "P81": {
+            "@id": "wdt:P81",
+            "@type": "xsd:dateTime"
+        },
+        "P119": {
+            "@id": "wdt:P119",
+            "@type": "@id"
+        },
+        "P19": {
+            "@id": "wdt:P19",
+            "@type": "@id"
+        },
+        "P110": {
+            "@id": "wdt:P110",
+            "@type": "@id"
+        },
+        "P112": {
+            "@id": "wdt:P112",
+            "@type": "@id"
+        },
+        "P1": {
+            "@id": "wdt:P1",
+            "@type": "@id"
+        },
+        "p": "https://balaghabase.org/prop/",
+        "wds": "https://balaghabase.org/entity/statement/",
+        "p:P92": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "https://balaghabase.org/prop/statement/",
+        "ps:P92": {
+            "@type": "@id"
+        },
+        "p:P81": {
+            "@type": "@id"
+        },
+        "ps:P81": {
+            "@type": "xsd:dateTime"
+        },
+        "psv": "https://balaghabase.org/prop/statement/value/",
+        "wdv": "https://balaghabase.org/value/",
+        "psv:P81": {
+            "@type": "@id"
+        },
+        "timeValue": {
+            "@id": "wikibase:timeValue",
+            "@type": "xsd:dateTime"
+        },
+        "timePrecision": {
+            "@id": "wikibase:timePrecision"
+        },
+        "timeTimezone": {
+            "@id": "wikibase:timeTimezone"
+        },
+        "timeCalendarModel": {
+            "@id": "wikibase:timeCalendarModel",
+            "@type": "@id"
+        },
+        "p:P119": {
+            "@type": "@id"
+        },
+        "ps:P119": {
+            "@type": "@id"
+        },
+        "p:P19": {
+            "@type": "@id"
+        },
+        "ps:P19": {
+            "@type": "@id"
+        },
+        "p:P110": {
+            "@type": "@id"
+        },
+        "ps:P110": {
+            "@type": "@id"
+        },
+        "p:P112": {
+            "@type": "@id"
+        },
+        "ps:P112": {
+            "@type": "@id"
+        },
+        "p:P1": {
+            "@type": "@id"
+        },
+        "ps:P1": {
+            "@type": "@id"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "pq": "https://balaghabase.org/prop/qualifier/",
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "https://balaghabase.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "pr": "https://balaghabase.org/prop/reference/",
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "prv": "https://balaghabase.org/prop/reference/value/",
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "https://balaghabase.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        }
+    }
+}

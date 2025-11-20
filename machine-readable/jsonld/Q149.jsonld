@@ -1,0 +1,928 @@
+{
+    "@graph": [
+        {
+            "@id": "data:Q149",
+            "@type": "schema:Dataset",
+            "about": "wd:Q149",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 4188,
+            "dateModified": "2025-11-20T07:33:22Z",
+            "statements": 14,
+            "sitelinks": 0,
+            "identifiers": 0
+        },
+        {
+            "@id": "wd:Q149",
+            "@type": "wikibase:Item",
+            "P7": "wd:Q67",
+            "P4": "https://al-balagha.com/wiki/Category:Argumentation_%26_Illustrative_Persuasion",
+            "P11": [
+                "wd:Q100",
+                "wd:Q101",
+                "wd:Q102",
+                "wd:Q103",
+                "wd:Q104",
+                "wd:Q105",
+                "wd:Q106",
+                "wd:Q107",
+                "wd:Q109",
+                "wd:Q108"
+            ],
+            "P119": [
+                "wd:Q254",
+                "wd:Q259"
+            ],
+            "p:P7": "wds:Q149-fb86d56f-4319-5941-d6ab-71f811551565"
+        },
+        {
+            "@id": "wds:Q149-fb86d56f-4319-5941-d6ab-71f811551565",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P7": "wd:Q67"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P4": "wds:Q149-1b8fe7e7-4f1b-c4ad-67f4-c7f021c58b5b"
+        },
+        {
+            "@id": "wds:Q149-1b8fe7e7-4f1b-c4ad-67f4-c7f021c58b5b",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P4": "https://al-balagha.com/wiki/Category:Argumentation_%26_Illustrative_Persuasion"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-5f2f3062-4796-c6ce-ed7c-44e5f8f0c55d"
+        },
+        {
+            "@id": "wds:Q149-5f2f3062-4796-c6ce-ed7c-44e5f8f0c55d",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q100"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-ff0e59b0-4527-a449-4642-59889785184f"
+        },
+        {
+            "@id": "wds:Q149-ff0e59b0-4527-a449-4642-59889785184f",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q101"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-114965b0-4e51-d91b-6047-6ced6ff576de"
+        },
+        {
+            "@id": "wds:Q149-114965b0-4e51-d91b-6047-6ced6ff576de",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q102"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-f2a10fca-448e-812c-863b-c4d7f7676191"
+        },
+        {
+            "@id": "wds:Q149-f2a10fca-448e-812c-863b-c4d7f7676191",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q103"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-afb79943-4a70-dfcb-f09b-9d5489ee2288"
+        },
+        {
+            "@id": "wds:Q149-afb79943-4a70-dfcb-f09b-9d5489ee2288",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q104"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-2e0b0563-46f2-9a22-30a1-ed7fdf8c07dc"
+        },
+        {
+            "@id": "wds:Q149-2e0b0563-46f2-9a22-30a1-ed7fdf8c07dc",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q105"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-677cfb77-4ff1-e206-e842-b5a3f3db0593"
+        },
+        {
+            "@id": "wds:Q149-677cfb77-4ff1-e206-e842-b5a3f3db0593",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q106"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-f3175d16-4c5c-0aea-ed0b-ec154dfbbb65"
+        },
+        {
+            "@id": "wds:Q149-f3175d16-4c5c-0aea-ed0b-ec154dfbbb65",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q107"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-a122b018-4765-7f81-cfea-74a2108639fe"
+        },
+        {
+            "@id": "wds:Q149-a122b018-4765-7f81-cfea-74a2108639fe",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q109"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P11": "wds:Q149-338cc9b0-4a2d-c01c-5019-2a9c1953f0da"
+        },
+        {
+            "@id": "wds:Q149-338cc9b0-4a2d-c01c-5019-2a9c1953f0da",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P11": "wd:Q108"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P119": "wds:Q149-ed0312d1-424b-69c5-902c-44149713f0b7"
+        },
+        {
+            "@id": "wds:Q149-ed0312d1-424b-69c5-902c-44149713f0b7",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P119": "wd:Q254"
+        },
+        {
+            "@id": "wd:Q149",
+            "p:P119": "wds:Q149-2568a7de-44b5-0139-7470-a827782e96f8"
+        },
+        {
+            "@id": "wds:Q149-2568a7de-44b5-0139-7470-a827782e96f8",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P119": "wd:Q259"
+        },
+        {
+            "@id": "wd:Q149",
+            "label": {
+                "@language": "en",
+                "@value": "Argumentation & Illustrative Persuasion"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Argumentation & Illustrative Persuasion"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Argumentation & Illustrative Persuasion"
+            }
+        },
+        {
+            "@id": "wd:Q67",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Linguistic Embellishments (\u2018ilm al-bad\u012b\u2018)"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Linguistic Embellishments (\u2018ilm al-bad\u012b\u2018)"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Linguistic Embellishments (\u2018ilm al-bad\u012b\u2018)"
+            }
+        },
+        {
+            "@id": "wd:P7",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "part of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "part of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "part of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Part of an item"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P7",
+            "claim": "p:P7",
+            "statementProperty": "ps:P7",
+            "statementValue": "psv:P7",
+            "qualifier": "pq:P7",
+            "qualifierValue": "pqv:P7",
+            "reference": "pr:P7",
+            "referenceValue": "prv:P7",
+            "novalue": "wdno:P7"
+        },
+        {
+            "@id": "p:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P7",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P7",
+            "@type": "owl:Class",
+            "complementOf": "_:b3316efa17ecac96bd23cd2f352c0a22"
+        },
+        {
+            "@id": "_:b3316efa17ecac96bd23cd2f352c0a22",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P7",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P4",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "described at URL"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "described at URL"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "described at URL"
+            },
+            "propertyType": "http://wikiba.se/ontology#Url",
+            "directClaim": "wdt:P4",
+            "claim": "p:P4",
+            "statementProperty": "ps:P4",
+            "statementValue": "psv:P4",
+            "qualifier": "pq:P4",
+            "qualifierValue": "pqv:P4",
+            "reference": "pr:P4",
+            "referenceValue": "prv:P4",
+            "novalue": "wdno:P4"
+        },
+        {
+            "@id": "p:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P4",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P4",
+            "@type": "owl:Class",
+            "complementOf": "_:c298799f0cd3665c958b9d4edf0ffbf3"
+        },
+        {
+            "@id": "_:c298799f0cd3665c958b9d4edf0ffbf3",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P4",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q100",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Rhetorical Shift"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Rhetorical Shift"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Rhetorical Shift"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator changes between person, tense or morphology"
+            }
+        },
+        {
+            "@id": "wd:P11",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "has part"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "has part"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "has part"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P11",
+            "claim": "p:P11",
+            "statementProperty": "ps:P11",
+            "statementValue": "psv:P11",
+            "qualifier": "pq:P11",
+            "qualifierValue": "pqv:P11",
+            "reference": "pr:P11",
+            "referenceValue": "prv:P11",
+            "novalue": "wdno:P11"
+        },
+        {
+            "@id": "p:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P11",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P11",
+            "@type": "owl:Class",
+            "complementOf": "_:920e98040780659844ffa720b8f7e53b"
+        },
+        {
+            "@id": "_:920e98040780659844ffa720b8f7e53b",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P11",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q101",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Scholastic Approach"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Scholastic Approach"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Scholastic Approach"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator uses reasoning, rational ideas, logic, or evidence to convince the addressee of the communicator\u2019s proposition or to refute conflicting views"
+            }
+        },
+        {
+            "@id": "wd:Q102",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Genre Shifting"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Genre Shifting"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Genre Shifting"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the comminicator combines two or more different literary arts (such as eulogy, praise, satire, boasting, congratulation, condolence, reprimand) in one piece"
+            }
+        },
+        {
+            "@id": "wd:Q103",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Quotation & Poetic Incorporation"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Quotation & Poetic Incorporation"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Quotation & Poetic Incorporation"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator takes a well-known text such as a proverb, poem, story, prophetic sayings, or Quranic verse and inserts it into a new text"
+            }
+        },
+        {
+            "@id": "wd:Q104",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Incorporation of Proverbs"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Incorporation of Proverbs"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Incorporation of Proverbs"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator incorporates a proverb, parable, or well-known statement into the text to strengthen the argument"
+            }
+        },
+        {
+            "@id": "wd:Q105",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Hinting at the Source"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Hinting at the Source"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Hinting at the Source"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator takes a well-known text such as a proverb, poem, story, prophetic sayings, or Quranic verse and incorporates it into a new text, the communicator provides a clue about the source of the quotation"
+            }
+        },
+        {
+            "@id": "wd:Q106",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Integration of Imagery"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Integration of Imagery"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Integration of Imagery"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator uses imagery to imply the existence of something else, rather than explicitly mentioning it"
+            }
+        },
+        {
+            "@id": "wd:Q107",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Stacked-up Descriptions"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Stacked-up Descriptions"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Stacked-up Descriptions"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where the communicator links together two or more related statements of praise or criticism to create a more intense rhetorical effect"
+            }
+        },
+        {
+            "@id": "wd:Q109",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Meaningful Proper Nouns"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Meaningful Proper Nouns"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Meaningful Proper Nouns"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device involving the use of names of people or places that can have multiple meanings or interpretations"
+            }
+        },
+        {
+            "@id": "wd:Q108",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Abstraction"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Abstraction"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Abstraction"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device where involving the abstracting of a general attribute from an individual, using an explicit abstraction formula"
+            }
+        },
+        {
+            "@id": "wd:Q254",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.0"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.0"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.0"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"
+            }
+        },
+        {
+            "@id": "wd:P119",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "is part of taxonomy"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "is part of taxonomy"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "is part of taxonomy"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "Arabic rhetorical device taxonomy which includes this item"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P119",
+            "claim": "p:P119",
+            "statementProperty": "ps:P119",
+            "statementValue": "psv:P119",
+            "qualifier": "pq:P119",
+            "qualifierValue": "pqv:P119",
+            "reference": "pr:P119",
+            "referenceValue": "prv:P119",
+            "novalue": "wdno:P119"
+        },
+        {
+            "@id": "p:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P119",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P119",
+            "@type": "owl:Class",
+            "complementOf": "_:7e9eb37ccad804051b2f00855e2cbacb"
+        },
+        {
+            "@id": "_:7e9eb37ccad804051b2f00855e2cbacb",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P119",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q259",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.1"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.1"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Arabic Rhetorical Device Taxonomy v0.1.1"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"
+            }
+        }
+    ],
+    "@context": {
+        "data": "https://balaghabase.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "wd": "https://balaghabase.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "statements": {
+            "@id": "wikibase:statements"
+        },
+        "sitelinks": {
+            "@id": "wikibase:sitelinks"
+        },
+        "identifiers": {
+            "@id": "wikibase:identifiers"
+        },
+        "wdt": "https://balaghabase.org/prop/direct/",
+        "P7": {
+            "@id": "wdt:P7",
+            "@type": "@id"
+        },
+        "P4": {
+            "@id": "wdt:P4",
+            "@type": "@id"
+        },
+        "P11": {
+            "@id": "wdt:P11",
+            "@type": "@id"
+        },
+        "P119": {
+            "@id": "wdt:P119",
+            "@type": "@id"
+        },
+        "p": "https://balaghabase.org/prop/",
+        "wds": "https://balaghabase.org/entity/statement/",
+        "p:P7": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "https://balaghabase.org/prop/statement/",
+        "ps:P7": {
+            "@type": "@id"
+        },
+        "p:P4": {
+            "@type": "@id"
+        },
+        "ps:P4": {
+            "@type": "@id"
+        },
+        "p:P11": {
+            "@type": "@id"
+        },
+        "ps:P11": {
+            "@type": "@id"
+        },
+        "p:P119": {
+            "@type": "@id"
+        },
+        "ps:P119": {
+            "@type": "@id"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "psv": "https://balaghabase.org/prop/statement/value/",
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "pq": "https://balaghabase.org/prop/qualifier/",
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "https://balaghabase.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "pr": "https://balaghabase.org/prop/reference/",
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "prv": "https://balaghabase.org/prop/reference/value/",
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "https://balaghabase.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        }
+    }
+}

@@ -1,0 +1,317 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <https://balaghabase.org/entity/> .
+@prefix data: <https://balaghabase.org/wiki/Special:EntityData/> .
+@prefix wds: <https://balaghabase.org/entity/statement/> .
+@prefix wdref: <https://balaghabase.org/reference/> .
+@prefix wdv: <https://balaghabase.org/value/> .
+@prefix wdt: <https://balaghabase.org/prop/direct/> .
+@prefix wdtn: <https://balaghabase.org/prop/direct-normalized/> .
+@prefix p: <https://balaghabase.org/prop/> .
+@prefix ps: <https://balaghabase.org/prop/statement/> .
+@prefix psv: <https://balaghabase.org/prop/statement/value/> .
+@prefix psn: <https://balaghabase.org/prop/statement/value-normalized/> .
+@prefix pq: <https://balaghabase.org/prop/qualifier/> .
+@prefix pqv: <https://balaghabase.org/prop/qualifier/value/> .
+@prefix pqn: <https://balaghabase.org/prop/qualifier/value-normalized/> .
+@prefix pr: <https://balaghabase.org/prop/reference/> .
+@prefix prv: <https://balaghabase.org/prop/reference/value/> .
+@prefix prn: <https://balaghabase.org/prop/reference/value-normalized/> .
+@prefix wdno: <https://balaghabase.org/prop/novalue/> .
+
+data:Q226 a schema:Dataset ;
+	schema:about wd:Q226 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "4178"^^xsd:integer ;
+	schema:dateModified "2025-11-20T07:32:18Z"^^xsd:dateTime ;
+	wikibase:statements "6"^^xsd:integer ;
+	wikibase:sitelinks "0"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer .
+
+wd:Q226 a wikibase:Item ;
+	wdt:P1 wd:Q213 ;
+	wdt:P87 wd:Q219 ;
+	wdt:P18 wd:Q227 ;
+	wdt:P82 "661-662" ;
+	wdt:P119 wd:Q254,
+		wd:Q259 ;
+	p:P1 wds:Q226-2c7281a0-42c3-0443-4bb0-700dca24a2f3 .
+
+wds:Q226-2c7281a0-42c3-0443-4bb0-700dca24a2f3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1 wd:Q213 .
+
+wd:Q226 p:P87 wds:Q226-a2c8c3a3-4f12-0e1c-7bd5-29a9adf6ddfc .
+
+wds:Q226-a2c8c3a3-4f12-0e1c-7bd5-29a9adf6ddfc a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P87 wd:Q219 .
+
+wd:Q226 p:P18 wds:Q226-3c94201f-46ac-a21c-1a3a-9e0fe28c3a22 .
+
+wds:Q226-3c94201f-46ac-a21c-1a3a-9e0fe28c3a22 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P18 wd:Q227 .
+
+wd:Q226 p:P82 wds:Q226-2dfaec52-454e-af1a-4595-d04c4a97bfdd .
+
+wds:Q226-2dfaec52-454e-af1a-4595-d04c4a97bfdd a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P82 "661-662" .
+
+wd:Q226 p:P119 wds:Q226-9b953b96-4f48-43bf-3484-d26193999c54 .
+
+wds:Q226-9b953b96-4f48-43bf-3484-d26193999c54 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q254 .
+
+wd:Q226 p:P119 wds:Q226-5f35babd-4c61-695a-09b8-1fc32ff626c6 .
+
+wds:Q226-5f35babd-4c61-695a-09b8-1fc32ff626c6 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q259 .
+
+wd:Q226 rdfs:label "Rhetorical Figures"@en ;
+	skos:prefLabel "Rhetorical Figures"@en ;
+	schema:name "Rhetorical Figures"@en ;
+	schema:description "encyclopedia article in English about Arabic rhetorical devices written by W. P. Heinrichs"@en .
+
+wd:Q213 a wikibase:Item ;
+	rdfs:label "Encyclopedia article"@en ;
+	skos:prefLabel "Encyclopedia article"@en ;
+	schema:name "Encyclopedia article"@en ;
+	schema:description "part of encyclopedia, sometimes considered as reference work by itself"@en .
+
+wd:P1 a wikibase:Property ;
+	rdfs:label "instance of"@en ;
+	skos:prefLabel "instance of"@en ;
+	schema:name "instance of"@en ;
+	schema:description "type to which this subject corresponds/belongs"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P1 ;
+	wikibase:claim p:P1 ;
+	wikibase:statementProperty ps:P1 ;
+	wikibase:statementValue psv:P1 ;
+	wikibase:qualifier pq:P1 ;
+	wikibase:qualifierValue pqv:P1 ;
+	wikibase:reference pr:P1 ;
+	wikibase:referenceValue prv:P1 ;
+	wikibase:novalue wdno:P1 .
+
+p:P1 a owl:ObjectProperty .
+
+psv:P1 a owl:ObjectProperty .
+
+pqv:P1 a owl:ObjectProperty .
+
+prv:P1 a owl:ObjectProperty .
+
+wdt:P1 a owl:ObjectProperty .
+
+ps:P1 a owl:ObjectProperty .
+
+pq:P1 a owl:ObjectProperty .
+
+pr:P1 a owl:ObjectProperty .
+
+wdno:P1 a owl:Class ;
+	owl:complementOf _:b96ec5135b6832e1d84209d72460276b .
+
+_:b96ec5135b6832e1d84209d72460276b a owl:Restriction ;
+	owl:onProperty wdt:P1 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q219 a wikibase:Item ;
+	rdfs:label "Encyclopedia of Arabic Literature"@en ;
+	skos:prefLabel "Encyclopedia of Arabic Literature"@en ;
+	schema:name "Encyclopedia of Arabic Literature"@en ;
+	schema:description "encylopedia related to literature in Arabic co-edited by Julie Scott Meisami and Paul Starkey"@en .
+
+wd:P87 a wikibase:Property ;
+	rdfs:label "published in"@en ;
+	skos:prefLabel "published in"@en ;
+	schema:name "published in"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P87 ;
+	wikibase:claim p:P87 ;
+	wikibase:statementProperty ps:P87 ;
+	wikibase:statementValue psv:P87 ;
+	wikibase:qualifier pq:P87 ;
+	wikibase:qualifierValue pqv:P87 ;
+	wikibase:reference pr:P87 ;
+	wikibase:referenceValue prv:P87 ;
+	wikibase:novalue wdno:P87 .
+
+p:P87 a owl:ObjectProperty .
+
+psv:P87 a owl:ObjectProperty .
+
+pqv:P87 a owl:ObjectProperty .
+
+prv:P87 a owl:ObjectProperty .
+
+wdt:P87 a owl:ObjectProperty .
+
+ps:P87 a owl:ObjectProperty .
+
+pq:P87 a owl:ObjectProperty .
+
+pr:P87 a owl:ObjectProperty .
+
+wdno:P87 a owl:Class ;
+	owl:complementOf _:0c2f082de4c5346e2ccb4c6ba86f43bb .
+
+_:0c2f082de4c5346e2ccb4c6ba86f43bb a owl:Restriction ;
+	owl:onProperty wdt:P87 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q227 a wikibase:Item ;
+	rdfs:label "W. P. Heinrichs"@en ;
+	skos:prefLabel "W. P. Heinrichs"@en ;
+	schema:name "W. P. Heinrichs"@en ;
+	schema:description "German Arabist (3 October 1941 – 23 January 2014)"@en .
+
+wd:P18 a wikibase:Property ;
+	rdfs:label "author"@en ;
+	skos:prefLabel "author"@en ;
+	schema:name "author"@en ;
+	schema:description "main creator(s) of a written work"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P18 ;
+	wikibase:claim p:P18 ;
+	wikibase:statementProperty ps:P18 ;
+	wikibase:statementValue psv:P18 ;
+	wikibase:qualifier pq:P18 ;
+	wikibase:qualifierValue pqv:P18 ;
+	wikibase:reference pr:P18 ;
+	wikibase:referenceValue prv:P18 ;
+	wikibase:novalue wdno:P18 .
+
+p:P18 a owl:ObjectProperty .
+
+psv:P18 a owl:ObjectProperty .
+
+pqv:P18 a owl:ObjectProperty .
+
+prv:P18 a owl:ObjectProperty .
+
+wdt:P18 a owl:ObjectProperty .
+
+ps:P18 a owl:ObjectProperty .
+
+pq:P18 a owl:ObjectProperty .
+
+pr:P18 a owl:ObjectProperty .
+
+wdno:P18 a owl:Class ;
+	owl:complementOf _:6805f61e02eb4845abffeb9b8a398ef2 .
+
+_:6805f61e02eb4845abffeb9b8a398ef2 a owl:Restriction ;
+	owl:onProperty wdt:P18 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P82 a wikibase:Property ;
+	rdfs:label "page(s)"@en ;
+	skos:prefLabel "page(s)"@en ;
+	schema:name "page(s)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#String> ;
+	wikibase:directClaim wdt:P82 ;
+	wikibase:claim p:P82 ;
+	wikibase:statementProperty ps:P82 ;
+	wikibase:statementValue psv:P82 ;
+	wikibase:qualifier pq:P82 ;
+	wikibase:qualifierValue pqv:P82 ;
+	wikibase:reference pr:P82 ;
+	wikibase:referenceValue prv:P82 ;
+	wikibase:novalue wdno:P82 .
+
+p:P82 a owl:ObjectProperty .
+
+psv:P82 a owl:ObjectProperty .
+
+pqv:P82 a owl:ObjectProperty .
+
+prv:P82 a owl:ObjectProperty .
+
+wdt:P82 a owl:DatatypeProperty .
+
+ps:P82 a owl:DatatypeProperty .
+
+pq:P82 a owl:DatatypeProperty .
+
+pr:P82 a owl:DatatypeProperty .
+
+wdno:P82 a owl:Class ;
+	owl:complementOf _:29cebc9ff437854d86dad3f6a76c3c60 .
+
+_:29cebc9ff437854d86dad3f6a76c3c60 a owl:Restriction ;
+	owl:onProperty wdt:P82 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q254 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"@en .
+
+wd:P119 a wikibase:Property ;
+	rdfs:label "is part of taxonomy"@en ;
+	skos:prefLabel "is part of taxonomy"@en ;
+	schema:name "is part of taxonomy"@en ;
+	schema:description "Arabic rhetorical device taxonomy which includes this item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P119 ;
+	wikibase:claim p:P119 ;
+	wikibase:statementProperty ps:P119 ;
+	wikibase:statementValue psv:P119 ;
+	wikibase:qualifier pq:P119 ;
+	wikibase:qualifierValue pqv:P119 ;
+	wikibase:reference pr:P119 ;
+	wikibase:referenceValue prv:P119 ;
+	wikibase:novalue wdno:P119 .
+
+p:P119 a owl:ObjectProperty .
+
+psv:P119 a owl:ObjectProperty .
+
+pqv:P119 a owl:ObjectProperty .
+
+prv:P119 a owl:ObjectProperty .
+
+wdt:P119 a owl:ObjectProperty .
+
+ps:P119 a owl:ObjectProperty .
+
+pq:P119 a owl:ObjectProperty .
+
+pr:P119 a owl:ObjectProperty .
+
+wdno:P119 a owl:Class ;
+	owl:complementOf _:7e9eb37ccad804051b2f00855e2cbacb .
+
+_:7e9eb37ccad804051b2f00855e2cbacb a owl:Restriction ;
+	owl:onProperty wdt:P119 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q259 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"@en .

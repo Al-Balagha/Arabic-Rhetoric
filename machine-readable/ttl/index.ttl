@@ -1,0 +1,27 @@
+@prefix schema: <http://schema.org/> .
+@prefix : <./> .
+
+<> a schema:DataCatalog ;
+   schema:name "Arabic Rhetorical Device Taxonomy v0.1.1 – TTL Index" ;
+   schema:version "0.1.1" ;
+   schema:license <https://creativecommons.org/licenses/by-nc-nd/4.0/> ;
+   schema:description "Index of TTL representations of all rhetorical devices included in Arabic Rhetorical Device Taxonomy v0.1.1." ;
+   schema:dateModified "2025-11-20" ;
+   schema:dataset 
+       <Q3.ttl>, <Q6.ttl>, <Q7.ttl>, <Q10.ttl>, <Q39.ttl>, <Q40.ttl>, <Q41.ttl>, <Q42.ttl>,
+       <Q44.ttl>, <Q45.ttl>, <Q46.ttl>, <Q47.ttl>, <Q48.ttl>, <Q49.ttl>, <Q50.ttl>, <Q51.ttl>,
+       <Q52.ttl>, <Q53.ttl>, <Q54.ttl>, <Q55.ttl>, <Q56.ttl>, <Q57.ttl>, <Q58.ttl>, <Q59.ttl>,
+       <Q60.ttl>, <Q61.ttl>, <Q62.ttl>, <Q63.ttl>, <Q64.ttl>, <Q66.ttl>, <Q67.ttl>, <Q68.ttl>,
+       <Q69.ttl>, <Q70.ttl>, <Q71.ttl>, <Q72.ttl>, <Q73.ttl>, <Q74.ttl>, <Q75.ttl>, <Q76.ttl>,
+       <Q77.ttl>, <Q78.ttl>, <Q79.ttl>, <Q80.ttl>, <Q81.ttl>, <Q82.ttl>, <Q83.ttl>, <Q84.ttl>,
+       <Q85.ttl>, <Q86.ttl>, <Q87.ttl>, <Q88.ttl>, <Q89.ttl>, <Q90.ttl>, <Q91.ttl>, <Q92.ttl>,
+       <Q93.ttl>, <Q94.ttl>, <Q95.ttl>, <Q96.ttl>, <Q97.ttl>, <Q98.ttl>, <Q100.ttl>, <Q101.ttl>,
+       <Q102.ttl>, <Q103.ttl>, <Q104.ttl>, <Q105.ttl>, <Q106.ttl>, <Q107.ttl>, <Q108.ttl>, <Q109.ttl>,
+       <Q110.ttl>, <Q111.ttl>, <Q112.ttl>, <Q113.ttl>, <Q114.ttl>, <Q115.ttl>, <Q116.ttl>, <Q117.ttl>,
+       <Q118.ttl>, <Q119.ttl>, <Q120.ttl>, <Q121.ttl>, <Q122.ttl>, <Q123.ttl>, <Q124.ttl>, <Q125.ttl>,
+       <Q126.ttl>, <Q127.ttl>, <Q128.ttl>, <Q129.ttl>, <Q130.ttl>, <Q131.ttl>, <Q132.ttl>, <Q133.ttl>,
+       <Q134.ttl>, <Q135.ttl>, <Q136.ttl>, <Q137.ttl>, <Q138.ttl>, <Q139.ttl>, <Q140.ttl>, <Q141.ttl>,
+       <Q143.ttl>, <Q144.ttl>, <Q145.ttl>, <Q146.ttl>, <Q147.ttl>, <Q148.ttl>, <Q149.ttl>, <Q150.ttl>,
+       <Q151.ttl>, <Q152.ttl>, <Q154.ttl>, <Q169.ttl>, <Q180.ttl>, <Q186.ttl>, <Q190.ttl>, <Q197.ttl>,
+       <Q203.ttl>, <Q226.ttl>, <Q228.ttl>, <Q230.ttl>, <Q231.ttl>, <Q242.ttl>, <Q253.ttl>, <Q254.ttl>,
+       <Q258.ttl>, <Q259.ttl> .

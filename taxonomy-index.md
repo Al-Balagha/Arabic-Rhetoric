@@ -1,5 +1,5 @@
-[![Encyclopedia of Arabic Rhetoric](https://al-balagha.com/al-balagha-logo2.png "Encyclopedia of Arabic Rhetoric.")](https://al-balagha.com)
-# [Arabic Rhetorical Device Taxonomy (v0.1.0)](https://github.com/Al-Balagha/Arabic-Rhetoric/releases/tag/v0.1.0)
+[![Encyclopedia of Arabic Rhetoric](static/logo.png "Encyclopedia of Arabic Rhetoric.")](https://al-balagha.com)
+# [Arabic Rhetorical Device Taxonomy (v0.1.1)](https://github.com/Al-Balagha/Arabic-Rhetoric/tree/v0.1.1)
 ### A project of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
 
 The systematic, hierarchical classification of **Arabic rhetorical devices** published by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).
@@ -9,14 +9,25 @@ The systematic, hierarchical classification of **Arabic rhetorical devices** pub
 This file contains a comprehensive listing of the contents of the repository.
 
 The materials are generally available in 3 formats:
-1. A static PDF file, suitable for offline use, which is an accurate representation of the corresponding page on the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) at the time the repository was released (17 November 2025).
-2. A fully self-contained static HTML file, suitable for offline use, which is also an accurate representation of the corresponding page on the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) at the time the repository was released (17 November 2025).
+1. A static PDF file, suitable for offline use, which is an accurate representation of the corresponding page on the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) at the time the repository was released (20 November 2025).
+2. A fully self-contained static HTML file, suitable for offline use, which is also an accurate representation of the corresponding page on the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) at the time the repository was released (20 November 2025).
 
 3. A URL link to the live page on the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).\*\*\*
 
 This index provides clickable links to all formats, allowing users to access each device in the format most useful to them.
 
 \*\*\* Please note that the live page may have been slightly updated or corrected since the repository was released. However, if there was a major revision, a new version of the live page would be created in the Encyclopedia, so the old page - which is linked to from the repository - would still be available for reference purposes.
+
+The repository also contains the Arabic rhetorical devices and taxonomy information in the following machine-readable formats:
+* [JSON](machine-readable/json)
+* [JSON-LD](machine-readable/jsonld)
+* [RDF/XML](machine-readable/rdfxml)
+* [TTL](machine-readable/ttl)
+
+Each format contains one file per Arabic rhetorical device or taxonomy item, using the corresponding Q-number as the filename. The Q-numbers match the item identifiers on [**BalaghaBase.org**](https://balaghabase.org), the project's custom Wikibase instance. For example, [Metaphor](https://balaghabase.org/wiki/Item:Q57) is item Q57 at BalaghaBase.org, and is represented as `Q57` in each machine-readable format within this repository.
+
+💡 You may browse item metadata directly at [**BalaghaBase.org**](https://balaghabase.org) or ingest the machine-readable files into your own digital humanities tools or knowledge-graph systems.
+
 
 &nbsp;
 ### Table of Contents
@@ -655,10 +666,22 @@ Pages giving background information about the Encyclopedia, Arabic rhetoric, and
 🧩 [HTML](HTML/Arabic_Rhetorical_Devices/D-Negative_Rhetorical_Effects/D-6_Use_of_Inappropriate_Linguistic_Style_and_Register.html)
 🌐 [Web](https://al-balagha.com/wiki/D-6:_Use_of_Inappropriate_Linguistic_Style_and_Register)
 
+
 &nbsp;<br>
 ---
-## 🌐 Contact
-[Dr Mandar Marathe](https://marathe.org)  
-[PhD Student in Arabic](https://www.soas.ac.uk/about/mandar-marathe) at SOAS University of London  
-[Encyclopedia of Arabic Rhetoric](https://al-balagha.com)  
-_Last updated: 17 November 2025._
+## 📬 About the Author
+**[Dr Mandar Marathe](https://marathe.org)** | [SOAS Profile](https://www.soas.ac.uk/about/mandar-marathe)  
+PhD Researcher in Arabic Rhetoric | SOAS University of London  
+[![Project Home](https://img.shields.io/badge/ARDT%20Project-Home-green)](https://al-balagha.com/wiki/Arabic_Rhetorical_Device_Taxonomy)  
+
+### Related Projects
+- 📚 [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) - Reference source for Arabic rhetorical devices  
+- 💯 [BALAGHA Score](https://balaghascore.com) - Arabic rhetorical density analysis  
+- 📖 [Balagha Corpus](https://balagha-corpus.com) - Annotated texts for Arabic rhetorical analysis  
+- 📡 [BalaghaBase.org](https://balaghabase.org) - Semantic knowledge graph for Arabic rhetoric  
+- 🔬 [Rhetorical Density](https://rhetorical-density.com) - Methodology and discussion of rhetorical density as a quantitative metric  
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mandar-marathe-uk/) [![ORCID](https://img.shields.io/badge/ORCID-Profile-green.svg)](https://orcid.org/0000-0002-6927-6836) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=w-bT-iYAAAAJ)  
+---
+_Last updated: 20 November 2025._

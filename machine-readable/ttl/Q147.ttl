@@ -1,0 +1,360 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <https://balaghabase.org/entity/> .
+@prefix data: <https://balaghabase.org/wiki/Special:EntityData/> .
+@prefix wds: <https://balaghabase.org/entity/statement/> .
+@prefix wdref: <https://balaghabase.org/reference/> .
+@prefix wdv: <https://balaghabase.org/value/> .
+@prefix wdt: <https://balaghabase.org/prop/direct/> .
+@prefix wdtn: <https://balaghabase.org/prop/direct-normalized/> .
+@prefix p: <https://balaghabase.org/prop/> .
+@prefix ps: <https://balaghabase.org/prop/statement/> .
+@prefix psv: <https://balaghabase.org/prop/statement/value/> .
+@prefix psn: <https://balaghabase.org/prop/statement/value-normalized/> .
+@prefix pq: <https://balaghabase.org/prop/qualifier/> .
+@prefix pqv: <https://balaghabase.org/prop/qualifier/value/> .
+@prefix pqn: <https://balaghabase.org/prop/qualifier/value-normalized/> .
+@prefix pr: <https://balaghabase.org/prop/reference/> .
+@prefix prv: <https://balaghabase.org/prop/reference/value/> .
+@prefix prn: <https://balaghabase.org/prop/reference/value-normalized/> .
+@prefix wdno: <https://balaghabase.org/prop/novalue/> .
+
+data:Q147 a schema:Dataset ;
+	schema:about wd:Q147 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "4190"^^xsd:integer ;
+	schema:dateModified "2025-11-20T07:33:34Z"^^xsd:dateTime ;
+	wikibase:statements "12"^^xsd:integer ;
+	wikibase:sitelinks "0"^^xsd:integer ;
+	wikibase:identifiers "0"^^xsd:integer .
+
+wd:Q147 a wikibase:Item ;
+	wdt:P7 wd:Q67 ;
+	wdt:P4 <https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric> ;
+	wdt:P11 wd:Q81,
+		wd:Q82,
+		wd:Q83,
+		wd:Q84,
+		wd:Q85,
+		wd:Q86,
+		wd:Q87,
+		wd:Q88 ;
+	wdt:P119 wd:Q254,
+		wd:Q259 ;
+	p:P7 wds:Q147-9047d4e0-4948-d12c-1fc7-f15dc5ba89a3 .
+
+wds:Q147-9047d4e0-4948-d12c-1fc7-f15dc5ba89a3 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P7 wd:Q67 .
+
+wd:Q147 p:P4 wds:Q147-1185a759-4b24-ae5d-278e-54dc68b05477 .
+
+wds:Q147-1185a759-4b24-ae5d-278e-54dc68b05477 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P4 <https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric> .
+
+wd:Q147 p:P11 wds:Q147-75059fa7-4516-d311-1b5d-8f2d8b39c789 .
+
+wds:Q147-75059fa7-4516-d311-1b5d-8f2d8b39c789 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q81 .
+
+wd:Q147 p:P11 wds:Q147-a864fa4d-4bb4-882e-dbe9-91b5af6017d5 .
+
+wds:Q147-a864fa4d-4bb4-882e-dbe9-91b5af6017d5 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q82 .
+
+wd:Q147 p:P11 wds:Q147-295e5a38-406f-1cfd-365e-26674d432b17 .
+
+wds:Q147-295e5a38-406f-1cfd-365e-26674d432b17 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q83 .
+
+wd:Q147 p:P11 wds:Q147-5153ac6b-4095-dd36-7b45-0cff6539b913 .
+
+wds:Q147-5153ac6b-4095-dd36-7b45-0cff6539b913 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q84 .
+
+wd:Q147 p:P11 wds:Q147-0064b21f-4da7-3300-a09f-890e7fc55736 .
+
+wds:Q147-0064b21f-4da7-3300-a09f-890e7fc55736 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q85 .
+
+wd:Q147 p:P11 wds:Q147-eb991f30-4700-a175-aa4b-b36ce8a3b7dd .
+
+wds:Q147-eb991f30-4700-a175-aa4b-b36ce8a3b7dd a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q86 .
+
+wd:Q147 p:P11 wds:Q147-71702e23-4fa8-f950-138c-b920813e8649 .
+
+wds:Q147-71702e23-4fa8-f950-138c-b920813e8649 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q87 .
+
+wd:Q147 p:P11 wds:Q147-8c001b61-450e-1479-9e10-049d9966d229 .
+
+wds:Q147-8c001b61-450e-1479-9e10-049d9966d229 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P11 wd:Q88 .
+
+wd:Q147 p:P119 wds:Q147-2a65805d-4800-88b4-bd1b-04d0fb95e5fd .
+
+wds:Q147-2a65805d-4800-88b4-bd1b-04d0fb95e5fd a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q254 .
+
+wd:Q147 p:P119 wds:Q147-b8a9739b-4283-86f6-fff8-98cc2a096b84 .
+
+wds:Q147-b8a9739b-4283-86f6-fff8-98cc2a096b84 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P119 wd:Q259 .
+
+wd:Q147 rdfs:label "Grouping & Distinguishing"@en ;
+	skos:prefLabel "Grouping & Distinguishing"@en ;
+	schema:name "Grouping & Distinguishing"@en .
+
+wd:Q67 a wikibase:Item ;
+	rdfs:label "Linguistic Embellishments (‘ilm al-badī‘)"@en ;
+	skos:prefLabel "Linguistic Embellishments (‘ilm al-badī‘)"@en ;
+	schema:name "Linguistic Embellishments (‘ilm al-badī‘)"@en .
+
+wd:P7 a wikibase:Property ;
+	rdfs:label "part of"@en ;
+	skos:prefLabel "part of"@en ;
+	schema:name "part of"@en ;
+	schema:description "Part of an item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P7 ;
+	wikibase:claim p:P7 ;
+	wikibase:statementProperty ps:P7 ;
+	wikibase:statementValue psv:P7 ;
+	wikibase:qualifier pq:P7 ;
+	wikibase:qualifierValue pqv:P7 ;
+	wikibase:reference pr:P7 ;
+	wikibase:referenceValue prv:P7 ;
+	wikibase:novalue wdno:P7 .
+
+p:P7 a owl:ObjectProperty .
+
+psv:P7 a owl:ObjectProperty .
+
+pqv:P7 a owl:ObjectProperty .
+
+prv:P7 a owl:ObjectProperty .
+
+wdt:P7 a owl:ObjectProperty .
+
+ps:P7 a owl:ObjectProperty .
+
+pq:P7 a owl:ObjectProperty .
+
+pr:P7 a owl:ObjectProperty .
+
+wdno:P7 a owl:Class ;
+	owl:complementOf _:b3316efa17ecac96bd23cd2f352c0a22 .
+
+_:b3316efa17ecac96bd23cd2f352c0a22 a owl:Restriction ;
+	owl:onProperty wdt:P7 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P4 a wikibase:Property ;
+	rdfs:label "described at URL"@en ;
+	skos:prefLabel "described at URL"@en ;
+	schema:name "described at URL"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#Url> ;
+	wikibase:directClaim wdt:P4 ;
+	wikibase:claim p:P4 ;
+	wikibase:statementProperty ps:P4 ;
+	wikibase:statementValue psv:P4 ;
+	wikibase:qualifier pq:P4 ;
+	wikibase:qualifierValue pqv:P4 ;
+	wikibase:reference pr:P4 ;
+	wikibase:referenceValue prv:P4 ;
+	wikibase:novalue wdno:P4 .
+
+p:P4 a owl:ObjectProperty .
+
+psv:P4 a owl:ObjectProperty .
+
+pqv:P4 a owl:ObjectProperty .
+
+prv:P4 a owl:ObjectProperty .
+
+wdt:P4 a owl:ObjectProperty .
+
+ps:P4 a owl:ObjectProperty .
+
+pq:P4 a owl:ObjectProperty .
+
+pr:P4 a owl:ObjectProperty .
+
+wdno:P4 a owl:Class ;
+	owl:complementOf _:c298799f0cd3665c958b9d4edf0ffbf3 .
+
+_:c298799f0cd3665c958b9d4edf0ffbf3 a owl:Restriction ;
+	owl:onProperty wdt:P4 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q81 a wikibase:Item ;
+	rdfs:label "Unifying Expression"@en ;
+	skos:prefLabel "Unifying Expression"@en ;
+	schema:name "Unifying Expression"@en ;
+	schema:description "Arabic rhetorical device where a word or expression is used to modify multiple words or phrases, but with different meanings or implications for each"@en .
+
+wd:P11 a wikibase:Property ;
+	rdfs:label "has part"@en ;
+	skos:prefLabel "has part"@en ;
+	schema:name "has part"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P11 ;
+	wikibase:claim p:P11 ;
+	wikibase:statementProperty ps:P11 ;
+	wikibase:statementValue psv:P11 ;
+	wikibase:qualifier pq:P11 ;
+	wikibase:qualifierValue pqv:P11 ;
+	wikibase:reference pr:P11 ;
+	wikibase:referenceValue prv:P11 ;
+	wikibase:novalue wdno:P11 .
+
+p:P11 a owl:ObjectProperty .
+
+psv:P11 a owl:ObjectProperty .
+
+pqv:P11 a owl:ObjectProperty .
+
+prv:P11 a owl:ObjectProperty .
+
+wdt:P11 a owl:ObjectProperty .
+
+ps:P11 a owl:ObjectProperty .
+
+pq:P11 a owl:ObjectProperty .
+
+pr:P11 a owl:ObjectProperty .
+
+wdno:P11 a owl:Class ;
+	owl:complementOf _:920e98040780659844ffa720b8f7e53b .
+
+_:920e98040780659844ffa720b8f7e53b a owl:Restriction ;
+	owl:onProperty wdt:P11 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q82 a wikibase:Item ;
+	rdfs:label "Syntactic Grouping"@en ;
+	skos:prefLabel "Syntactic Grouping"@en ;
+	schema:name "Syntactic Grouping"@en ;
+	schema:description "Arabic rhetorical device where several things are collected together and a collective verdict or judgement is made"@en .
+
+wd:Q83 a wikibase:Item ;
+	rdfs:label "Semantic Grouping"@en ;
+	skos:prefLabel "Semantic Grouping"@en ;
+	schema:name "Semantic Grouping"@en ;
+	schema:description "Arabic rhetorical device where multiple, often related or similar, qualities or details are grouped together to enhance emphasis or create a rich, detailed picture"@en .
+
+wd:Q84 a wikibase:Item ;
+	rdfs:label "Dividing Items"@en ;
+	skos:prefLabel "Dividing Items"@en ;
+	schema:name "Dividing Items"@en ;
+	schema:description "Arabic rhetorical device where a general category or statement is broken down into its constituent parts, and each part is assigned a specific trait, action, or outcome, create emphasis, rhythm, or clarity through structured elaboration"@en .
+
+wd:Q85 a wikibase:Item ;
+	rdfs:label "Grouping Then Dividing"@en ;
+	skos:prefLabel "Grouping Then Dividing"@en ;
+	schema:name "Grouping Then Dividing"@en ;
+	schema:description "Arabic rhetorical device where a general collective statement is made first (jam‘), and then this is divided or detailed (taqsīm)"@en .
+
+wd:Q86 a wikibase:Item ;
+	rdfs:label "Grouping Then Differentiating"@en ;
+	skos:prefLabel "Grouping Then Differentiating"@en ;
+	schema:name "Grouping Then Differentiating"@en ;
+	schema:description "Arabic rhetorical device where the communicator first combines multiple subjects under a shared predicate, and then differentiates them with individual qualifiers or extensions"@en .
+
+wd:Q87 a wikibase:Item ;
+	rdfs:label "Differentiating Between Similar Items"@en ;
+	skos:prefLabel "Differentiating Between Similar Items"@en ;
+	schema:name "Differentiating Between Similar Items"@en ;
+	schema:description "Arabic rhetorical device involving differentiation between two things that mistakenly could be considered to be same"@en .
+
+wd:Q88 a wikibase:Item ;
+	rdfs:label "Folding and Unfolding"@en ;
+	skos:prefLabel "Folding and Unfolding"@en ;
+	schema:name "Folding and Unfolding"@en ;
+	schema:description "Arabic rhetorical device where two or more items are mentioned in succession  (اللفّ), then, further information is \"Unfolded\" (النشر) about these items"@en .
+
+wd:Q254 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.0"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025"@en .
+
+wd:P119 a wikibase:Property ;
+	rdfs:label "is part of taxonomy"@en ;
+	skos:prefLabel "is part of taxonomy"@en ;
+	schema:name "is part of taxonomy"@en ;
+	schema:description "Arabic rhetorical device taxonomy which includes this item"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P119 ;
+	wikibase:claim p:P119 ;
+	wikibase:statementProperty ps:P119 ;
+	wikibase:statementValue psv:P119 ;
+	wikibase:qualifier pq:P119 ;
+	wikibase:qualifierValue pqv:P119 ;
+	wikibase:reference pr:P119 ;
+	wikibase:referenceValue prv:P119 ;
+	wikibase:novalue wdno:P119 .
+
+p:P119 a owl:ObjectProperty .
+
+psv:P119 a owl:ObjectProperty .
+
+pqv:P119 a owl:ObjectProperty .
+
+prv:P119 a owl:ObjectProperty .
+
+wdt:P119 a owl:ObjectProperty .
+
+ps:P119 a owl:ObjectProperty .
+
+pq:P119 a owl:ObjectProperty .
+
+pr:P119 a owl:ObjectProperty .
+
+wdno:P119 a owl:Class ;
+	owl:complementOf _:7e9eb37ccad804051b2f00855e2cbacb .
+
+_:7e9eb37ccad804051b2f00855e2cbacb a owl:Restriction ;
+	owl:onProperty wdt:P119 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q259 a wikibase:Item ;
+	rdfs:label "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	skos:prefLabel "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:name "Arabic Rhetorical Device Taxonomy v0.1.1"@en ;
+	schema:description "version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025"@en .

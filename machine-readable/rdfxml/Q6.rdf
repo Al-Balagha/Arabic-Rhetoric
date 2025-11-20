@@ -1,0 +1,914 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:ontolex="http://www.w3.org/ns/lemon/ontolex#" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wikibase="http://wikiba.se/ontology#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:cc="http://creativecommons.org/ns#" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:wd="https://balaghabase.org/entity/" xmlns:data="https://balaghabase.org/wiki/Special:EntityData/" xmlns:wds="https://balaghabase.org/entity/statement/" xmlns:wdref="https://balaghabase.org/reference/" xmlns:wdv="https://balaghabase.org/value/" xmlns:wdt="https://balaghabase.org/prop/direct/" xmlns:wdtn="https://balaghabase.org/prop/direct-normalized/" xmlns:p="https://balaghabase.org/prop/" xmlns:ps="https://balaghabase.org/prop/statement/" xmlns:psv="https://balaghabase.org/prop/statement/value/" xmlns:psn="https://balaghabase.org/prop/statement/value-normalized/" xmlns:pq="https://balaghabase.org/prop/qualifier/" xmlns:pqv="https://balaghabase.org/prop/qualifier/value/" xmlns:pqn="https://balaghabase.org/prop/qualifier/value-normalized/" xmlns:pr="https://balaghabase.org/prop/reference/" xmlns:prv="https://balaghabase.org/prop/reference/value/" xmlns:prn="https://balaghabase.org/prop/reference/value-normalized/" xmlns:wdno="https://balaghabase.org/prop/novalue/">
+	<rdf:Description rdf:about="https://balaghabase.org/wiki/Special:EntityData/Q6">
+		<rdf:type rdf:resource="http://schema.org/Dataset"/>
+		<schema:about rdf:resource="https://balaghabase.org/entity/Q6"/>
+		<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+		<schema:softwareVersion>1.0.0</schema:softwareVersion>
+		<schema:version rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4063</schema:version>
+		<schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-20T07:14:28Z</schema:dateModified>
+		<wikibase:statements rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</wikibase:statements>
+		<wikibase:sitelinks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</wikibase:sitelinks>
+		<wikibase:identifiers rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</wikibase:identifiers>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<wdt:P5 rdf:resource="https://balaghabase.org/entity/Q7"/>
+		<wdt:P2 rdf:resource="https://balaghabase.org/entity/Q9"/>
+		<wdt:P4 rdf:resource="https://al-balagha.com/wiki/Arabic_Rhetoric"/>
+		<wdt:P10 rdf:resource="https://balaghabase.org/entity/Q36"/>
+		<wdt:P40 rdf:resource="https://balaghabase.org/entity/Q11"/>
+		<wdt:P14 rdf:resource="https://balaghabase.org/entity/Q39"/>
+		<wdt:P6 rdf:resource="https://balaghabase.org/entity/Q3"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q41"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q63"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q67"/>
+		<wdt:P11 rdf:resource="https://balaghabase.org/entity/Q140"/>
+		<wdt:P26 rdf:resource="https://balaghabase.org/entity/Q242"/>
+		<wdt:P68 rdf:resource="https://www.wikidata.org/wiki/Q2119296"/>
+		<wdt:P119 rdf:resource="https://balaghabase.org/entity/Q254"/>
+		<wdt:P119 rdf:resource="https://balaghabase.org/entity/Q259"/>
+		<p:P5 rdf:resource="https://balaghabase.org/entity/statement/Q6-89bfc9e2-4d2e-fe41-4d66-d8993591c7fc"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-89bfc9e2-4d2e-fe41-4d66-d8993591c7fc">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P5 rdf:resource="https://balaghabase.org/entity/Q7"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P2 rdf:resource="https://balaghabase.org/entity/statement/Q6-a6b25c5b-4bc4-da09-a6ad-098762a629c7"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-a6b25c5b-4bc4-da09-a6ad-098762a629c7">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P2 rdf:resource="https://balaghabase.org/entity/Q9"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P4 rdf:resource="https://balaghabase.org/entity/statement/Q6-85cd46d3-40e4-74ee-b454-ada701d2e1fa"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-85cd46d3-40e4-74ee-b454-ada701d2e1fa">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P4 rdf:resource="https://al-balagha.com/wiki/Arabic_Rhetoric"/>
+		<pq:P67 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-10-22T00:00:00Z</pq:P67>
+		<pqv:P67 rdf:resource="https://balaghabase.org/value/14f68766d809c908de1d3426216a2412"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P10 rdf:resource="https://balaghabase.org/entity/statement/Q6-b6954cc0-4144-cf3c-d3da-c38de462beee"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-b6954cc0-4144-cf3c-d3da-c38de462beee">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P10 rdf:resource="https://balaghabase.org/entity/Q36"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P40 rdf:resource="https://balaghabase.org/entity/statement/Q6-5ef708e4-416a-fe94-ae12-830f8fedc279"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-5ef708e4-416a-fe94-ae12-830f8fedc279">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P40 rdf:resource="https://balaghabase.org/entity/Q11"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P14 rdf:resource="https://balaghabase.org/entity/statement/Q6-89bbbb75-41ee-11b8-0d95-d26857e6a205"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-89bbbb75-41ee-11b8-0d95-d26857e6a205">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P14 rdf:resource="https://balaghabase.org/entity/Q39"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P6 rdf:resource="https://balaghabase.org/entity/statement/Q6-9f7ce570-4ef0-a074-ab00-d729ee324015"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-9f7ce570-4ef0-a074-ab00-d729ee324015">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P6 rdf:resource="https://balaghabase.org/entity/Q3"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q6-d08e7d3c-4b89-8bca-af1a-d1ed8d8d2796"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-d08e7d3c-4b89-8bca-af1a-d1ed8d8d2796">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q41"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q6-9e9507c7-4212-e3a9-98ec-e2ff5bd9fd91"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-9e9507c7-4212-e3a9-98ec-e2ff5bd9fd91">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q63"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q6-d6995ed7-47be-8fbb-0b9a-5c692fc28517"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-d6995ed7-47be-8fbb-0b9a-5c692fc28517">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q67"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P11 rdf:resource="https://balaghabase.org/entity/statement/Q6-2b55e3f9-44b1-a1f0-4393-e83743ac8ba9"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-2b55e3f9-44b1-a1f0-4393-e83743ac8ba9">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P11 rdf:resource="https://balaghabase.org/entity/Q140"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P26 rdf:resource="https://balaghabase.org/entity/statement/Q6-c33a8d6e-4f24-426b-565c-c3670eddda70"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-c33a8d6e-4f24-426b-565c-c3670eddda70">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P26 rdf:resource="https://balaghabase.org/entity/Q242"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P68 rdf:resource="https://balaghabase.org/entity/statement/Q6-6444aced-4040-9f46-7e3b-de1113be4bd9"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-6444aced-4040-9f46-7e3b-de1113be4bd9">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P68 rdf:resource="https://www.wikidata.org/wiki/Q2119296"/>
+		<pq:P24 xml:lang="en">Arabic rhetoric is not to be confused with the book &quot;Nahj al-Balagha&quot;.</pq:P24>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P119 rdf:resource="https://balaghabase.org/entity/statement/Q6-04f03e94-40fe-d36a-1464-641a42a49fbb"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-04f03e94-40fe-d36a-1464-641a42a49fbb">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P119 rdf:resource="https://balaghabase.org/entity/Q254"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<p:P119 rdf:resource="https://balaghabase.org/entity/statement/Q6-d02fe864-4dca-ad16-74dc-f93dac5aedf0"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/statement/Q6-d02fe864-4dca-ad16-74dc-f93dac5aedf0">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Statement"/>
+		<rdf:type rdf:resource="http://wikiba.se/ontology#BestRank"/>
+		<wikibase:rank rdf:resource="http://wikiba.se/ontology#NormalRank"/>
+		<ps:P119 rdf:resource="https://balaghabase.org/entity/Q259"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q6">
+		<rdfs:label xml:lang="en">Arabic rhetoric</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic rhetoric</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic rhetoric</schema:name>
+		<rdfs:label xml:lang="ar">البلاغة العربية</rdfs:label>
+		<skos:prefLabel xml:lang="ar">البلاغة العربية</skos:prefLabel>
+		<schema:name xml:lang="ar">البلاغة العربية</schema:name>
+		<schema:description xml:lang="en">branch of Arabic studies concerned with enhancing the effectiveness of communication</schema:description>
+		<skos:altLabel xml:lang="en">balagha</skos:altLabel>
+		<skos:altLabel xml:lang="en">al-balagha</skos:altLabel>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q7">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Arabic studies</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic studies</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic studies</schema:name>
+		<schema:description xml:lang="en">academic study and research related to the Arabs and the Arab world</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P5">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">discipline within</rdfs:label>
+		<skos:prefLabel xml:lang="en">discipline within</skos:prefLabel>
+		<schema:name xml:lang="en">discipline within</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P5"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P5"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P5"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P5"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P5"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P5"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P5"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P5"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P5"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P5">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="5a6c7a576e39dbbe9a035303bd73cd44"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="5a6c7a576e39dbbe9a035303bd73cd44">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P5"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q9">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Communication studies</rdfs:label>
+		<skos:prefLabel xml:lang="en">Communication studies</skos:prefLabel>
+		<schema:name xml:lang="en">Communication studies</schema:name>
+		<schema:description xml:lang="en">academic field that deals with processes of communication</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P2">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">facet of</rdfs:label>
+		<skos:prefLabel xml:lang="en">facet of</skos:prefLabel>
+		<schema:name xml:lang="en">facet of</schema:name>
+		<schema:description xml:lang="en">topic of which this item is an aspect; item that offers a broader perspective on the same topic</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P2"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P2"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P2"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P2"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P2"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P2"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P2"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P2"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P2"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="1f05fece3ad482b53eed1f5510da49fa"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="1f05fece3ad482b53eed1f5510da49fa">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P2"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P4">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">described at URL</rdfs:label>
+		<skos:prefLabel xml:lang="en">described at URL</skos:prefLabel>
+		<schema:name xml:lang="en">described at URL</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Url"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P4"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P4"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P4"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P4"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P4"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P4"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P4"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P4"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P4"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P4">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="c298799f0cd3665c958b9d4edf0ffbf3"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="c298799f0cd3665c958b9d4edf0ffbf3">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P4"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q36">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Literature in Arabic</rdfs:label>
+		<skos:prefLabel xml:lang="en">Literature in Arabic</skos:prefLabel>
+		<schema:name xml:lang="en">Literature in Arabic</schema:name>
+		<schema:description xml:lang="en">written literature of any genre in the Arabic language</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P10">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">used by</rdfs:label>
+		<skos:prefLabel xml:lang="en">used by</skos:prefLabel>
+		<schema:name xml:lang="en">used by</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P10"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P10"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P10"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P10"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P10"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P10"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P10"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P10"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P10"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P10">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="e9c9acebd629135c7f7ccf2b8fa36d11"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="e9c9acebd629135c7f7ccf2b8fa36d11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P10"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q11">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Rhetorical density</rdfs:label>
+		<skos:prefLabel xml:lang="en">Rhetorical density</skos:prefLabel>
+		<schema:name xml:lang="en">Rhetorical density</schema:name>
+		<schema:description xml:lang="en">quantitative linguistics metric for measuring rhetorical richness in texts</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P40">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">has quality</rdfs:label>
+		<skos:prefLabel xml:lang="en">has quality</skos:prefLabel>
+		<schema:name xml:lang="en">has quality</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P40"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P40"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P40"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P40"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P40"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P40"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P40"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P40"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P40"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P40">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="af152a90b603ad009005e8ccb4e19421"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="af152a90b603ad009005e8ccb4e19421">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P40"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q39">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Arabic rhetorical device</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic rhetorical device</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic rhetorical device</schema:name>
+		<schema:description xml:lang="en">technique that an author or speaker uses in Arabic with the goal of persuading</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P14">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">uses</rdfs:label>
+		<skos:prefLabel xml:lang="en">uses</skos:prefLabel>
+		<schema:name xml:lang="en">uses</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P14"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P14"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P14"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P14"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P14"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P14"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P14"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P14"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P14"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P14">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="e7666bae864b401d6c92b03c375f947d"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="e7666bae864b401d6c92b03c375f947d">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P14"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q3">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Rhetoric</rdfs:label>
+		<skos:prefLabel xml:lang="en">Rhetoric</skos:prefLabel>
+		<schema:name xml:lang="en">Rhetoric</schema:name>
+		<schema:description xml:lang="en">art of persuasion, one of the three ancient arts of discourse</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P6">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">subclass of</rdfs:label>
+		<skos:prefLabel xml:lang="en">subclass of</skos:prefLabel>
+		<schema:name xml:lang="en">subclass of</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P6"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P6"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P6"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P6"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P6"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P6"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P6"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P6"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P6"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P6">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="756f10bc5f45e99cc0b50f82c4769b77"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="756f10bc5f45e99cc0b50f82c4769b77">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P6"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q41">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Sentence Construction &amp; Syntactical Stylistics (‘ilm al-ma‘ānī)</rdfs:label>
+		<skos:prefLabel xml:lang="en">Sentence Construction &amp; Syntactical Stylistics (‘ilm al-ma‘ānī)</skos:prefLabel>
+		<schema:name xml:lang="en">Sentence Construction &amp; Syntactical Stylistics (‘ilm al-ma‘ānī)</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P11">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">has part</rdfs:label>
+		<skos:prefLabel xml:lang="en">has part</skos:prefLabel>
+		<schema:name xml:lang="en">has part</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P11"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P11"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P11"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P11"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P11"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P11"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P11"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P11"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P11"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P11">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="920e98040780659844ffa720b8f7e53b"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="920e98040780659844ffa720b8f7e53b">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P11"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q63">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Figurative Speech (‘ilm al-bayān)</rdfs:label>
+		<skos:prefLabel xml:lang="en">Figurative Speech (‘ilm al-bayān)</skos:prefLabel>
+		<schema:name xml:lang="en">Figurative Speech (‘ilm al-bayān)</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q67">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Linguistic Embellishments (‘ilm al-badī‘)</rdfs:label>
+		<skos:prefLabel xml:lang="en">Linguistic Embellishments (‘ilm al-badī‘)</skos:prefLabel>
+		<schema:name xml:lang="en">Linguistic Embellishments (‘ilm al-badī‘)</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q140">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Negative Rhetorical Effects</rdfs:label>
+		<skos:prefLabel xml:lang="en">Negative Rhetorical Effects</skos:prefLabel>
+		<schema:name xml:lang="en">Negative Rhetorical Effects</schema:name>
+		<schema:description xml:lang="en">errors in grammar or morphology which reduce the rhetoricity of an Arabic text</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q242">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Works on Arabic rhetoric</rdfs:label>
+		<skos:prefLabel xml:lang="en">Works on Arabic rhetoric</skos:prefLabel>
+		<schema:name xml:lang="en">Works on Arabic rhetoric</schema:name>
+		<schema:description xml:lang="en">bibliography of academic works (books, journal articles, etc.) on the subject of Arabic rhetoric</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P26">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">is subject of</rdfs:label>
+		<skos:prefLabel xml:lang="en">is subject of</skos:prefLabel>
+		<schema:name xml:lang="en">is subject of</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P26"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P26"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P26"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P26"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P26"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P26"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P26"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P26"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P26"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P26">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="5721745dedb17f468dc0b518d91b28b8"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="5721745dedb17f468dc0b518d91b28b8">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P26"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P68">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">different from (URL)</rdfs:label>
+		<skos:prefLabel xml:lang="en">different from (URL)</skos:prefLabel>
+		<schema:name xml:lang="en">different from (URL)</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Url"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P68"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P68"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P68"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P68"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P68"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P68"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P68"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P68"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P68"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P68">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="876f845b5aa9df46c3769410b4980ef2"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="876f845b5aa9df46c3769410b4980ef2">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P68"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q254">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.0</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.0</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.0</schema:name>
+		<schema:description xml:lang="en">version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 17 November 2025</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P119">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">is part of taxonomy</rdfs:label>
+		<skos:prefLabel xml:lang="en">is part of taxonomy</skos:prefLabel>
+		<schema:name xml:lang="en">is part of taxonomy</schema:name>
+		<schema:description xml:lang="en">Arabic rhetorical device taxonomy which includes this item</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#WikibaseItem"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P119"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P119"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P119"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P119"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P119"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P119"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P119"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P119"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P119"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P119">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="7e9eb37ccad804051b2f00855e2cbacb"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="7e9eb37ccad804051b2f00855e2cbacb">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P119"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/Q259">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Item"/>
+		<rdfs:label xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.1</rdfs:label>
+		<skos:prefLabel xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.1</skos:prefLabel>
+		<schema:name xml:lang="en">Arabic Rhetorical Device Taxonomy v0.1.1</schema:name>
+		<schema:description xml:lang="en">version 0.1.0 of the Arabic Rhetorical Device Taxonomy, released on 20 November 2025</schema:description>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P67">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">retrieved</rdfs:label>
+		<skos:prefLabel xml:lang="en">retrieved</skos:prefLabel>
+		<schema:name xml:lang="en">retrieved</schema:name>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Time"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P67"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P67"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P67"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P67"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P67"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P67"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P67"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P67"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P67"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P67">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="fb4af2e463edc3c5bcfdd04432e3ed85"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="fb4af2e463edc3c5bcfdd04432e3ed85">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P67"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/entity/P24">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#Property"/>
+		<rdfs:label xml:lang="en">definition</rdfs:label>
+		<skos:prefLabel xml:lang="en">definition</skos:prefLabel>
+		<schema:name xml:lang="en">definition</schema:name>
+		<schema:description xml:lang="en">Longer descriptive definition of the item, with language tag</schema:description>
+		<wikibase:propertyType rdf:resource="http://wikiba.se/ontology#Monolingualtext"/>
+		<wikibase:directClaim rdf:resource="https://balaghabase.org/prop/direct/P24"/>
+		<wikibase:claim rdf:resource="https://balaghabase.org/prop/P24"/>
+		<wikibase:statementProperty rdf:resource="https://balaghabase.org/prop/statement/P24"/>
+		<wikibase:statementValue rdf:resource="https://balaghabase.org/prop/statement/value/P24"/>
+		<wikibase:qualifier rdf:resource="https://balaghabase.org/prop/qualifier/P24"/>
+		<wikibase:qualifierValue rdf:resource="https://balaghabase.org/prop/qualifier/value/P24"/>
+		<wikibase:reference rdf:resource="https://balaghabase.org/prop/reference/P24"/>
+		<wikibase:referenceValue rdf:resource="https://balaghabase.org/prop/reference/value/P24"/>
+		<wikibase:novalue rdf:resource="https://balaghabase.org/prop/novalue/P24"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/value/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/value/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/value/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/direct/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/statement/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/qualifier/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/reference/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/prop/novalue/P24">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+		<owl:complementOf rdf:nodeID="8eb377f6ea0003a752c5e3eacaf673aa"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="8eb377f6ea0003a752c5e3eacaf673aa">
+		<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+		<owl:onProperty rdf:resource="https://balaghabase.org/prop/direct/P24"/>
+		<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	</rdf:Description>
+	<rdf:Description rdf:about="https://balaghabase.org/value/14f68766d809c908de1d3426216a2412">
+		<rdf:type rdf:resource="http://wikiba.se/ontology#TimeValue"/>
+		<wikibase:timeValue rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-10-22T00:00:00Z</wikibase:timeValue>
+		<wikibase:timePrecision rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</wikibase:timePrecision>
+		<wikibase:timeTimezone rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</wikibase:timeTimezone>
+		<wikibase:timeCalendarModel rdf:resource="http://www.wikidata.org/entity/Q1985727"/>
+	</rdf:Description>
+</rdf:RDF>

@@ -12,7 +12,7 @@ doi: "10.5281/zenodo.17635957"
 
 date-released: "2025-11-20"
 version: "0.1.1"
-url: "https://doi.org/10.5281/zenodo.17635958"
+url: "https://doi.org/10.5281/zenodo.17663490"
 
 preferred-citation:
   type: dataset
@@ -23,4 +23,4 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-6927-6836"
   year: 2025
   version: "0.1.1"
-  url: "https://doi.org/10.5281/zenodo.17635958"
+  url: "https://doi.org/10.5281/zenodo.17663490"

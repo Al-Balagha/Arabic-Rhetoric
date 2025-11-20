@@ -3,6 +3,7 @@
 ### A project of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com)
 
 The systematic, hierarchical classification of **Arabic rhetorical devices** published by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17663490.svg)](https://doi.org/10.5281/zenodo.17663490)
 
 &nbsp;
@@ -126,10 +127,10 @@ The PDF file **[Encyclopedia_of_Arabic_Rhetoric_FULL](Encyclopedia_of_Arabic_Rhe
 &nbsp;
 ### 📖 How to Cite
 **APA:**
-Marathe, M. (2025). Arabic Rhetorical Device Taxonomy (v0.1.1) of the Encyclopedia of Arabic Rhetoric (al-Balagha.com) [Data set]. GitHub. https://doi.org/10.5281/zenodo.17635958
+Marathe, M. (2025). Arabic Rhetorical Device Taxonomy (v0.1.1) of the Encyclopedia of Arabic Rhetoric (al-Balagha.com) [Data set]. GitHub. https://doi.org/10.5281/zenodo.17663490
 
 **Chicago:**
-Marathe, Mandar. 'Arabic Rhetorical Device Taxonomy (v0.1.1) of the Encyclopedia of Arabic Rhetoric (al-Balagha.com)'. Data set, GitHub, 2025. https://doi.org/10.5281/zenodo.17635958
+Marathe, Mandar. 'Arabic Rhetorical Device Taxonomy (v0.1.1) of the Encyclopedia of Arabic Rhetoric (al-Balagha.com)'. Data set, GitHub, 2025. https://doi.org/10.5281/zenodo.17663490
 
 **BibTeX:**
 ```bibtex
@@ -138,7 +139,7 @@ Marathe, Mandar. 'Arabic Rhetorical Device Taxonomy (v0.1.1) of the Encyclopedia
   title = {Arabic Rhetorical Device Taxonomy (v0.1.1) of the Encyclopedia of Arabic Rhetoric (al-Balagha.com)},
   year = {2025},
   version = {0.1.1},
-  url = {https://doi.org/10.5281/zenodo.17635958}
+  url = {https://doi.org/10.5281/zenodo.17663490}
 }
 ```
 

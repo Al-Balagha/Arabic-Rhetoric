@@ -5,6 +5,15 @@
 The systematic, hierarchical classification of **Arabic rhetorical devices** published by the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).
 
 &nbsp;
+## 🚧 In Development (for v0.2.0)
+Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) to preview  the latest developments, which will be incorporated into the future v0.2.0 release of the [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric).
+
+- **2026-02-02**  
+  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction)
+  * Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from A-15: Restriction
+
+
+&nbsp;
 ## 🔢 Changelog
 🏷️ **2025-11-20 - [v0.1.1](https://github.com/Al-Balagha/Arabic-Rhetoric/tree/v0.1.1) (Machine-readable formats added)**  
 This update introduces full machine-readable exports of the Arabic Rhetorical Device Taxonomy to support digital humanities research, linked-data workflows, and reproducible computational analysis.
@@ -59,4 +68,4 @@ PhD Researcher in Arabic Rhetoric | SOAS University of London
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mandar-marathe-uk/) [![ORCID](https://img.shields.io/badge/ORCID-Profile-green.svg)](https://orcid.org/0000-0002-6927-6836) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=w-bT-iYAAAAJ)  
 ---
-_Last updated: 20 November 2025._
+_Last updated: 2 February 2026._

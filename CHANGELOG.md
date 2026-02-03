@@ -10,7 +10,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
 
 - **2026-02**  
   * [Removal of Latin and Greek synonyms for rhetorical devices](https://blog.al-balagha.com/removal-of-latin-greek-synonyms-for-rhetorical-devices/).
-  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction). Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction).
+  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction). Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction). See also: [Qaṣr: A tiny word, a big meaning, and an apology](https://a-deeper-thought.com/qasr-apology).
 
 
 &nbsp;

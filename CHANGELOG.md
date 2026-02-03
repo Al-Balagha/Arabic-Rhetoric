@@ -10,7 +10,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
 
 - **2026-02**  
   * [Removal of all non-Arabic names for rhetorical devices](https://blog.al-balagha.com/removal-of-non-arabic-names-for-rhetorical-devices/).
-  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction). Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from A-15: Restriction.
+  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction). Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction).
 
 
 &nbsp;

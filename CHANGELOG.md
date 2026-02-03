@@ -8,9 +8,9 @@ The systematic, hierarchical classification of **Arabic rhetorical devices** pub
 ## 🚧 In Development (for v0.2.0)
 Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) to preview  the latest developments, which will be incorporated into the future v0.2.0 release of the [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric).
 
-- **2026-02-02**  
-  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction)
-  * Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from A-15: Restriction
+- **2026-02**  
+  * [Removal of all non-Arabic names for rhetorical devices](https://blog.al-balagha.com/removal-of-non-arabic-names-for-rhetorical-devices/).
+  * New device added - [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction). Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from A-15: Restriction.
 
 
 &nbsp;

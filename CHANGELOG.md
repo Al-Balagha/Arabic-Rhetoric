@@ -25,6 +25,9 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
   	* [CG-1: Rhetorical Shift](https://al-balagha.com/wiki/CG-1:_Rhetorical_Shift) from [Domain C: Linguistic Embellishments (‘ilm al-badī‘)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#C) to [Domain A: Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#A), to better reflect its semantic and syntactic mechanisms.<br>&nbsp;
 	* [CG-5: Incorporation of Proverbs](https://al-balagha.com/wiki/CG-5:_Incorporation_of_Proverbs) and [CG-6: Hinting at the Source](https://al-balagha.com/wiki/CG-6:_Hinting_at_the_Source) from [Argumentation & Illustrative Persuasion](https://al-balagha.com/wiki/Category:Argumentation_%26_Illustrative_Persuasion) to [Intertextuality](https://al-balagha.com/wiki/Category:Intertextuality) due to better alignment with shared semantic and syntactic mechanisms in that category.<br>&nbsp;
 
+  * **Renamed**
+	* [CG-6: Hinting at the Source](https://al-balagha.com/wiki/CG-6:_Hinting_at_the_Source) to [ALLUSN: Allusion](https://al-balagha.com/wiki/ALLUSN:_Allusion) to avoid confusion with [B-6: Hinting](https://al-balagha.com/wiki/B-6:_Hinting).<br>&nbsp;
+
   * **Removed**
   	* [Latin and Greek synonyms for rhetorical devices](https://blog.al-balagha.com/removal-of-latin-greek-synonyms-for-rhetorical-devices/).<br>&nbsp;
 

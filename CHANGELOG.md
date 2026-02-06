@@ -27,6 +27,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
 
   * **Renamed**
 	* [CG-6: Hinting at the Source](https://al-balagha.com/wiki/CG-6:_Hinting_at_the_Source) to [ALLUSN: Allusion](https://al-balagha.com/wiki/ALLUSN:_Allusion) to avoid confusion with [B-6: Hinting](https://al-balagha.com/wiki/B-6:_Hinting).<br>&nbsp;
+	* [B-6: Hinting](https://al-balagha.com/wiki/B-6:_Hinting) to [INDIRCT: Indirect Address](https://al-balagha.com/wiki/INDIRCT:_Indirect_Address) to avoid confusion with [CG-6: Hinting at the Source](https://al-balagha.com/wiki/CG-6:_Hinting_at_the_Source).<br>&nbsp;
 
   * **Removed**
   	* [Latin and Greek synonyms for rhetorical devices](https://blog.al-balagha.com/removal-of-latin-greek-synonyms-for-rhetorical-devices/).<br>&nbsp;

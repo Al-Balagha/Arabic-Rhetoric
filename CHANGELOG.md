@@ -6,7 +6,7 @@ The systematic, hierarchical classification of **Arabic rhetorical devices** pub
 
 &nbsp;
 ## 🚧 In Development (for v0.2.0)
-Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) to preview  the latest developments, which will be incorporated into the future v0.2.0 release of the [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric).
+Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) to preview  the latest developments, which will be incorporated into the future v0.2.0 release of the [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric). The v0.2.0 release will focus on increased analytical granularity, clearer domain boundaries, and improved annotation readiness.
 
 - **2026-02**
   * **Added**

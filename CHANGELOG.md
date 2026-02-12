@@ -13,6 +13,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
   	* [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction) which was previously missing from the Taxonomy.<br>Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction).<br>See also: [Qaṣr: A tiny word, a big meaning, and an apology](https://a-deeper-thought.com/qasr-apology).<br>&nbsp;
   	* [ASTONSH: Astonishment](https://al-balagha.com/wiki/ASTONSH:_Astonishment) which was previously missing from the Taxonomy.<br>&nbsp;
 	* "Oaths" added as a type of [A-2: Affirmation](https://al-balagha.com/wiki/A-2:_Affirmation).<br>&nbsp;
+    * "Page history" to every rhetorical device page to provide a summary of the page's development.<br>&nbsp;
 
   * **Split**
 	* [Domain A: Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#A) into four thematic subcategories: [(1) Sentence-Type Switches](https://al-balagha.com/wiki/Category:Sentence-Type_Switches), [(2) Referential Switches](https://al-balagha.com/wiki/Category:Referential_Switches), [(3) Information Flow & Sequencing](https://al-balagha.com/wiki/Category:Information_Flow_%26_Sequencing), and [(4) Textual Additions & Omissions](https://al-balagha.com/wiki/Category:Textual_Additions_%26_Omissions).<br>&nbsp;

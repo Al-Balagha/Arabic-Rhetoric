@@ -32,6 +32,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
 
 	* [CG-6: Hinting at the Source](https://al-balagha.com/wiki/CG-6:_Hinting_at_the_Source) to [ALLUSN: Allusion](https://al-balagha.com/wiki/ALLUSN:_Allusion) to avoid confusion with [B-6: Hinting](https://al-balagha.com/wiki/B-6:_Hinting).<br>&nbsp;
 	* [B-6: Hinting](https://al-balagha.com/wiki/B-6:_Hinting) to [INDIRCT: Indirect Address](https://al-balagha.com/wiki/INDIRCT:_Indirect_Address) to avoid confusion with [CG-6: Hinting at the Source](https://al-balagha.com/wiki/CG-6:_Hinting_at_the_Source).<br>&nbsp;
+    * The alphanumeric identifier of every device was migrated to a semantic identifier.<br>See [Migration to Semantic Device Identifiers](https://doi.org/10.64393/balagha.semantic.ID) for background and more information.<br>The [mapping file](https://github.com/Al-Balagha/Arabic-Rhetoric/raw/refs/heads/main/updates/2026_02_10-Migration_to_Semantic_Device_Identifiers-Mapping.xlsx) provides a full mapping between old and new identifiers.<br>&nbsp;
 
   * **Removed**
   	* [Latin and Greek synonyms for rhetorical devices](https://blog.al-balagha.com/removal-of-latin-greek-synonyms-for-rhetorical-devices/).<br>&nbsp;

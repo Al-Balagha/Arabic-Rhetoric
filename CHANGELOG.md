@@ -40,6 +40,8 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
   * **Removed**
   	* [Latin and Greek synonyms for rhetorical devices](https://blog.al-balagha.com/removal-of-latin-greek-synonyms-for-rhetorical-devices/).<br>&nbsp;
     * "[About the Encyclppedia of Arabic Rhetoric](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric:About)" as the information has been expanded upon, and included in two new pages: "[Design Principles of the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric)" and "[Principles for Identifying Arabic Rhetorical Devices with the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Principles_for_Identifying_Arabic_Rhetorical_Devices_with_the_Encyclopedia_of_Arabic_Rhetoric)".<br>&nbsp;
+    * [REPVAR: Repetition With Varied Phrasing](https://al-balagha.com/wiki/REPVAR:_Repetition_With_Varied_Phrasing) will be incorporated into [VERBOS: Verbosity](https://al-balagha.com/wiki/VERBOS:_Verbosity) due to their similar and overlapping mechanisms.<br>&nbsp;
+    * [UNIEXPR: Unifying_Expression](https://al-balagha.com/wiki/UNIEXPR:_Unifying_Expression) will be incorporated into [METAPH: Metaphor](https://al-balagha.com/wiki/METAPH:_Metaphor) due to their similar and overlapping mechanisms.<br>&nbsp;
 
 
 &nbsp;

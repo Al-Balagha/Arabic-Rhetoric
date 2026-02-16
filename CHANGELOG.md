@@ -16,6 +16,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
     * "Page history" to every rhetorical device page to provide a summary of the page's development.<br>&nbsp;
     * New page - "[Design Principles of the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric)".<br>&nbsp;
     * New page - "[Principles for Identifying Arabic Rhetorical Devices with the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Principles_for_Identifying_Arabic_Rhetorical_Devices_with_the_Encyclopedia_of_Arabic_Rhetoric)".<br>&nbsp;
+    * New page - "[Compound Devices](https://al-balagha.com/wiki/Compound_Devices)" to define and list compound rhetorical devices.<br>&nbsp;
 
   * **Split**
 	* [Domain A: Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#A) into four thematic subcategories: [(1) Sentence-Type Switches](https://al-balagha.com/wiki/Category:Sentence-Type_Switches), [(2) Referential Switches](https://al-balagha.com/wiki/Category:Referential_Switches), [(3) Information Flow & Sequencing](https://al-balagha.com/wiki/Category:Information_Flow_%26_Sequencing), and [(4) Textual Additions & Omissions](https://al-balagha.com/wiki/Category:Textual_Additions_%26_Omissions).<br>&nbsp;

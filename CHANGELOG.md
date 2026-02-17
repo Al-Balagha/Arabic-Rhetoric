@@ -17,6 +17,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
     * New page - "[Design Principles of the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric)".<br>&nbsp;
     * New page - "[Principles for Identifying Arabic Rhetorical Devices with the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Principles_for_Identifying_Arabic_Rhetorical_Devices_with_the_Encyclopedia_of_Arabic_Rhetoric)".<br>&nbsp;
     * New page - "[Compound Devices](https://al-balagha.com/wiki/Compound_Devices)" to define and list compound rhetorical devices.<br>&nbsp;
+    * New page - "[Excluded Devices](https://al-balagha.com/wiki/Excluded_Devices)" to list candidates devices which have been excluded from the Encyclopedia of Arabic Rhetoric as they did not meet the  [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;
 
   * **Split**
 	* [Domain A: Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#A) into four thematic subcategories: [(1) Sentence-Type Switches](https://al-balagha.com/wiki/Category:Sentence-Type_Switches), [(2) Referential Switches](https://al-balagha.com/wiki/Category:Referential_Switches), [(3) Information Flow & Sequencing](https://al-balagha.com/wiki/Category:Information_Flow_%26_Sequencing), and [(4) Textual Additions & Omissions](https://al-balagha.com/wiki/Category:Textual_Additions_%26_Omissions).<br>&nbsp;
@@ -48,7 +49,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
     * [REPVAR: Repetition With Varied Phrasing](https://al-balagha.com/wiki/REPVAR:_Repetition_With_Varied_Phrasing) will be incorporated into [VERBOS: Verbosity](https://al-balagha.com/wiki/VERBOS:_Verbosity) due to their similar and overlapping mechanisms.<br>&nbsp;
     * [UNIEXPR: Unifying_Expression](https://al-balagha.com/wiki/UNIEXPR:_Unifying_Expression) will be incorporated into [METAPH: Metaphor](https://al-balagha.com/wiki/METAPH:_Metaphor) due to their similar and overlapping mechanisms.<br>&nbsp;
     * [SARCASM: Sarcasm](https://al-balagha.com/wiki/SARCASM:_Sarcasm) to align with [The Encyclopedia Uses a Mechanism-First Typology](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Principle_2:_The_Encyclopedia_Uses_a_Mechanism-First_Typology).<br>&nbsp;
-
+    * [IMAGERY: Integration of Imagery](https://al-balagha.com/wiki/EMBED:_Semantic_Embedding) to align with the Encyclopedia of Arabic Rhetoric's [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;
 
 &nbsp;
 ## 🔢 Changelog

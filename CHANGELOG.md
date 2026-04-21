@@ -49,7 +49,7 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
     * [REPVAR: Repetition With Varied Phrasing](https://al-balagha.com/wiki/REPVAR:_Repetition_With_Varied_Phrasing) will be incorporated into [VERBOS: Verbosity](https://al-balagha.com/wiki/VERBOS:_Verbosity) due to their similar and overlapping mechanisms.<br>&nbsp;
     * [UNIEXPR: Unifying_Expression](https://al-balagha.com/wiki/UNIEXPR:_Unifying_Expression) will be incorporated into [METAPH: Metaphor](https://al-balagha.com/wiki/METAPH:_Metaphor) due to their similar and overlapping mechanisms.<br>&nbsp;
     * [SARCASM: Sarcasm](https://al-balagha.com/wiki/SARCASM:_Sarcasm) to align with [The Encyclopedia Uses a Mechanism-First Typology](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Principle_2:_The_Encyclopedia_Uses_a_Mechanism-First_Typology).<br>&nbsp;
-    * [IMAGERY: Integration of Imagery](https://al-balagha.com/wiki/EMBED:_Semantic_Embedding) to align with the Encyclopedia of Arabic Rhetoric's [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;
+    * [IMAGERY: Integration of Imagery](https://al-balagha.com/wiki/EMBED:_Semantic_Embedding) and [CONCESS: Rhetorical Concession](https://al-balagha.com/wiki/CONCESS:_Rhetorical_Concession) to align with the Encyclopedia of Arabic Rhetoric's [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;
 
 &nbsp;
 ## 🔢 Changelog

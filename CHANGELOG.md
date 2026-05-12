@@ -8,7 +8,7 @@ The systematic, hierarchical classification of **Arabic rhetorical devices** pub
 ## 🚧 In Development (for v0.2.0)
 Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) to preview  the latest developments, which will be incorporated into the future v0.2.0 release of the [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric). The v0.2.0 release will focus on increased analytical granularity, clearer domain boundaries, and improved annotation readiness.
 
-- **2026-02**
+- **2026-02 to 2026-05**
   * **Added**
   	* [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction) which was previously missing from the Taxonomy.<br>Updated [CH-6: Affirmation by Negation](https://al-balagha.com/wiki/CH-6:_Affirmation_by_Negation) to reflect the difference from [A-15: Restriction](https://al-balagha.com/wiki/A-15:_Restriction).<br>See also: [Qaṣr: A tiny word, a big meaning, and an apology](https://a-deeper-thought.com/qasr-apology).<br>&nbsp;
   	* [ASTONSH: Astonishment](https://al-balagha.com/wiki/ASTONSH:_Astonishment) which was previously missing from the Taxonomy.<br>&nbsp;
@@ -18,6 +18,8 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
     * New page - "[Principles for Identifying Arabic Rhetorical Devices with the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Principles_for_Identifying_Arabic_Rhetorical_Devices_with_the_Encyclopedia_of_Arabic_Rhetoric)".<br>&nbsp;
     * New page - "[Compound Devices](https://al-balagha.com/wiki/Compound_Devices)" to define and list compound rhetorical devices.<br>&nbsp;
     * New page - "[Excluded Devices](https://al-balagha.com/wiki/Excluded_Devices)" to list candidates devices which have been excluded from the Encyclopedia of Arabic Rhetoric as they did not meet the  [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;
+    * New page - "[Disambiguation page for Grouping & Distinguishing devices](https://al-balagha.com/wiki/Disambiguation_page_for_Grouping_%26_Distinguishing_devices)" - analytical tools to help disambiguate the seven "[Grouping and Distinguishing](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#Grouping_&_Distinguishing)" rhetorical devices according to their primary operative mechanisms<br>&nbsp;
+    * New page - "[Disambiguation page for Figurative Speech (‘ilm al-bayān)](https://al-balagha.com/wiki/Disambiguation_page_for_Figurative_Speech_(%E2%80%98ilm_al-bay%C4%81n))" - analytical tools to help disambiguate the six "[Figurative Speech (‘ilm al-bayān)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#B)" rhetorical devices according to their primary operative mechanisms<br>&nbsp;
 
   * **Split**
 	* [Domain A: Sentence Construction & Syntactical Stylistics (‘ilm al-ma‘ānī)](https://al-balagha.com/wiki/Encyclopedia_of_Arabic_Rhetoric#A) into four thematic subcategories: [(1) Sentence-Type Switches](https://al-balagha.com/wiki/Category:Sentence-Type_Switches), [(2) Referential Switches](https://al-balagha.com/wiki/Category:Referential_Switches), [(3) Information Flow & Sequencing](https://al-balagha.com/wiki/Category:Information_Flow_%26_Sequencing), and [(4) Textual Additions & Omissions](https://al-balagha.com/wiki/Category:Textual_Additions_%26_Omissions).<br>&nbsp;

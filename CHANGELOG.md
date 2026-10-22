@@ -8,7 +8,7 @@ The systematic, hierarchical classification of **Arabic rhetorical devices** pub
 ## 🚧 In Development (for v0.2.0)
 Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) to preview  the latest developments, which will be incorporated into the future v0.2.0 release of the [Arabic Rhetorical Device Taxonomy](https://github.com/Al-Balagha/Arabic-Rhetoric). The v0.2.0 release will focus on increased analytical granularity, clearer domain boundaries, and improved annotation readiness.
 
-- **2026-02 to 2026-08**
+- **2026-02 to 2026-10**
   * **Added**
     * New page - "[Model for Rhetorical Action](https://doi.org/10.64393/balagha.model.rhetorical.action)", which serves as the epistemological and analytical theoretical framework of the [Encyclopedia of Arabic Rhetoric](https://al-balagha.com).<br>&nbsp;
     * New page - "[Design Principles of the Encyclopedia of Arabic Rhetoric](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric)", a systematic and operational framework for the definition, classification, and analysis of Arabic rhetorical devices, which is grounded in classical sources, but which is structured for analytical and computational use.<br>&nbsp;
@@ -73,7 +73,14 @@ Please visit the live [Encyclopedia of Arabic Rhetoric](https://al-balagha.com) 
 	* [STARTFN: Similarities of the Start & Finish](https://al-balagha.com/wiki/STARTFN:_Similarities_of_the_Start_%26_Finish) merged with  [HDTAIL: Head-Tail](https://al-balagha.com/wiki/HDTAIL:_Head-Tail) due to their similar and overlapping mechanims.<br>&nbsp;
     * [FIGANLG: Figurative Analogy](https://al-balagha.com/wiki/FIGANLG:_Figurative_Analogy) incorporated into [METAPH: Metaphor](https://al-balagha.com/wiki/METAPH:_Metaphor#tamthil) and [SIMILE: Simile](https://al-balagha.com/wiki/SIMILE:_Simile) due to overlapping mechanisms.<br>&nbsp;
     * [SARCASM: Sarcasm](https://al-balagha.com/wiki/SARCASM:_Sarcasm) to align with [The Encyclopedia Uses a Mechanism-First Typology](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Principle_2:_The_Encyclopedia_Uses_a_Mechanism-First_Typology).<br>&nbsp;
-    * [IMAGERY: Integration of Imagery](https://al-balagha.com/wiki/EMBED:_Semantic_Embedding), [STACKED: Stacked-up Descriptions](https://al-balagha.com/wiki/STACKED:_Stacked-up_Descriptions), and [CONCESS: Rhetorical Concession](https://al-balagha.com/wiki/CONCESS:_Rhetorical_Concession) to align with the Encyclopedia of Arabic Rhetoric's [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;<span id="test"></span>
+    * [IMAGERY: Integration of Imagery](https://al-balagha.com/wiki/EMBED:_Semantic_Embedding), [STACKED: Stacked-up Descriptions](https://al-balagha.com/wiki/STACKED:_Stacked-up_Descriptions), and [CONCESS: Rhetorical Concession](https://al-balagha.com/wiki/CONCESS:_Rhetorical_Concession) to align with the Encyclopedia of Arabic Rhetoric's [Inclusion Criteria](https://al-balagha.com/wiki/Design_Principles_of_the_Encyclopedia_of_Arabic_Rhetoric#Inclusion_Criteria).<br>&nbsp;
+	* <span id="removal_negative_effects"></span> The [Negative Rhetorical Effects](https://al-balagha.com/wiki/Category:Negative_Rhetorical_Effects) category. The evidential basis for this category in the classical Arabic rhetorical sources was found to be insufficiently developed and inconsistent for reliable annotation. Its removal does not imply that these negative rhetorical effects do not exist, but that their systematic classification requires further research. The category contained six aspects which reduced the rhetorical quality of a text:
+  		* [LOANWRD: Loanwords](https://al-balagha.com/wiki/LOANWRD:_Loanwords)
+    	* [LEXERR: Lexical Errors](https://al-balagha.com/wiki/LEXERR:_Lexical_Errors)
+     	* [LINGERR: Linguistic Errors](https://al-balagha.com/wiki/LINGERR:_Linguistic_Errors)
+      	* [PHONINC: Phonetic Incongruity](https://al-balagha.com/wiki/PHONINC:_Phonetic_Incongruity)
+      	* [UNFAMLR: Unfamiliar Usage](https://al-balagha.com/wiki/UNFAMLR:_Unfamiliar_Usage)
+      	* [INAPPR: Use of Inappropriate Linguistic Style or Register](https://al-balagha.com/wiki/INAPPR:_Use_of_Inappropriate_Linguistic_Style_or_Register).
     
 &nbsp;
 ## 🔢 Changelog
